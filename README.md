@@ -181,6 +181,7 @@ in your favourite language.*
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
+* [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018/)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
