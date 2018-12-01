@@ -155,6 +155,7 @@ in your favourite language.*
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
+* [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
 
 #### Kotlin
 
