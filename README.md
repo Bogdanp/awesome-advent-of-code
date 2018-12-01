@@ -12,6 +12,7 @@ This is a collection of awesome resources related to the yearly
   * [Solutions](#solutions)
     * [C#](#c-sharp)
     * [C++](#c-plus-plus)
+    * [Dart](#dart)
     * [Elixir](#elixir)
     * [F#](#f-sharp)
     * [Go](#go)
@@ -21,6 +22,7 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [Polyglot](#polyglot)
     * [Pony](#pony)
     * [Python](#python)
     * [Racket](#racket)
@@ -64,6 +66,12 @@ in your favourite language.*
 * [LukeMoll/adventofcode2018](https://github.com/LukeMoll/adventofcode2018)
 * [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018)
 
+#### Dart
+
+*Solutions to AoC in Dart.*
+
+* [code-shoily/advent-of-dart](https://github.com/code-shoily/advent-of-dart)
+
 #### Elixir
 
 *Solutions to AoC in Elixir.*
@@ -99,6 +107,7 @@ in your favourite language.*
 
 *Solutions to AoC in Haskell.*
 
+* [ephemient/aoc2018](https://github.com/ephemient/aoc2018)
 * [glguy/advent2018](https://github.com/glguy/advent2018)
 * [mstksg/advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018)
 * [nerdopoly/aoc-2018](https://github.com/nerdopoly/aoc-2018)
@@ -133,6 +142,12 @@ in your favourite language.*
 
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
 
+#### Polyglot
+
+*Solutions to AoC in multiple languages.*
+
+* [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
+
 #### Pony
 
 *Solutions to AoC in Pony.*
@@ -154,6 +169,7 @@ in your favourite language.*
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
+* [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
 
 #### Racket
 
