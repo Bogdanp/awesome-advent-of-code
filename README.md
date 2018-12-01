@@ -198,6 +198,7 @@ in your favourite language.*
 *Solutions to AoC in Racket.*
 
 * [Bogdanp/racket-aoc-2018](https://github.com/Bogdanp/racket-aoc-2018)
+* [CuriousYogurt/AdventOfCode](https://github.com/curiousyogurt/AdventOfCode)
 * [Saityi/advent-of-code-2018](https://github.com/Saityi/advent-of-code-2018)
 
 #### Ruby
