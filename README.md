@@ -88,16 +88,16 @@ in your favourite language.*
 
 *Solutions to AoC in Elm and Literate Elm.*
 
-* [jwoLondon/adventOfCode](https://github.com/jwoLondon/adventOfCode/)
 * [Janiczek/advent-of-code](https://github.com/Janiczek/advent-of-code)
+* [jwoLondon/adventOfCode](https://github.com/jwoLondon/adventOfCode/)
 
 #### F#
 
 *Solutions to AoC in F#.*
 
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode)
-* [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code)
 * [andreasjhkarlsson/aoc-2018](https://github.com/andreasjhkarlsson/aoc-2018)
+* [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code)
 
 ### Go
 
@@ -204,13 +204,13 @@ in your favourite language.*
 
 *Solutions to AoC in Rust.*
 
+* [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
 * [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
-* [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 
 #### Scala
 
