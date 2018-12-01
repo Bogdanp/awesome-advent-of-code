@@ -30,7 +30,7 @@ This is a collection of awesome resources related to the yearly
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
-    * [Switft](#swift)
+    * [Swift](#swift)
   * [Live Streams](#live-streams)
 
 ---
