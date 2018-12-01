@@ -11,6 +11,7 @@ This is a collection of awesome resources related to the yearly
 * [2018](#2018)
   * [Solutions](#solutions)
     * [C#](#c-sharp)
+    * [C++](#c-plus-plus)
     * [Elixir](#elixir)
     * [F#](#f-sharp)
     * [Go](#go)
@@ -19,10 +20,12 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [Pony](#pony)
     * [Python](#python)
     * [Racket](#racket)
     * [Ruby](#ruby)
     * [Rust](#rust)
+    * [Scala](#scala)
     * [Switft](#swift)
   * [Live Streams](#live-streams)
 
@@ -46,13 +49,25 @@ in your favourite language.*
 *Solutions to AoC in C#.*
 
 * [myquay/AOC2018](https://github.com/myquay/AOC2018)
+* [schoradt/adventofcode2018](https://github.com/schoradt/adventofcode2018)
+
+#### C++
+
+*Solutions to AoC in C++.*
+
+* [132ikl/advent-of-code-2018](https://github.com/132ikl/advent-of-code-2018)
+* [Chrinkus/advent-of-code-2018](https://github.com/Chrinkus/advent-of-code-2018)
+* [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018)
 
 #### Elixir
 
 *Solutions to AoC in Elixir.*
 
 * [axsuul/advent-of-code](https://github.com/axsuul/advent-of-code)
+* [codybartfast/aoc18](https://github.com/codybartfast/aoc18)
+* [kw7oe/advent-of-code-2018](https://github.com/kw7oe/advent-of-code-2018)
 * [scmx/advent-of-code-2018-elixir](https://github.com/scmx/advent-of-code-2018-elixir)
+* [seanhandley/adventofcode2018](https://github.com/seanhandley/adventofcode2018)
 
 #### F#
 
@@ -106,15 +121,26 @@ in your favourite language.*
 
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
 
+#### Pony
+
+*Solutions to AoC in Pony.*
+
+* [kulibali/advent_of_code_2018](https://github.com/kulibali/advent_of_code_2018)
+
 #### Python
 
 *Solutions to AoC in Python.*
 
+* [LinusCDE/AdventOfCode2018](https://github.com/LinusCDE/AdventOfCode2018)
 * [ahriley/advent-of-code-2018](https://github.com/ahriley/advent-of-code-2018)
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
+* [bookwyrm12/adventofcode2018](https://github.com/bookwyrm12/adventofcode2018)
 * [danong/advent-of-code-2018](https://github.com/danong/advent-of-code-2018)
+* [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
+* [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
+* [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
 
 #### Racket
@@ -129,19 +155,31 @@ in your favourite language.*
 *Solutions to AoC in Ruby.*
 
 * [chemturion/advent-of-code-2018](https://github.com/chemturion/advent-of-code-2018)
+* [nipinium/aoc18](https://github.com/nipinium/aoc18)
 
 #### Rust
 
 *Solutions to AoC in Rust.*
 
+* [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
+* [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
+
+#### Scala
+
+*Solutions to AoC in Scala.*
+
+* [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code)
+* [FlorianCassayre/AdventOfCode-2018](https://github.com/FlorianCassayre/AdventOfCode-2018)
+* [nbardiuk/adventofcode](https://github.com/nbardiuk/adventofcode)
 
 #### Swift
 
 *Solutions to AoC in Swift.*
 
-* [davedelong/AOC](https://github.com/davedelong/AOC)
+* [HarshilShah/AdventOfCode](https://github.com/HarshilShah/AdventOfCode)
 * [Levivig/AdventOfCode2018](https://github.com/Levivig/AdventOfCode2018)
+* [davedelong/AOC](https://github.com/davedelong/AOC)
 
 ### Live Streams
 
