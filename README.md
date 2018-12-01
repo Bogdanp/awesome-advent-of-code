@@ -194,6 +194,7 @@ in your favourite language.*
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
+* [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
 
 #### Scala
 
