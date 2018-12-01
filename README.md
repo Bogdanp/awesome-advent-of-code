@@ -123,6 +123,7 @@ in your favourite language.*
 *Solutions to AoC in JavaScript.*
 
 * [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018)
+* [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
@@ -183,6 +184,7 @@ in your favourite language.*
 *Solutions to AoC in Ruby.*
 
 * [chemturion/advent-of-code-2018](https://github.com/chemturion/advent-of-code-2018)
+* [dnamsons/Advent-of-Code-2018](https://github.com/dnamsons/Advent-of-Code-2018)
 * [nipinium/aoc18](https://github.com/nipinium/aoc18)
 
 #### Rust
