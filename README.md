@@ -124,6 +124,7 @@ in your favourite language.*
 
 * [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018)
 * [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018)
+* [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
@@ -141,6 +142,7 @@ in your favourite language.*
 
 *Solutions to AoC in Nim.*
 
+* [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
 
 #### Polyglot
@@ -192,9 +194,9 @@ in your favourite language.*
 *Solutions to AoC in Rust.*
 
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
+* [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
-* [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
 
 #### Scala
 
