@@ -14,6 +14,7 @@ This is a collection of awesome resources related to the yearly
     * [C++](#c-plus-plus)
     * [Dart](#dart)
     * [Elixir](#elixir)
+    * [Elm](#elm)
     * [F#](#f-sharp)
     * [Go](#go)
     * [Groovy](#groovy)
@@ -82,6 +83,13 @@ in your favourite language.*
 * [kw7oe/advent-of-code-2018](https://github.com/kw7oe/advent-of-code-2018)
 * [scmx/advent-of-code-2018-elixir](https://github.com/scmx/advent-of-code-2018-elixir)
 * [seanhandley/adventofcode2018](https://github.com/seanhandley/adventofcode2018)
+
+#### Elm
+
+*Solutions to AoC in Elm and Literate Elm.*
+
+* [jwoLondon/adventOfCode](https://github.com/jwoLondon/adventOfCode/)
+* [Janiczek/advent-of-code](https://github.com/Janiczek/advent-of-code)
 
 #### F#
 
