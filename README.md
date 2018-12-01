@@ -30,7 +30,8 @@ This is a collection of awesome resources related to the yearly
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
-    * [Swift](#swift)
+    * [Switft](#swift)
+    * [Zig](#zig)
   * [Live Streams](#live-streams)
 
 ---
@@ -136,7 +137,6 @@ in your favourite language.*
 
 *Solutions to AoC in JavaScript.*
 
-* [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode)
 * [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018)
 * [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018)
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
@@ -213,12 +213,12 @@ in your favourite language.*
 * [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
-* [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018)
 * [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
-* [maxdeviant/advent-of-code](https://github.com/maxdeviant/advent-of-code)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
+* [maxdeviant/advent-of-code](https://github.com/maxdeviant/advent-of-code)
+* [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018)
 
 #### Scala
 
@@ -235,6 +235,12 @@ in your favourite language.*
 * [HarshilShah/AdventOfCode](https://github.com/HarshilShah/AdventOfCode)
 * [Levivig/AdventOfCode2018](https://github.com/Levivig/AdventOfCode2018)
 * [davedelong/AOC](https://github.com/davedelong/AOC)
+
+#### Zig
+
+*Solutions to AoC in Zig.*
+
+* [meheleventyone/aoc-2018-zig](https://github.com/meheleventyone/aoc-2018-zig)
 
 ### Live Streams
 
