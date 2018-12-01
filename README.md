@@ -60,6 +60,7 @@ in your favourite language.*
 * [myquay/AOC2018](https://github.com/myquay/AOC2018)
 * [schoradt/adventofcode2018](https://github.com/schoradt/adventofcode2018)
 * [tomwallace/AdventOfCode2018](https://github.com/tomwallace/AdventOfCode2018)
+* [encse/adventofcode](https://github.com/encse/adventofcode)
 
 #### C++
 
