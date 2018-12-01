@@ -97,6 +97,7 @@ in your favourite language.*
 
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode)
 * [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code)
+* [andreasjhkarlsson/aoc-2018](https://github.com/andreasjhkarlsson/aoc-2018)
 
 ### Go
 
