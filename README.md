@@ -143,6 +143,7 @@ in your favourite language.*
 *Solutions to AoC in Java.*
 
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018)
+* [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018)
 
 #### JavaScript
 
