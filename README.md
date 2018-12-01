@@ -75,8 +75,8 @@ in your favourite language.*
 
 *Solutions to AoC in Clojure.*
 
-* [adventofcode-clojurians](https://github.com/adventofcode-clojurians/adventofcode-clojurians)
-* [advent-of-cljc](https://github.com/borkdude/advent-of-cljc) - Cross-platform Clojure(script) solutions
+* [adventofcode-clojurians/adventofcode-clojurians](https://github.com/adventofcode-clojurians/adventofcode-clojurians)
+* [borkdude/advent-of-cljc](https://github.com/borkdude/advent-of-cljc) - Cross-platform Clojure(script) solutions
 
 #### Dart
 
