@@ -71,6 +71,7 @@ in your favourite language.*
 *Solutions to AoC in Dart.*
 
 * [code-shoily/advent-of-dart](https://github.com/code-shoily/advent-of-dart)
+* [julemand101/AdventOfCode2018](https://github.com/julemand101/AdventOfCode2018)
 
 #### Elixir
 
@@ -195,9 +196,10 @@ in your favourite language.*
 
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
+* [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
-* [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
+* [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 
 #### Scala
 
