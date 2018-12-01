@@ -71,6 +71,7 @@ in your favourite language.*
 *Solutions to AoC in Dart.*
 
 * [code-shoily/advent-of-dart](https://github.com/code-shoily/advent-of-dart)
+* [julemand101/AdventOfCode2018](https://github.com/julemand101/AdventOfCode2018)
 
 #### Elixir
 
@@ -96,6 +97,7 @@ in your favourite language.*
 * [feffes/adventofcode2018](https://github.com/feffes/adventofcode2018)
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
+* [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
 
 #### Groovy
 
@@ -195,9 +197,11 @@ in your favourite language.*
 
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
+* [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
+* [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 
 #### Scala
 
