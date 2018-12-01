@@ -68,6 +68,7 @@ in your favourite language.*
 * [Chrinkus/advent-of-code-2018](https://github.com/Chrinkus/advent-of-code-2018)
 * [LukeMoll/adventofcode2018](https://github.com/LukeMoll/adventofcode2018)
 * [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018)
+* [metinsuloglu/AdventofCode18](https://github.com/metinsuloglu/AdventofCode18)
 
 #### Dart
 
