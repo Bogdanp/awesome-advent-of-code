@@ -154,6 +154,7 @@ in your favourite language.*
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
+* [SeanECogan/advent-of-code-2018](https://github.com/SeanECogan/advent-of-code-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
