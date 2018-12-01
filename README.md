@@ -15,6 +15,7 @@ This is a collection of awesome resources related to the yearly
     * [Elixir](#elixir)
     * [F#](#f-sharp)
     * [Go](#go)
+    * [Groovy](#groovy)
     * [Haskell](#haskell)
     * [Java](#java)
     * [JavaScript](#javascript)
@@ -50,6 +51,7 @@ in your favourite language.*
 
 * [myquay/AOC2018](https://github.com/myquay/AOC2018)
 * [schoradt/adventofcode2018](https://github.com/schoradt/adventofcode2018)
+* [tomwallace/AdventOfCode2018](https://github.com/tomwallace/AdventOfCode2018)
 
 #### C++
 
@@ -57,6 +59,7 @@ in your favourite language.*
 
 * [132ikl/advent-of-code-2018](https://github.com/132ikl/advent-of-code-2018)
 * [Chrinkus/advent-of-code-2018](https://github.com/Chrinkus/advent-of-code-2018)
+* [LukeMoll/adventofcode2018](https://github.com/LukeMoll/adventofcode2018)
 * [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018)
 
 #### Elixir
@@ -83,6 +86,12 @@ in your favourite language.*
 * [feffes/adventofcode2018](https://github.com/feffes/adventofcode2018)
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
+
+#### Groovy
+
+*Solutions to AoC in Groovy.*
+
+* [deroffal/AoC_2018](https://github.com/deroffal/AoC_2018)
 
 #### Haskell
 
@@ -114,6 +123,7 @@ in your favourite language.*
 
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin)
+* [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018)
 
 #### Nim
 
