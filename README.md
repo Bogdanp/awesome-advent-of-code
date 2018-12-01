@@ -12,6 +12,7 @@ This is a collection of awesome resources related to the yearly
   * [Solutions](#solutions)
     * [C#](#c)
     * [C++](#c-1)
+    * [Clojure](#clojure)
     * [Dart](#dart)
     * [Elixir](#elixir)
     * [Elm](#elm)
@@ -69,6 +70,13 @@ in your favourite language.*
 * [LukeMoll/adventofcode2018](https://github.com/LukeMoll/adventofcode2018)
 * [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018)
 * [metinsuloglu/AdventofCode18](https://github.com/metinsuloglu/AdventofCode18)
+
+#### Clojure
+
+*Solutions to AoC in Clojure.*
+
+* [adventofcode-clojurians](https://github.com/adventofcode-clojurians/adventofcode-clojurians)
+* [advent-of-cljc](https://github.com/borkdude/advent-of-cljc) - Cross-platform Clojure(script) solutions
 
 #### Dart
 
