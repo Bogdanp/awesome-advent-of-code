@@ -26,6 +26,7 @@ This is a collection of awesome resources related to the yearly
     * [Nim](#nim)
     * [Polyglot](#polyglot)
     * [Pony](#pony)
+    * [PowerShell](#powershell)
     * [Python](#python)
     * [Racket](#racket)
     * [Ruby](#ruby)
@@ -184,6 +185,12 @@ in your favourite language.*
 *Solutions to AoC in Pony.*
 
 * [kulibali/advent_of_code_2018](https://github.com/kulibali/advent_of_code_2018)
+
+#### PowerShell
+
+*Solutions to AoC in PowerShell.*
+
+* [SotoDucani/AdventOfCode2018](https://github.com/SotoDucani/AdventOfCode2018)
 
 #### Python
 
