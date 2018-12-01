@@ -198,6 +198,7 @@ in your favourite language.*
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
+* [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 
 #### Scala
 
