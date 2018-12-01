@@ -71,6 +71,7 @@ in your favourite language.*
 *Solutions to AoC in Dart.*
 
 * [code-shoily/advent-of-dart](https://github.com/code-shoily/advent-of-dart)
+* [julemand101/AdventOfCode2018](https://github.com/julemand101/AdventOfCode2018)
 
 #### Elixir
 
