@@ -216,6 +216,7 @@ in your favourite language.*
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
+* [maxdeviant/advent-of-code](https://github.com/maxdeviant/advent-of-code)
 
 #### Scala
 
