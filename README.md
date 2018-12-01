@@ -37,6 +37,8 @@ in your favourite language.*
 
 ## 2018
 
+**WARNING:** All of these likely contain spoilers.
+
 ### Solutions
 
 #### C#
