@@ -37,7 +37,9 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-* [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc)
+* [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
+* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
+* [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 
 ## 2018
 
