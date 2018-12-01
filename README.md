@@ -136,6 +136,7 @@ in your favourite language.*
 
 *Solutions to AoC in JavaScript.*
 
+* [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode)
 * [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018)
 * [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018)
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
@@ -143,7 +144,6 @@ in your favourite language.*
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
-* [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode)
 
 #### Kotlin
 
@@ -213,12 +213,12 @@ in your favourite language.*
 * [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode/tree/2018) (`2018` branch; will be merged into `master` after the event)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
+* [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018)
 * [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
+* [maxdeviant/advent-of-code](https://github.com/maxdeviant/advent-of-code)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
-* [maxdeviant/advent-of-code](https://github.com/maxdeviant/advent-of-code)
-* [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018)
 
 #### Scala
 
