@@ -31,6 +31,7 @@ This is a collection of awesome resources related to the yearly
     * [Rust](#rust)
     * [Scala](#scala)
     * [Swift](#swift)
+    * [Zig](#zig)
   * [Live Streams](#live-streams)
 
 ---
@@ -235,6 +236,12 @@ in your favourite language.*
 * [HarshilShah/AdventOfCode](https://github.com/HarshilShah/AdventOfCode)
 * [Levivig/AdventOfCode2018](https://github.com/Levivig/AdventOfCode2018)
 * [davedelong/AOC](https://github.com/davedelong/AOC)
+
+#### Zig
+
+*Solutions to AoC in Zig.*
+
+* [meheleventyone/aoc-2018-zig](https://github.com/meheleventyone/aoc-2018-zig)
 
 ### Live Streams
 
