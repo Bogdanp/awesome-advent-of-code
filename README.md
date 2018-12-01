@@ -209,6 +209,7 @@ in your favourite language.*
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
+* [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018)
 
 #### Racket
 
