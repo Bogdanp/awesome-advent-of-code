@@ -8,6 +8,7 @@ This is a collection of awesome resources related to the yearly
 * [The Official AoC Website](https://adventofcode.com/)
 * [The AoC Subreddit](https://www.reddit.com/r/adventofcode/)
 * [Project Templates](#project-templates)
+* [Other Advent Calendars](#other-advent-calendars)
 * [2018](#2018)
   * [Solutions](#solutions)
     * [C#](#c)
@@ -49,6 +50,13 @@ in your favourite language.*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+
+## Other Advent Calendars
+
+*24 days of cool stuff regarding <insert-technology-here>.*
+
+* [Perl6 Advent Calendar](https://perl6advent.wordpress.com/)
+* [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
 
 ## 2018
 
@@ -164,9 +172,9 @@ in your favourite language.*
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
+* [roebuk/advent-of-code](https://github.com/roebuk/advent-of-code/)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
-* [roebuk/advent-of-code](https://github.com/roebuk/advent-of-code/)
 
 #### Kotlin
 
