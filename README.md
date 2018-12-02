@@ -50,6 +50,7 @@ in your favourite language.*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
 
 ## Other Advent Calendars
 
@@ -189,6 +190,7 @@ in your favourite language.*
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin)
 * [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018)
+* [hughjdavey/aoc-2018](https://github.com/hughjdavey/aoc-2018)
 
 #### Nim
 
