@@ -24,6 +24,7 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [Perl](#perl)
     * [Polyglot](#polyglot)
     * [Pony](#pony)
     * [PowerShell](#powershell)
@@ -121,6 +122,7 @@ in your favourite language.*
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
+* [feiss/aoc2018](https://github.com/feiss/aoc2018)
 
 #### Groovy
 
@@ -157,6 +159,7 @@ in your favourite language.*
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
+* [anubhavsrivastava/advent-of-code-js-2018](https://github.com/anubhavsrivastava/advent-of-code-js-2018)
 
 #### Kotlin
 
@@ -174,10 +177,17 @@ in your favourite language.*
 * [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
 
+#### Perl
+
+*Solutions to AoC in Perl.*
+
+* [bewuethr/advent-of-code/2018](https://github.com/bewuethr/advent-of-code/tree/master/2018)
+
 #### Polyglot
 
 *Solutions to AoC in multiple languages.*
 
+* [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
 
 #### Pony
@@ -196,6 +206,7 @@ in your favourite language.*
 
 *Solutions to AoC in Python.*
 
+* [Kurocon/AdventOfCode2018](https://github.com/Kurocon/AdventOfCode2018)
 * [LinusCDE/AdventOfCode2018](https://github.com/LinusCDE/AdventOfCode2018)
 * [ahriley/advent-of-code-2018](https://github.com/ahriley/advent-of-code-2018)
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
@@ -204,12 +215,12 @@ in your favourite language.*
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
+* [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018)
 * [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018/)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
-* [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018)
 
 #### Racket
 
