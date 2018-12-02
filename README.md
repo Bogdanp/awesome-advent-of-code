@@ -117,12 +117,13 @@ in your favourite language.*
 
 *Solutions to AoC in Go.*
 
+* [atssteve/advent_of_code_2018/](https://github.com/atssteve/advent_of_code_2018)
 * [feffes/adventofcode2018](https://github.com/feffes/adventofcode2018)
+* [feiss/aoc2018](https://github.com/feiss/aoc2018)
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
-* [feiss/aoc2018](https://github.com/feiss/aoc2018)
 
 #### Groovy
 
