@@ -168,6 +168,7 @@ in your favourite language.*
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
 * [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018)
 * [anubhavsrivastava/advent-of-code-js-2018](https://github.com/anubhavsrivastava/advent-of-code-js-2018)
+* [arnaskro/advent-of-code-2018](https://github.com/arnaskro/advent-of-code-2018)
 * [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018)
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
