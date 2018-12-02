@@ -206,6 +206,7 @@ in your favourite language.*
 
 *Solutions to AoC in Python.*
 
+* [Kurocon/AdventOfCode2018](https://github.com/Kurocon/AdventOfCode2018)
 * [LinusCDE/AdventOfCode2018](https://github.com/LinusCDE/AdventOfCode2018)
 * [ahriley/advent-of-code-2018](https://github.com/ahriley/advent-of-code-2018)
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
@@ -214,12 +215,12 @@ in your favourite language.*
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
+* [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018)
 * [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018/)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
-* [Kurocon/AdventOfCode2018](https://github.com/Kurocon/AdventOfCode2018)
 
 #### Racket
 
