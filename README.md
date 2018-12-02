@@ -166,8 +166,7 @@ in your favourite language.*
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
-* [roebuk/advent-of-code]
-(https://github.com/roebuk/advent-of-code/)
+* [roebuk/advent-of-code](https://github.com/roebuk/advent-of-code/)
 
 #### Kotlin
 
