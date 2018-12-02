@@ -200,6 +200,7 @@ in your favourite language.*
 * [AsmPrgmC3/AoC2018](https://github.com/AsmPrgmC3/AoC2018)
 * [Yolgie/AdventOfCode2018](https://github.com/Yolgie/AdventOfCode2018)
 * [edgars-supe/advent-of-code](https://github.com/edgars-supe/advent-of-code)
+* [ephemient/aoc2018](https://github.com/ephemient/aoc2018/tree/kotlin)
 * [fdlk/advent-2018](https://github.com/fdlk/advent-2018)
 * [hughjdavey/aoc-2018](https://github.com/hughjdavey/aoc-2018)
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
