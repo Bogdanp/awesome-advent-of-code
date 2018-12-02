@@ -249,6 +249,7 @@ in your favourite language.*
 * [chemturion/advent-of-code-2018](https://github.com/chemturion/advent-of-code-2018)
 * [dnamsons/Advent-of-Code-2018](https://github.com/dnamsons/Advent-of-Code-2018)
 * [nipinium/aoc18](https://github.com/nipinium/aoc18)
+* [taylorthurlow/advent-of-code-2018](https://github.com/taylorthurlow/advent-of-code-2018)
 
 #### Rust
 
