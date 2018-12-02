@@ -121,6 +121,7 @@ in your favourite language.*
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
+* [feiss/aoc2018](https://github.com/feiss/aoc2018)
 
 #### Groovy
 
