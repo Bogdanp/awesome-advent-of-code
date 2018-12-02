@@ -260,6 +260,7 @@ in your favourite language.*
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
 * [sw561/AdventOfCode2018](https://github.com/sw561/AdventOfCode2018)
+* [oskar404/aoc](https://github.com/oskar404/aoc)
 
 #### Racket
 
