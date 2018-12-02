@@ -24,6 +24,7 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [Perl](#perl)
     * [Polyglot](#polyglot)
     * [Pony](#pony)
     * [PowerShell](#powershell)
@@ -121,6 +122,7 @@ in your favourite language.*
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
+* [feiss/aoc2018](https://github.com/feiss/aoc2018)
 
 #### Groovy
 
@@ -157,6 +159,7 @@ in your favourite language.*
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
+* [anubhavsrivastava/advent-of-code-js-2018](https://github.com/anubhavsrivastava/advent-of-code-js-2018)
 
 #### Kotlin
 
@@ -174,10 +177,17 @@ in your favourite language.*
 * [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
 
+#### Perl
+
+*Solutions to AoC in Perl.*
+
+* [bewuethr/advent-of-code/2018](https://github.com/bewuethr/advent-of-code/tree/master/2018)
+
 #### Polyglot
 
 *Solutions to AoC in multiple languages.*
 
+* [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
 
 #### Pony
