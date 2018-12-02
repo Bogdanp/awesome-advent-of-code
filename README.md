@@ -163,6 +163,7 @@ in your favourite language.*
 
 *Solutions to AoC in JavaScript.*
 
+* [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode)
 * [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode)
 * [SeanECogan/advent-of-code-2018](https://github.com/SeanECogan/advent-of-code-2018)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
