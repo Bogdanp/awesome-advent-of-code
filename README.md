@@ -233,6 +233,7 @@ in your favourite language.*
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
 * [bookwyrm12/adventofcode2018](https://github.com/bookwyrm12/adventofcode2018)
 * [danong/advent-of-code-2018](https://github.com/danong/advent-of-code-2018)
+* [davidpneal/AdventofCode18](https://github.com/davidpneal/python/tree/master/AdventofCode18)
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
