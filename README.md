@@ -170,6 +170,7 @@ in your favourite language.*
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin)
 * [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018)
+* [fdlk/advent-2018](https://github.com/fdlk/advent-2018)
 
 #### Nim
 
