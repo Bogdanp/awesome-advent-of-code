@@ -262,6 +262,7 @@ in your favourite language.*
 * [sw561/AdventOfCode2018](https://github.com/sw561/AdventOfCode2018)
 * [oskar404/aoc](https://github.com/oskar404/aoc)
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018)
+* [S0Ulle33/Advent-of-Code-2018](https://github.com/S0Ulle33/Advent-of-Code-2018)
 
 #### Racket
 
