@@ -157,6 +157,7 @@ in your favourite language.*
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
+* [anubhavsrivastava/advent-of-code-js-2018](https://github.com/anubhavsrivastava/advent-of-code-js-2018)
 
 #### Kotlin
 
