@@ -181,6 +181,7 @@ in your favourite language.*
 
 *Solutions to AoC in Kotlin.*
 
+* [AsmPrgmC3/AoC2018](https://github.com/AsmPrgmC3/AoC2018)
 * [edgars-supe/advent-of-code](https://github.com/edgars-supe/advent-of-code)
 * [fdlk/advent-2018](https://github.com/fdlk/advent-2018)
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
