@@ -8,6 +8,7 @@ This is a collection of awesome resources related to the yearly
 * [The Official AoC Website](https://adventofcode.com/)
 * [The AoC Subreddit](https://www.reddit.com/r/adventofcode/)
 * [Project Templates](#project-templates)
+* [Tools and Utilities](#tools-and-utilities)
 * [Other Advent Calendars](#other-advent-calendars)
 * [2018](#2018)
   * [Solutions](#solutions)
@@ -52,6 +53,10 @@ in your favourite language.*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 * [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
+
+## Tools and Utilities
+
+* [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
 
 ## Other Advent Calendars
 
