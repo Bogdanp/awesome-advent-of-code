@@ -28,6 +28,7 @@ This is a collection of awesome resources related to the yearly
     * [Kotlin](#kotlin)
     * [Nim](#nim)
     * [Perl](#perl)
+    * [PHP](#php)
     * [Polyglot](#polyglot)
     * [Pony](#pony)
     * [PowerShell](#powershell)
@@ -218,6 +219,12 @@ in your favourite language.*
 *Solutions to AoC in Perl.*
 
 * [bewuethr/advent-of-code/2018](https://github.com/bewuethr/advent-of-code/tree/master/2018)
+
+#### PHP
+
+*Solutions to AoC in PHP*
+
+* [aran112000/Advent-of-Code-2018](https://github.com/aran112000/Advent-of-Code-2018)
 
 #### Polyglot
 
