@@ -24,11 +24,13 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [Perl](#perl)
     * [Polyglot](#polyglot)
     * [Pony](#pony)
     * [PowerShell](#powershell)
     * [Python](#python)
     * [Racket](#racket)
+    * [ReasonML](#reasonml)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
@@ -116,7 +118,9 @@ in your favourite language.*
 
 *Solutions to AoC in Go.*
 
+* [atssteve/advent_of_code_2018/](https://github.com/atssteve/advent_of_code_2018)
 * [feffes/adventofcode2018](https://github.com/feffes/adventofcode2018)
+* [feiss/aoc2018](https://github.com/feiss/aoc2018)
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
@@ -142,6 +146,7 @@ in your favourite language.*
 
 *Solutions to AoC in Java.*
 
+* [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018)
 
@@ -155,9 +160,11 @@ in your favourite language.*
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
+* [SeanECogan/advent-of-code-2018](https://github.com/SeanECogan/advent-of-code-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
+* [anubhavsrivastava/advent-of-code-js-2018](https://github.com/anubhavsrivastava/advent-of-code-js-2018)
 
 #### Kotlin
 
@@ -167,6 +174,7 @@ in your favourite language.*
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin)
 * [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018)
+* [fdlk/advent-2018](https://github.com/fdlk/advent-2018)
 
 #### Nim
 
@@ -175,10 +183,17 @@ in your favourite language.*
 * [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
 
+#### Perl
+
+*Solutions to AoC in Perl.*
+
+* [bewuethr/advent-of-code/2018](https://github.com/bewuethr/advent-of-code/tree/master/2018)
+
 #### Polyglot
 
 *Solutions to AoC in multiple languages.*
 
+* [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
 
 #### Pony
@@ -197,6 +212,7 @@ in your favourite language.*
 
 *Solutions to AoC in Python.*
 
+* [Kurocon/AdventOfCode2018](https://github.com/Kurocon/AdventOfCode2018)
 * [LinusCDE/AdventOfCode2018](https://github.com/LinusCDE/AdventOfCode2018)
 * [ahriley/advent-of-code-2018](https://github.com/ahriley/advent-of-code-2018)
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
@@ -205,6 +221,7 @@ in your favourite language.*
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
+* [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018)
 * [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018/)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
@@ -218,6 +235,12 @@ in your favourite language.*
 * [Bogdanp/racket-aoc-2018](https://github.com/Bogdanp/racket-aoc-2018)
 * [CuriousYogurt/AdventOfCode](https://github.com/curiousyogurt/AdventOfCode)
 * [Saityi/advent-of-code-2018](https://github.com/Saityi/advent-of-code-2018)
+
+#### ReasonML
+
+*Solutions to AoC in ReasonML.*
+
+* [believer/advent-of-code-2018](https://github.com/believer/advent-of-code-2018)
 
 #### Ruby
 
@@ -240,6 +263,7 @@ in your favourite language.*
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
+* [callum-oakley/advent-of-code-2018](https://github.com/callum-oakley/advent-of-code-2018)
 
 #### Scala
 
@@ -269,3 +293,4 @@ in your favourite language.*
 
 * [josevalim](https://www.twitch.tv/josevalim)
 * [popabogdanp](https://twitch.tv/popabogdanp)
+* [arknave](https://twitch.tv/arknave)
