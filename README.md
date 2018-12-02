@@ -176,6 +176,7 @@ in your favourite language.*
 * [roebuk/advent-of-code](https://github.com/roebuk/advent-of-code/)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
+* [rovaniemi/advent-of-code-2018](https://github.com/rovaniemi/advent-of-code-2018)
 
 #### Kotlin
 
