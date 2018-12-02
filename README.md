@@ -50,6 +50,7 @@ in your favourite language.*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
 
 ## Other Advent Calendars
 
@@ -133,6 +134,7 @@ in your favourite language.*
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
+* [tpaschalis/Golang-Practice/AdventOfCode2018](https://github.com/tpaschalis/Golang-practice/tree/master/AdventOfCode2018)
 
 #### Groovy
 
@@ -184,12 +186,13 @@ in your favourite language.*
 *Solutions to AoC in Kotlin.*
 
 * [AsmPrgmC3/AoC2018](https://github.com/AsmPrgmC3/AoC2018)
+* [Yolgie/AdventOfCode2018](https://github.com/Yolgie/AdventOfCode2018)
 * [edgars-supe/advent-of-code](https://github.com/edgars-supe/advent-of-code)
 * [fdlk/advent-2018](https://github.com/fdlk/advent-2018)
+* [hughjdavey/aoc-2018](https://github.com/hughjdavey/aoc-2018)
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin)
 * [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018)
-* [Yolgie/AdventOfCode2018](https://github.com/Yolgie/AdventOfCode2018)
 
 #### Nim
 
@@ -210,6 +213,7 @@ in your favourite language.*
 
 * [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
+* [vypxl/aoc](https://github.com/vypx/aoc)
 
 #### Pony
 
@@ -233,6 +237,7 @@ in your favourite language.*
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
 * [bookwyrm12/adventofcode2018](https://github.com/bookwyrm12/adventofcode2018)
 * [danong/advent-of-code-2018](https://github.com/danong/advent-of-code-2018)
+* [davidpneal/AdventofCode18](https://github.com/davidpneal/python/tree/master/AdventofCode18)
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
