@@ -30,6 +30,7 @@ This is a collection of awesome resources related to the yearly
     * [PowerShell](#powershell)
     * [Python](#python)
     * [Racket](#racket)
+    * [ReasonML](#reasonml)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
@@ -233,6 +234,12 @@ in your favourite language.*
 * [Bogdanp/racket-aoc-2018](https://github.com/Bogdanp/racket-aoc-2018)
 * [CuriousYogurt/AdventOfCode](https://github.com/curiousyogurt/AdventOfCode)
 * [Saityi/advent-of-code-2018](https://github.com/Saityi/advent-of-code-2018)
+
+#### ReasonML
+
+*Solutions to AoC in ReasonML.*
+
+* [believer/advent-of-code-2018](https://github.com/believer/advent-of-code-2018)
 
 #### Ruby
 
