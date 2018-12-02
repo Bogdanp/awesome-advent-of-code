@@ -11,8 +11,9 @@ This is a collection of awesome resources related to the yearly
 * [Other Advent Calendars](#other-advent-calendars)
 * [2018](#2018)
   * [Solutions](#solutions)
-    * [C#](#c)
-    * [C++](#c-1)
+    * [C](#c)
+    * [C#](#c-1)
+    * [C++](#c-2)
     * [Clojure](#clojure)
     * [Dart](#dart)
     * [Elixir](#elixir)
@@ -64,6 +65,12 @@ in your favourite language.*
 **WARNING:** All of these likely contain spoilers.
 
 ### Solutions
+
+#### C
+
+*Solutions to AoC in C.*
+
+* [krokerik/Advent-of-Code/](https://github.com/krokerik/Advent-of-Code/tree/master/2018/c)
 
 #### C#
 
