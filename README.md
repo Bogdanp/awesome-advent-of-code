@@ -210,6 +210,7 @@ in your favourite language.*
 
 * [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
+* [vypxl/aoc](https://github.com/vypx/aoc)
 
 #### Pony
 
