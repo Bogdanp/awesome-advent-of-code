@@ -149,6 +149,7 @@ in your favourite language.*
 * [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018)
+* [AnwarAfaq/AdventOfCode](https://github.com/AnwarAfaq/AdventOfCode)
 
 #### JavaScript
 
