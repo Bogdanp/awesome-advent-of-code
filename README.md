@@ -176,6 +176,7 @@ in your favourite language.*
 
 * [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
+* [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 
 #### Perl
 
@@ -218,6 +219,7 @@ in your favourite language.*
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
+* [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 
 #### Racket
 
