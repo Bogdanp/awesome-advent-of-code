@@ -20,7 +20,11 @@ with open(README_PATH) as f:
         if match is not None:
             user = match.groupdict()["user"]
             repo = match.groupdict()["repo"]
-            lines.append(f"* ![Last Commit on GitHub](https://img.shields.io/github/last-commit/{user}/{repo}.svg) [{user}/{repo}](https://github.com/{user}/{repo})\n")
+            lines.append(
+                f"* [{user}/{repo}](https://github.com/{user}/{repo}) "
+                f"![Last Commit on GitHub](https://img.shields.io/github/last-commit/{user}/{repo}.svg)"
+                f"\n"
+            )
 
         else:
             lines.append(line)
