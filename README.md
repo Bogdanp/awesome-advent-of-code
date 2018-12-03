@@ -138,6 +138,7 @@ in your favourite language.*
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/CameronAavik/AdventOfCode.svg)
 * [andreasjhkarlsson/aoc-2018](https://github.com/andreasjhkarlsson/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/andreasjhkarlsson/aoc-2018.svg)
 * [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ryepup/advent-of-code.svg)
+* [dmngrsk/advent-of-code-2018](https://github.com/dmngrsk/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dmngrsk/advent-of-code-2018.svg)
 
 #### Go
 
