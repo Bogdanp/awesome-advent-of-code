@@ -195,6 +195,7 @@ in your favourite language.*
 * [rovaniemi/advent-of-code-2018](https://github.com/rovaniemi/advent-of-code-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
+* [Allypost/advent-of-code-2018](https://github.com/Allypost/advent-of-code-2018)
 
 #### Kotlin
 
