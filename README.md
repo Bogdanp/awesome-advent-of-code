@@ -164,6 +164,7 @@ in your favourite language.*
 
 *Solutions to AoC in Haskell.*
 
+* ![Last Commit on GitHub](https://img.shields.io/github/last-commit/auburus/advent-of-code.svg) [auburus/advent-of-code](https://github.com/auburus/advent-of-code)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/glguy/advent2018.svg) [glguy/advent2018](https://github.com/glguy/advent2018)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mstksg/advent-of-code-2018.svg) [mstksg/advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nerdopoly/aoc-2018.svg) [nerdopoly/aoc-2018](https://github.com/nerdopoly/aoc-2018)
@@ -240,6 +241,7 @@ in your favourite language.*
 
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2018.svg) [ephemient/aoc2018](https://github.com/ephemient/aoc2018)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/pietroppeter/AdventOfCode2018.svg) [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
+* ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebbecking/AoC-2018.svg) [sebbecking/AoC-2018](https://github.com/sebbecking/AoC-2018)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stewartpark/aoc-2018.svg) [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
 
 #### Pony
