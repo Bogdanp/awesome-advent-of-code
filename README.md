@@ -161,7 +161,6 @@ in your favourite language.*
 
 *Solutions to AoC in Haskell.*
 
-* [ephemient/aoc2018](https://github.com/ephemient/aoc2018)
 * [glguy/advent2018](https://github.com/glguy/advent2018)
 * [mstksg/advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018)
 * [nerdopoly/aoc-2018](https://github.com/nerdopoly/aoc-2018)
@@ -236,6 +235,7 @@ in your favourite language.*
 
 *Solutions to AoC in multiple languages.*
 
+* [ephemient/aoc2018](https://github.com/ephemient/aoc2018) (Haskell and Kotlin)
 * [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
 * [vypxl/aoc](https://github.com/vypx/aoc)
