@@ -301,6 +301,7 @@ in your favourite language.*
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
 * [rceuls/Aoc2018](https://github.com/rceuls/Aoc2018)
+* [lazear/adventofcode2018](https://github.com/lazear/adventofcode2018)
 
 #### Scala
 
