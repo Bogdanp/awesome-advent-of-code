@@ -147,6 +147,7 @@ in your favourite language.*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
 * [tpaschalis/Golang-Practice/AdventOfCode2018](https://github.com/tpaschalis/Golang-practice/tree/master/AdventOfCode2018)
+* [dandua98/AdventOfCode2018](https://github.com/dandua98/AdventOfCode2018)
 
 #### Groovy
 
