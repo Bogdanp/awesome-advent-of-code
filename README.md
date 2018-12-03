@@ -334,6 +334,7 @@ in your favourite language.*
 
 * [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [FlorianCassayre/AdventOfCode-2018](https://github.com/FlorianCassayre/AdventOfCode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2018.svg)
+* [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/matelaszlo/advent-of-code-scala.svg)
 * [nbardiuk/adventofcode](https://github.com/nbardiuk/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nbardiuk/adventofcode.svg)
 
 #### Swift
