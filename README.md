@@ -241,7 +241,6 @@ in your favourite language.*
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2018.svg) [ephemient/aoc2018](https://github.com/ephemient/aoc2018)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/pietroppeter/AdventOfCode2018.svg) [pietroppeter/AdventOfCode2018](https://github.com/pietroppeter/AdventOfCode2018)
 * ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stewartpark/aoc-2018.svg) [stewartpark/aoc-2018](https://github.com/stewartpark/aoc-2018)
-* ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vypx/aoc.svg) [vypx/aoc](https://github.com/vypx/aoc)
 
 #### Pony
 
