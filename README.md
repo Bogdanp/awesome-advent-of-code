@@ -150,6 +150,7 @@ in your favourite language.*
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
+* [mauricioabreu/AdventOfCode2018](https://github.com/mauricioabreu/AdventOfCode2018)
 * [tpaschalis/Golang-Practice/AdventOfCode2018](https://github.com/tpaschalis/Golang-practice/tree/master/AdventOfCode2018)
 * [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
 
