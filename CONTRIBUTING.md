@@ -3,7 +3,7 @@
 To add a new repository to the list, find the appropriate section for
 the repository's language and add a new entry like this:
 
-    * https://github.com/username/repo
+    * (https://github.com/username/repo)
 
 Save the file and then run `./scripts/add-badges.py` on the command
 line and then commit your changes.
