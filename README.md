@@ -142,14 +142,14 @@ in your favourite language.*
 *Solutions to AoC in Go.*
 
 * [atssteve/advent_of_code_2018/](https://github.com/atssteve/advent_of_code_2018)
+* [dandua98/AdventOfCode2018](https://github.com/dandua98/AdventOfCode2018)
 * [feffes/adventofcode2018](https://github.com/feffes/adventofcode2018)
 * [feiss/aoc2018](https://github.com/feiss/aoc2018)
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode)
-* [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
 * [tpaschalis/Golang-Practice/AdventOfCode2018](https://github.com/tpaschalis/Golang-practice/tree/master/AdventOfCode2018)
-* [dandua98/AdventOfCode2018](https://github.com/dandua98/AdventOfCode2018)
+* [wilbertom/advent-of-code-2018/](https://github.com/wilbertom/advent-of-code-2018/)
 
 #### Groovy
 
@@ -171,30 +171,30 @@ in your favourite language.*
 
 *Solutions to AoC in Java.*
 
+* [AnwarAfaq/AdventOfCode](https://github.com/AnwarAfaq/AdventOfCode)
 * [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018)
-* [AnwarAfaq/AdventOfCode](https://github.com/AnwarAfaq/AdventOfCode)
 
 #### JavaScript
 
 *Solutions to AoC in JavaScript.*
 
-* [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode)
 * [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode)
 * [SeanECogan/advent-of-code-2018](https://github.com/SeanECogan/advent-of-code-2018)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018)
 * [adriennetacke/advent-of-code-2018](https://github.com/adriennetacke/advent-of-code-2018)
 * [anubhavsrivastava/advent-of-code-js-2018](https://github.com/anubhavsrivastava/advent-of-code-js-2018)
 * [arnaskro/advent-of-code-2018](https://github.com/arnaskro/advent-of-code-2018)
+* [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode)
 * [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018)
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018)
 * [roebuk/advent-of-code](https://github.com/roebuk/advent-of-code/)
+* [rovaniemi/advent-of-code-2018](https://github.com/rovaniemi/advent-of-code-2018)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode)
-* [rovaniemi/advent-of-code-2018](https://github.com/rovaniemi/advent-of-code-2018)
 
 #### Kotlin
 
@@ -220,7 +220,10 @@ in your favourite language.*
 
 *Solutions to AoC in PHP.*
 
+* [aran112000/Advent-of-Code-2018](https://github.com/aran112000/Advent-of-Code-2018)
 * [cbzink/AdventOfCode2018](https://github.com/cbzink/AdventOfCode2018)
+* [deanhouseholder/advent-of-code-2018](https://github.com/deanhouseholder/advent-of-code-2018)
+* [zmontgo/advent_of_code](https://github.com/zmontgo/advent_of_code)
 
 #### Perl
 
@@ -300,6 +303,7 @@ in your favourite language.*
 * [chemturion/advent-of-code-2018](https://github.com/chemturion/advent-of-code-2018)
 * [dnamsons/Advent-of-Code-2018](https://github.com/dnamsons/Advent-of-Code-2018)
 * [nipinium/aoc18](https://github.com/nipinium/aoc18)
+* [ste001/advent-of-code-2018](https://github.com/ste001/advent-of-code-2018)
 * [taylorthurlow/advent-of-code-2018](https://github.com/taylorthurlow/advent-of-code-2018)
 
 #### Rust
@@ -312,12 +316,12 @@ in your favourite language.*
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code)
 * [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018)
 * [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018)
+* [lazear/adventofcode2018](https://github.com/lazear/adventofcode2018)
 * [maxdeviant/advent-of-code](https://github.com/maxdeviant/advent-of-code)
 * [nwn/Advent-of-Code-2018](https://github.com/nwn/Advent-of-Code-2018)
+* [rceuls/Aoc2018](https://github.com/rceuls/Aoc2018)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode)
-* [rceuls/Aoc2018](https://github.com/rceuls/Aoc2018)
-* [lazear/adventofcode2018](https://github.com/lazear/adventofcode2018)
 
 #### Scala
 
