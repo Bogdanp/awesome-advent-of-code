@@ -247,6 +247,7 @@ in your favourite language.*
 
 * [Kurocon/AdventOfCode2018](https://github.com/Kurocon/AdventOfCode2018)
 * [LinusCDE/AdventOfCode2018](https://github.com/LinusCDE/AdventOfCode2018)
+* [S0Ulle33/Advent-of-Code-2018](https://github.com/S0Ulle33/Advent-of-Code-2018)
 * [ahriley/advent-of-code-2018](https://github.com/ahriley/advent-of-code-2018)
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018)
 * [bookwyrm12/adventofcode2018](https://github.com/bookwyrm12/adventofcode2018)
@@ -255,15 +256,15 @@ in your favourite language.*
 * [dstine/aoc](https://github.com/dstine/aoc)
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018)
+* [oskar404/aoc](https://github.com/oskar404/aoc)
 * [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018)
 * [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018/)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code)
+* [sw561/AdventOfCode2018](https://github.com/sw561/AdventOfCode2018)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code)
-* [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
-* [sw561/AdventOfCode2018](https://github.com/sw561/AdventOfCode2018)
-* [oskar404/aoc](https://github.com/oskar404/aoc)
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018)
+* [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18)
 
 #### Racket
 
