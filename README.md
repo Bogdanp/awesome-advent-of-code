@@ -34,6 +34,7 @@ This is a collection of awesome resources related to the yearly
     * [Python](#python)
     * [Racket](#racket)
     * [ReasonML](#reasonml)
+    * [Red](#red)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
@@ -277,6 +278,12 @@ in your favourite language.*
 *Solutions to AoC in ReasonML.*
 
 * [believer/advent-of-code-2018](https://github.com/believer/advent-of-code-2018)
+
+#### Red
+
+*Solutions to AoC in Red.*
+
+* [lpvm/adventofcode2018](https://github.com/lpvm/adventofcode2018)
 
 #### Ruby
 
