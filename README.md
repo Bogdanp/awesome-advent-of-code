@@ -168,6 +168,7 @@ in your favourite language.*
 * [mstksg/advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018)
 * [nerdopoly/aoc-2018](https://github.com/nerdopoly/aoc-2018)
 * [tfausak/advent-of-code](https://github.com/tfausak/advent-of-code)
+* [auburus/advent-of-code](https://github.com/auburus/advent-of-code)
 
 #### Java
 
