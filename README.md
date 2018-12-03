@@ -39,6 +39,7 @@ This is a collection of awesome resources related to the yearly
     * [Scala](#scala)
     * [Swift](#swift)
     * [Zig](#zig)
+    * [PHP](#php)
   * [Live Streams](#live-streams)
 
 ---
@@ -323,6 +324,11 @@ in your favourite language.*
 *Solutions to AoC in Zig.*
 
 * [meheleventyone/aoc-2018-zig](https://github.com/meheleventyone/aoc-2018-zig)
+
+#### PHP
+*Solutions to AoC in PHP.*
+
+* [zmontgo/advent_of_code](https://github.com/zmontgo/advent_of_code)
 
 ### Live Streams
 
