@@ -27,6 +27,7 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [PHP](#php)
     * [Perl](#perl)
     * [Polyglot](#polyglot)
     * [Pony](#pony)
@@ -214,6 +215,12 @@ in your favourite language.*
 
 * [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018)
+
+#### PHP
+
+*Solutions to AoC in PHP.*
+
+* [cbzink/AdventOfCode2018](https://github.com/cbzink/AdventOfCode2018)
 
 #### Perl
 
