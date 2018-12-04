@@ -176,7 +176,7 @@ in your favourite language.*
 
 *Solutions to AoC in Java.*
 
-* [AnwarAfaq/AdventOfCode](https://github.com/AnwarAfaq/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnwarAfaq/AdventOfCode2018.svg)
+* [AnwarAfaq/AdventOfCode2018](https://github.com/AnwarAfaq/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnwarAfaq/AdventOfCode2018.svg)
 * [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ars216/Advent-of-Code-2018.svg)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jeffrosenberg/advent-of-code-2018.svg)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/joethei/Advent-of-Code-2018.svg)
@@ -257,6 +257,8 @@ in your favourite language.*
 *Solutions to AoC in PowerShell.*
 
 * [SotoDucani/AdventOfCode2018](https://github.com/SotoDucani/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SotoDucani/AdventOfCode2018.svg)
+* [ThePsAdmin/AdventOfCode](https://github.com/ThePsAdmin/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ThePsAdmin/AdventOfCode.svg)
+
 
 #### Python
 
