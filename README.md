@@ -12,6 +12,7 @@ This is a collection of awesome resources related to the yearly
 * [Other Advent Calendars](#other-advent-calendars)
 * [2018](#2018)
   * [Solutions](#solutions)
+    * [AWK](#awk)
     * [C](#c)
     * [C#](#c-1)
     * [C++](#c-2)
@@ -74,6 +75,12 @@ in your favourite language.*
 **WARNING:** All of these likely contain spoilers.
 
 ### Solutions
+
+#### AWK
+
+*Solutions to AoC in AWK.*
+
+* [phikal/aoc2018](https://github.com/phikal/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/phikal/aoc2018.svg)
 
 #### C
 
