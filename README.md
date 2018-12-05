@@ -27,6 +27,7 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
+    * [OCaml](#ocaml)
     * [PHP](#php)
     * [Perl](#perl)
     * [Polyglot](#polyglot)
@@ -221,6 +222,12 @@ in your favourite language.*
 
 * [jabbalaci/AdventOfCode2018](https://github.com/jabbalaci/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jabbalaci/AdventOfCode2018.svg)
 * [narimiran/AdventOfCode2018](https://github.com/narimiran/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/narimiran/AdventOfCode2018.svg)
+
+#### OCaml
+
+*Solutions to AoC in OCaml.*
+
+* [mc10/advent-of-code-2018](https://github.com/mc10/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mc10/advent-of-code-2018.svg)
 
 #### PHP
 
