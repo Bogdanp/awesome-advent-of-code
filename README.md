@@ -280,6 +280,7 @@ in your favourite language.*
 
 * [SotoDucani/AdventOfCode2018](https://github.com/SotoDucani/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SotoDucani/AdventOfCode2018.svg)
 * [ThePsAdmin/AdventOfCode](https://github.com/ThePsAdmin/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ThePsAdmin/AdventOfCode.svg)
+* [Kib/aoc2018](https://github.com/kib/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kib/aoc2018.svg)
 
 #### Python
 
