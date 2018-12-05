@@ -145,25 +145,25 @@ in your favourite language.*
 
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/CameronAavik/AdventOfCode.svg)
 * [andreasjhkarlsson/aoc-2018](https://github.com/andreasjhkarlsson/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/andreasjhkarlsson/aoc-2018.svg)
-* [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ryepup/advent-of-code.svg)
 * [dmngrsk/advent-of-code-2018](https://github.com/dmngrsk/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dmngrsk/advent-of-code-2018.svg)
+* [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ryepup/advent-of-code.svg)
 
 #### Go
 
 *Solutions to AoC in Go.*
 
+* [apg258/Advent-Of-Code](https://github.com/apg258/Advent-Of-Code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/apg258/Advent-Of-Code.svg)
 * [atssteve/advent_of_code_2018](https://github.com/atssteve/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/atssteve/advent_of_code_2018.svg)
 * [dandua98/AdventOfCode2018](https://github.com/dandua98/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dandua98/AdventOfCode2018.svg)
 * [feffes/adventofcode2018](https://github.com/feffes/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/feffes/adventofcode2018.svg)
 * [feiss/aoc2018](https://github.com/feiss/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/feiss/aoc2018.svg)
 * [fesh0r/adventofcode](https://github.com/fesh0r/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fesh0r/adventofcode.svg)
 * [fvm/super-duper-barnacle-AoC-2018](https://github.com/fvm/super-duper-barnacle-AoC-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fvm/super-duper-barnacle-AoC-2018.svg)
+* [glidergeek/adventofcode18](https://github.com/glidergeek/adventofcode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/glidergeek/adventofcode18.svg)
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kindermoumoute/adventofcode.svg)
 * [mauricioabreu/AdventOfCode2018](https://github.com/mauricioabreu/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mauricioabreu/AdventOfCode2018.svg)
 * [tpaschalis/Golang-practice](https://github.com/tpaschalis/Golang-practice) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tpaschalis/Golang-practice.svg)
 * [wilbertom/advent-of-code-2018](https://github.com/wilbertom/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wilbertom/advent-of-code-2018.svg)
-* [glidergeek/adventofcode18](https://github.com/glidergeek/adventofcode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/glidergeek/adventofcode18.svg)
-* [apg258/Advent-Of-Code](https://github.com/apg258/Advent-Of-Code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/apg258/Advent-Of-Code.svg)
 
 #### Groovy
 
@@ -186,15 +186,16 @@ in your favourite language.*
 *Solutions to AoC in Java.*
 
 * [AnwarAfaq/AdventOfCode2018](https://github.com/AnwarAfaq/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnwarAfaq/AdventOfCode2018.svg)
+* [DasLampe/adventofcode-2018](https://github.com/DasLampe/adventofcode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DasLampe/adventofcode-2018.svg)
 * [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ars216/Advent-of-Code-2018.svg)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jeffrosenberg/advent-of-code-2018.svg)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/joethei/Advent-of-Code-2018.svg)
-* [DasLampe/adventofcode-2018](https://github.com/DasLampe/adventofcode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DasLampe/adventofcode-2018.svg)
 
 #### JavaScript
 
 *Solutions to AoC in JavaScript.*
 
+* [Allypost/advent-of-code-2018](https://github.com/Allypost/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Allypost/advent-of-code-2018.svg)
 * [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Covicake/AdventOfCode.svg)
 * [SeanECogan/advent-of-code-2018](https://github.com/SeanECogan/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SeanECogan/advent-of-code-2018.svg)
 * [TolleyB-J/AdventOfCode2018](https://github.com/TolleyB-J/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/TolleyB-J/AdventOfCode2018.svg)
@@ -210,7 +211,6 @@ in your favourite language.*
 * [rovaniemi/advent-of-code-2018](https://github.com/rovaniemi/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rovaniemi/advent-of-code-2018.svg)
 * [sguest/advent-of-code](https://github.com/sguest/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sguest/advent-of-code.svg)
 * [spalberg/AdventOfCode](https://github.com/spalberg/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/spalberg/AdventOfCode.svg)
-* [Allypost/advent-of-code-2018](https://github.com/Allypost/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Allypost/advent-of-code-2018.svg)
 * [tommmyy/advent-of-code](https://github.com/tommmyy/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tommmyy/advent-of-code.svg)
 
 #### Kotlin
@@ -222,10 +222,10 @@ in your favourite language.*
 * [edgars-supe/advent-of-code](https://github.com/edgars-supe/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/edgars-supe/advent-of-code.svg)
 * [fdlk/advent-2018](https://github.com/fdlk/advent-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fdlk/advent-2018.svg)
 * [hughjdavey/aoc-2018](https://github.com/hughjdavey/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hughjdavey/aoc-2018.svg)
+* [jorispz/aoc-2018](https://github.com/jorispz/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jorispz/aoc-2018.svg)
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/loehnertz/advent-of-code-2018.svg)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tginsberg/advent-2018-kotlin.svg)
 * [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wakingrufus/advent-of-code-2018.svg)
-* [jorispz/aoc-2018](https://github.com/jorispz/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jorispz/aoc-2018.svg)
 
 #### Nim
 
@@ -277,16 +277,17 @@ in your favourite language.*
 * [SotoDucani/AdventOfCode2018](https://github.com/SotoDucani/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SotoDucani/AdventOfCode2018.svg)
 * [ThePsAdmin/AdventOfCode](https://github.com/ThePsAdmin/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ThePsAdmin/AdventOfCode.svg)
 
-
 #### Python
 
 *Solutions to AoC in Python.*
 
 * [Kurocon/AdventOfCode2018](https://github.com/Kurocon/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Kurocon/AdventOfCode2018.svg)
 * [LinusCDE/AdventOfCode2018](https://github.com/LinusCDE/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/LinusCDE/AdventOfCode2018.svg)
+* [NickUK/advent-of-code-2018](https://github.com/NickUK/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/NickUK/advent-of-code-2018.svg)
 * [S0Ulle33/Advent-of-Code-2018](https://github.com/S0Ulle33/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/S0Ulle33/Advent-of-Code-2018.svg)
 * [ahriley/advent-of-code-2018](https://github.com/ahriley/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ahriley/advent-of-code-2018.svg)
 * [badouralix/advent-of-code-2018](https://github.com/badouralix/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/badouralix/advent-of-code-2018.svg)
+* [bengosney/Advent-Of-Code-2018](https://github.com/bengosney/Advent-Of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bengosney/Advent-Of-Code-2018.svg)
 * [bookwyrm12/adventofcode2018](https://github.com/bookwyrm12/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bookwyrm12/adventofcode2018.svg)
 * [danong/advent-of-code-2018](https://github.com/danong/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/danong/advent-of-code-2018.svg)
 * [davidpneal/python](https://github.com/davidpneal/python) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidpneal/python.svg)
@@ -298,22 +299,20 @@ in your favourite language.*
 * [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rhbvkleef/aoc-2018.svg)
 * [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rossengeorgiev/adventofcode-2018.svg)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stacybrock/advent-of-code.svg)
+* [stoffel2107/AdventOfCode2018](https://github.com/stoffel2107/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stoffel2107/AdventOfCode2018.svg)
 * [sw561/AdventOfCode2018](https://github.com/sw561/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sw561/AdventOfCode2018.svg)
 * [tobiasvl/adventofcode](https://github.com/tobiasvl/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tobiasvl/adventofcode.svg)
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tterb/advent-of-code.svg)
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode2018.svg)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/xaranke/advent_of_code_2k18.svg)
-* [bengosney/Advent-Of-Code-2018](https://github.com/bengosney/Advent-Of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bengosney/Advent-Of-Code-2018.svg)
-* [NickUK/advent-of-code-2018](https://github.com/NickUK/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/NickUK/advent-of-code-2018.svg)
-* [stoffel2107/AdventOfCode2018](https://github.com/stoffel2107/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stoffel2107/AdventOfCode2018.svg)
 
 #### Racket
 
 *Solutions to AoC in Racket.*
 
 * [Bogdanp/racket-aoc-2018](https://github.com/Bogdanp/racket-aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Bogdanp/racket-aoc-2018.svg)
-* [curiousyogurt/AdventOfCode](https://github.com/curiousyogurt/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/curiousyogurt/AdventOfCode.svg)
 * [Saityi/advent-of-code-2018](https://github.com/Saityi/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Saityi/advent-of-code-2018.svg)
+* [curiousyogurt/AdventOfCode](https://github.com/curiousyogurt/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/curiousyogurt/AdventOfCode.svg)
 
 #### ReasonML
 
@@ -333,8 +332,8 @@ in your favourite language.*
 
 * [chemturion/advent-of-code-2018](https://github.com/chemturion/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chemturion/advent-of-code-2018.svg)
 * [dnamsons/Advent-of-Code-2018](https://github.com/dnamsons/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dnamsons/Advent-of-Code-2018.svg)
-* [nipinium/aoc18](https://github.com/nipinium/aoc18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nipinium/aoc18.svg)
 * [elvinaspredkelis/advent_of_code_2018](https://github.com/elvinaspredkelis/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/elvinaspredkelis/advent_of_code_2018.svg)
+* [nipinium/aoc18](https://github.com/nipinium/aoc18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nipinium/aoc18.svg)
 * [ste001/advent-of-code-2018](https://github.com/ste001/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ste001/advent-of-code-2018.svg)
 * [taylorthurlow/advent-of-code-2018](https://github.com/taylorthurlow/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/taylorthurlow/advent-of-code-2018.svg)
 
@@ -343,11 +342,10 @@ in your favourite language.*
 *Solutions to AoC in Rust.*
 
 * [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode) (`2018` branch; will be merged into `master` after the event)
+* [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Poooel/advent-of-code-2018.svg)
 * [callum-oakley/advent-of-code-2018](https://github.com/callum-oakley/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/callum-oakley/advent-of-code-2018.svg)
-* [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/foo-jin/advent-of-code.svg)
-* [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
 * [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/iicurtis/Rust-Advent-of-Code-2018.svg)
 * [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/k0nserv/advent-of-rust-2018.svg)
 * [lazear/adventofcode2018](https://github.com/lazear/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lazear/adventofcode2018.svg)
@@ -356,15 +354,16 @@ in your favourite language.*
 * [rceuls/Aoc2018](https://github.com/rceuls/Aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rceuls/Aoc2018.svg)
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ryanhofer/adventofcode2018.svg)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebnow/adventofcode.svg)
+* [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
 
 #### Scala
 
 *Solutions to AoC in Scala.*
 
 * [FlorianCassayre/AdventOfCode-2018](https://github.com/FlorianCassayre/AdventOfCode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2018.svg)
+* [ipsq/adventofcode](https://github.com/ipsq/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ipsq/adventofcode.svg)
 * [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/matelaszlo/advent-of-code-scala.svg)
 * [nbardiuk/adventofcode](https://github.com/nbardiuk/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nbardiuk/adventofcode.svg)
-* [ipsq/adventofcode](https://github.com/ipsq/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ipsq/adventofcode.svg)
 
 #### Swift
 
