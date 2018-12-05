@@ -108,6 +108,7 @@ in your favourite language.*
 * [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/MarkRDavison/AdventOfCode2018.svg)
 * [metinsuloglu/AdventofCode18](https://github.com/metinsuloglu/AdventofCode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/metinsuloglu/AdventofCode18.svg)
 * [TheRealMolen/adventofcode2018](https://github.com/TheRealMolen/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/TheRealMolen/adventofcode2018.svg)
+* [voivoid/advent-of-code](https://github.com/voivoid/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/voivoid/advent-of-code.svg)
 
 #### Clojure
 
