@@ -248,6 +248,8 @@ in your favourite language.*
 * [cbzink/AdventOfCode2018](https://github.com/cbzink/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/cbzink/AdventOfCode2018.svg)
 * [deanhouseholder/advent-of-code-2018](https://github.com/deanhouseholder/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/deanhouseholder/advent-of-code-2018.svg)
 * [zmontgo/advent_of_code](https://github.com/zmontgo/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/zmontgo/advent_of_code.svg)
+* [spytheman/aoc2018](https://github.com/spytheman/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/spytheman/aoc2018.svg)
+
 
 #### Perl
 
