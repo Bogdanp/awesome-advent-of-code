@@ -343,6 +343,7 @@ in your favourite language.*
 * [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode) (`2018` branch; will be merged into `master` after the event)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Poooel/advent-of-code-2018.svg)
 * [callum-oakley/advent-of-code-2018](https://github.com/callum-oakley/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/callum-oakley/advent-of-code-2018.svg)
+* [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/foo-jin/advent-of-code.svg)
 * [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
 * [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/iicurtis/Rust-Advent-of-Code-2018.svg)
@@ -358,7 +359,6 @@ in your favourite language.*
 
 *Solutions to AoC in Scala.*
 
-* [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [FlorianCassayre/AdventOfCode-2018](https://github.com/FlorianCassayre/AdventOfCode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2018.svg)
 * [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/matelaszlo/advent-of-code-scala.svg)
 * [nbardiuk/adventofcode](https://github.com/nbardiuk/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nbardiuk/adventofcode.svg)
