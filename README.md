@@ -185,10 +185,11 @@ in your favourite language.*
 
 *Solutions to AoC in Java.*
 
-* [AnwarAfaq/AdventOfCode](https://github.com/AnwarAfaq/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnwarAfaq/AdventOfCode2018.svg)
+* [AnwarAfaq/AdventOfCode2018](https://github.com/AnwarAfaq/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnwarAfaq/AdventOfCode2018.svg)
 * [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ars216/Advent-of-Code-2018.svg)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jeffrosenberg/advent-of-code-2018.svg)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/joethei/Advent-of-Code-2018.svg)
+* [DasLampe/adventofcode-2018](https://github.com/DasLampe/adventofcode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DasLampe/adventofcode-2018.svg)
 
 #### JavaScript
 
@@ -301,6 +302,7 @@ in your favourite language.*
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tterb/advent-of-code.svg)
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode2018.svg)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/xaranke/advent_of_code_2k18.svg)
+* [stoffel2107/AdventOfCode2018](https://github.com/stoffel2107/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stoffel2107/AdventOfCode2018.svg)
 
 #### Racket
 
