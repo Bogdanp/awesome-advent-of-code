@@ -249,6 +249,7 @@ in your favourite language.*
 * [deanhouseholder/advent-of-code-2018](https://github.com/deanhouseholder/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/deanhouseholder/advent-of-code-2018.svg)
 * [zmontgo/advent_of_code](https://github.com/zmontgo/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/zmontgo/advent_of_code.svg)
 * [spytheman/aoc2018](https://github.com/spytheman/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/spytheman/aoc2018.svg)
+* [vuryss/aoc-2018-php](https://github.com/vuryss/aoc-2018-php) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2018-php.svg)
 
 
 #### Perl
