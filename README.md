@@ -298,6 +298,7 @@ in your favourite language.*
 * [iBelieve/adventofcode](https://github.com/iBelieve/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/iBelieve/adventofcode.svg)
 * [j0057/aoc2018](https://github.com/j0057/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/j0057/aoc2018.svg)
 * [oskar404/aoc](https://github.com/oskar404/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/oskar404/aoc.svg)
+* [racinmat/advent_of_code_2018](https://github.com/racinmat/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/racinmat/advent_of_code_2018.svg)
 * [rhbvkleef/aoc-2018](https://github.com/rhbvkleef/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rhbvkleef/aoc-2018.svg)
 * [rossengeorgiev/adventofcode-2018](https://github.com/rossengeorgiev/adventofcode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rossengeorgiev/adventofcode-2018.svg)
 * [stacybrock/advent-of-code](https://github.com/stacybrock/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stacybrock/advent-of-code.svg)
