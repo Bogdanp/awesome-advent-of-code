@@ -106,8 +106,9 @@ in your favourite language.*
 * [Chrinkus/advent-of-code-2018](https://github.com/Chrinkus/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Chrinkus/advent-of-code-2018.svg)
 * [LukeMoll/adventofcode2018](https://github.com/LukeMoll/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/LukeMoll/adventofcode2018.svg)
 * [MarkRDavison/AdventOfCode2018](https://github.com/MarkRDavison/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/MarkRDavison/AdventOfCode2018.svg)
-* [metinsuloglu/AdventofCode18](https://github.com/metinsuloglu/AdventofCode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/metinsuloglu/AdventofCode18.svg)
 * [TheRealMolen/adventofcode2018](https://github.com/TheRealMolen/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/TheRealMolen/adventofcode2018.svg)
+* [metinsuloglu/AdventofCode18](https://github.com/metinsuloglu/AdventofCode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/metinsuloglu/AdventofCode18.svg)
+* [paulfedorow/adventofcode](https://github.com/paulfedorow/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/paulfedorow/adventofcode.svg)
 * [voivoid/advent-of-code](https://github.com/voivoid/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/voivoid/advent-of-code.svg)
 
 #### Clojure
