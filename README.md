@@ -343,6 +343,7 @@ in your favourite language.*
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Poooel/advent-of-code-2018.svg)
 * [callum-oakley/advent-of-code-2018](https://github.com/callum-oakley/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/callum-oakley/advent-of-code-2018.svg)
 * [foo-jin/advent-of-code](https://github.com/foo-jin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/foo-jin/advent-of-code.svg)
+* [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
 * [iicurtis/Rust-Advent-of-Code-2018](https://github.com/iicurtis/Rust-Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/iicurtis/Rust-Advent-of-Code-2018.svg)
 * [k0nserv/advent-of-rust-2018](https://github.com/k0nserv/advent-of-rust-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/k0nserv/advent-of-rust-2018.svg)
 * [lazear/adventofcode2018](https://github.com/lazear/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lazear/adventofcode2018.svg)
