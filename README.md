@@ -225,6 +225,7 @@ in your favourite language.*
 * [loehnertz/advent-of-code-2018](https://github.com/loehnertz/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/loehnertz/advent-of-code-2018.svg)
 * [tginsberg/advent-2018-kotlin](https://github.com/tginsberg/advent-2018-kotlin) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tginsberg/advent-2018-kotlin.svg)
 * [wakingrufus/advent-of-code-2018](https://github.com/wakingrufus/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wakingrufus/advent-of-code-2018.svg)
+* [jorispz/aoc-2018](https://github.com/jorispz/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jorispz/aoc-2018.svg)
 
 #### Nim
 
