@@ -307,6 +307,7 @@ in your favourite language.*
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tterb/advent-of-code.svg)
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode2018.svg)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/xaranke/advent_of_code_2k18.svg)
+* [racinmat/advent_of_code_2018](https://github.com/racinmat/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/racinmat/advent_of_code_2018.svg)
 
 #### Racket
 
