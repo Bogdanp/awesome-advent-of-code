@@ -282,7 +282,7 @@ in your favourite language.*
 
 * [SotoDucani/AdventOfCode2018](https://github.com/SotoDucani/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SotoDucani/AdventOfCode2018.svg)
 * [ThePsAdmin/AdventOfCode](https://github.com/ThePsAdmin/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ThePsAdmin/AdventOfCode.svg)
-* [Kib/aoc2018](https://github.com/kib/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kib/aoc2018.svg)
+* [kib/aoc2018](https://github.com/kib/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kib/aoc2018.svg)
 
 #### Python
 
@@ -314,6 +314,7 @@ in your favourite language.*
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode2018.svg)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/xaranke/advent_of_code_2k18.svg)
 * [RaczeQ/AdventOfCode2018](https://github.com/RaczeQ/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/RaczeQ/AdventOfCode2018.svg)
+* [fsschmitt/advent-of-code-2018](https://github.com/fsschmitt/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fsschmitt/advent-of-code-2018.svg)
 
 #### Racket
 
