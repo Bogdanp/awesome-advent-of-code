@@ -13,6 +13,7 @@ This is a collection of awesome resources related to the yearly
 * [2018](#2018)
   * [Solutions](#solutions)
     * [AWK](#awk)
+	* [bash] (#bash)
     * [C](#c)
     * [C#](#c-1)
     * [C++](#c-2)
@@ -82,6 +83,12 @@ in your favourite language.*
 *Solutions to AoC in AWK.*
 
 * [phikal/aoc2018](https://github.com/phikal/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/phikal/aoc2018.svg)
+
+#### bash
+
+*Solutions to AoC in bash.*
+
+* [tfla/aoc](https://github.com/tfla/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tfla/aoc.svg)
 
 #### C
 
