@@ -97,6 +97,7 @@ in your favourite language.*
 * [myquay/AOC2018](https://github.com/myquay/AOC2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/myquay/AOC2018.svg)
 * [schoradt/adventofcode2018](https://github.com/schoradt/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/schoradt/adventofcode2018.svg)
 * [tomwallace/AdventOfCode2018](https://github.com/tomwallace/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tomwallace/AdventOfCode2018.svg)
+* [eduherminio/advent-of-code-2018](https://github.com/eduherminio/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/eduherminio/advent-of-code-2018.svg)
 
 #### C++
 
@@ -282,7 +283,7 @@ in your favourite language.*
 
 * [SotoDucani/AdventOfCode2018](https://github.com/SotoDucani/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SotoDucani/AdventOfCode2018.svg)
 * [ThePsAdmin/AdventOfCode](https://github.com/ThePsAdmin/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ThePsAdmin/AdventOfCode.svg)
-* [Kib/aoc2018](https://github.com/kib/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kib/aoc2018.svg)
+* [kib/aoc2018](https://github.com/kib/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kib/aoc2018.svg)
 
 #### Python
 
