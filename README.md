@@ -13,7 +13,7 @@ This is a collection of awesome resources related to the yearly
 * [2018](#2018)
   * [Solutions](#solutions)
     * [AWK](#awk)
-	* [bash] (#bash)
+	* [bash](#bash)
     * [C](#c)
     * [C#](#c-1)
     * [C++](#c-2)
