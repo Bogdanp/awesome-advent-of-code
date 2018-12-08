@@ -196,6 +196,7 @@ in your favourite language.*
 * [glguy/advent2018](https://github.com/glguy/advent2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/glguy/advent2018.svg)
 * [mstksg/advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mstksg/advent-of-code-2018.svg)
 * [nerdopoly/aoc-2018](https://github.com/nerdopoly/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nerdopoly/aoc-2018.svg)
+* [nrdmn/adventofcode2018](https://github.com/nrdmn/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nrdmn/adventofcode2018.svg)
 * [tfausak/advent-of-code](https://github.com/tfausak/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tfausak/advent-of-code.svg)
 
 #### Java
