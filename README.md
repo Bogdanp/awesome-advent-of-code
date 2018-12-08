@@ -106,6 +106,7 @@ in your favourite language.*
 * [tomwallace/AdventOfCode2018](https://github.com/tomwallace/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tomwallace/AdventOfCode2018.svg)
 * [eduherminio/advent-of-code-2018](https://github.com/eduherminio/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/eduherminio/advent-of-code-2018.svg)
 * [bersalazar/AoC2018](https://github.com/bersalazar/AoC2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bersalazar/AoC2018.svg)
+* [andi0b/adventofcode](https://github.com/andi0b/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/andi0b/adventofcode.svg)
 
 #### C++
 
