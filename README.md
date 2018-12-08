@@ -177,6 +177,8 @@ in your favourite language.*
 * [tpaschalis/Golang-practice](https://github.com/tpaschalis/Golang-practice) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tpaschalis/Golang-practice.svg)
 * [wilbertom/advent-of-code-2018](https://github.com/wilbertom/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wilbertom/advent-of-code-2018.svg)
 * [alex-wauters/advent-code-2018](https://github.com/Alex-Wauters/advent-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/alex-Wauters/advent-code-2018.svg)
+* [victorhom/advent_of_code_2018](https://github.com/VictorHom/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/VictorHom/advent_of_code_2018.svg)
+
 
 #### Groovy
 
