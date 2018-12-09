@@ -18,6 +18,7 @@ This is a collection of awesome resources related to the yearly
     * [C#](#c-1)
     * [C++](#c-2)
     * [Clojure](#clojure)
+    * [Crystal](#crystal)
     * [Dart](#dart)
     * [Elixir](#elixir)
     * [Elm](#elm)
@@ -129,6 +130,22 @@ in your favourite language.*
 
 * [adventofcode-clojurians/adventofcode-clojurians](https://github.com/adventofcode-clojurians/adventofcode-clojurians) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/adventofcode-clojurians/adventofcode-clojurians.svg)
 * [borkdude/advent-of-cljc](https://github.com/borkdude/advent-of-cljc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/borkdude/advent-of-cljc.svg)
+
+### Crystal
+
+*Solutions to AoC in Crystal.*
+
+* [asterite/adventofcode2018](https://github.com/asterite/adventofcode2018)
+* [katestud/advent_of_code_2018](https://github.com/katestud/advent_of_code_2018)
+* [KTanaka101/advent-of-code-2018](https://github.com/KTanaka101/advent-of-code-2018)
+* [mackuba/adventofcode2018](https://github.com/mackuba/adventofcode2018)
+* [mamantoha/adventofcode2018](https://github.com/mamantoha/adventofcode2018)
+* [mpcjanssen/adventofcode2018](https://github.com/mpcjanssen/adventofcode2018)
+* [nickbclifford/advent-of-code-2018](https://github.com/nickbclifford/advent-of-code-2018)
+* [proxima/aoc2018](https://github.com/proxima/aoc2018)
+* [spencerwi/AdventOfCode2018](https://github.com/spencerwi/AdventOfCode2018)
+* [urandom/advent2018](https://github.com/urandom/advent2018)
+* [yxhuvud/aoc18](https://github.com/yxhuvud/aoc18)
 
 #### Dart
 
