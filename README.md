@@ -26,6 +26,7 @@ This is a collection of awesome resources related to the yearly
     * [Go](#go)
     * [Groovy](#groovy)
     * [Haskell](#haskell)
+    * [Idris](#idris)
     * [Java](#java)
     * [JavaScript](#javascript)
     * [Kotlin](#kotlin)
@@ -216,6 +217,12 @@ in your favourite language.*
 * [mstksg/advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mstksg/advent-of-code-2018.svg)
 * [nerdopoly/aoc-2018](https://github.com/nerdopoly/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nerdopoly/aoc-2018.svg)
 * [tfausak/advent-of-code](https://github.com/tfausak/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tfausak/advent-of-code.svg)
+
+#### Idris
+
+*Solutions to AoC in Idris.*
+
+* [dmalikov/advent-of-shame-2018](https://github.com/dmalikov/advent-of-shame-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dmalikov/advent-of-shame-2018.svg)
 
 #### Java
 
