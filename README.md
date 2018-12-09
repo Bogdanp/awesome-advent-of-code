@@ -373,6 +373,7 @@ in your favourite language.*
 
 * [believer/advent-of-code-2018](https://github.com/believer/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/believer/advent-of-code-2018.svg)
 * [charpeni/advent-of-code-2018](https://github.com/charpeni/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/charpeni/advent-of-code-2018.svg)
+* [yunyu/advent-of-code-2018](https://github.com/yunyu/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/yunyu/advent-of-code-2018.svg)
 
 #### Red
 
