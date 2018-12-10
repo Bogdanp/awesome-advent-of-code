@@ -417,6 +417,7 @@ in your favourite language.*
 * [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
 * [StreakyCobra/advent-of-code-2018](https://github.com/StreakyCobra/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/StreakyCobra/advent-of-code-2018.svg)
 * [illbexyz/advent-of-code-2018](https://github.com/illbexyz/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/illbexyz/advent-of-code-2018.svg)
+* [dashed/advent-of-code-2018](https://github.com/dashed/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dashed/advent-of-code-2018.svg)
 
 #### Scala
 
