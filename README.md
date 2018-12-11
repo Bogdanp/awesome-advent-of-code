@@ -60,6 +60,8 @@ in your favourite language.*
 * [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
+* [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 
 ## Tools and Utilities
 
@@ -358,6 +360,9 @@ in your favourite language.*
 * [tterb/advent-of-code](https://github.com/tterb/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tterb/advent-of-code.svg)
 * [webbiscuit/adventofcode2018](https://github.com/webbiscuit/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode2018.svg)
 * [xaranke/advent_of_code_2k18](https://github.com/xaranke/advent_of_code_2k18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/xaranke/advent_of_code_2k18.svg)
+* [RaczeQ/AdventOfCode2018](https://github.com/RaczeQ/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/RaczeQ/AdventOfCode2018.svg)
+* [fsschmitt/advent-of-code-2018](https://github.com/fsschmitt/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fsschmitt/advent-of-code-2018.svg)
+* [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexeSimon/adventofcode.svg)
 
 #### Racket
 
