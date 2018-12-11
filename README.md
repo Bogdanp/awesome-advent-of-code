@@ -113,6 +113,7 @@ in your favourite language.*
 * [myquay/AOC2018](https://github.com/myquay/AOC2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/myquay/AOC2018.svg)
 * [schoradt/adventofcode2018](https://github.com/schoradt/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/schoradt/adventofcode2018.svg)
 * [tomwallace/AdventOfCode2018](https://github.com/tomwallace/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tomwallace/AdventOfCode2018.svg)
+* [wimex/AdventOfCode2018](https://github.com/wimex/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wimex/AdventOfCode2018.svg)
 
 #### C++
 
