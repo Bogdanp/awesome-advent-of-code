@@ -241,6 +241,8 @@ in your favourite language.*
 
 *Solutions to AoC in JavaScript.*
 
+*Join a JavaScript private leaderboard: `415376-77aace60`*
+
 * [Allypost/advent-of-code-2018](https://github.com/Allypost/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Allypost/advent-of-code-2018.svg)
 * [Covicake/AdventOfCode](https://github.com/Covicake/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Covicake/AdventOfCode.svg)
 * [SeanECogan/advent-of-code-2018](https://github.com/SeanECogan/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SeanECogan/advent-of-code-2018.svg)
