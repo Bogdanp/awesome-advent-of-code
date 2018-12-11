@@ -393,6 +393,7 @@ in your favourite language.*
 * [nipinium/aoc18](https://github.com/nipinium/aoc18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nipinium/aoc18.svg)
 * [ste001/advent-of-code-2018](https://github.com/ste001/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ste001/advent-of-code-2018.svg)
 * [taylorthurlow/advent-of-code-2018](https://github.com/taylorthurlow/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/taylorthurlow/advent-of-code-2018.svg)
+* [petertseng/adventofcode-rb-2018](https://github.com/petertseng/adventofcode-rb-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/petertseng/adventofcode-rb-2018.svg)
 
 #### Rust
 
