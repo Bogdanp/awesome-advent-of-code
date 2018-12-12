@@ -445,6 +445,7 @@ in your favourite language.*
 * [JeffreyCA/AdventOfCode18](https://github.com/JeffreyCA/AdventOfCode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/JeffreyCA/AdventOfCode18.svg)
 * [Levivig/AdventOfCode2018](https://github.com/Levivig/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Levivig/AdventOfCode2018.svg)
 * [davedelong/AOC](https://github.com/davedelong/AOC) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davedelong/AOC.svg)
+* [BenchR267/adventofcode2018](https://github.com/BenchR267/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/BenchR267/adventofcode2018.svg)
 
 #### Zig
 
