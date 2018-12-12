@@ -400,6 +400,7 @@ in your favourite language.*
 * [ste001/advent-of-code-2018](https://github.com/ste001/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ste001/advent-of-code-2018.svg)
 * [taylorthurlow/advent-of-code-2018](https://github.com/taylorthurlow/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/taylorthurlow/advent-of-code-2018.svg)
 * [petertseng/adventofcode-rb-2018](https://github.com/petertseng/adventofcode-rb-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/petertseng/adventofcode-rb-2018.svg)
+* [sophiedeziel/advent_of_code_2018](https://github.com/sophiedeziel/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sophiedeziel/advent_of_code_2018.svg)
 
 #### Rust
 
