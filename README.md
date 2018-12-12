@@ -422,6 +422,8 @@ in your favourite language.*
 * [ryanhofer/adventofcode2018](https://github.com/ryanhofer/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ryanhofer/adventofcode2018.svg)
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebnow/adventofcode.svg)
 * [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
+* [arosspope/advent-of-code](https://github.com/arosspope/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/arosspope/advent-of-code.svg)
+
 
 #### Scala
 
