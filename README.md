@@ -167,6 +167,7 @@ in your favourite language.*
 * [kw7oe/advent-of-code-2018](https://github.com/kw7oe/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kw7oe/advent-of-code-2018.svg)
 * [scmx/advent-of-code-2018-elixir](https://github.com/scmx/advent-of-code-2018-elixir) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/scmx/advent-of-code-2018-elixir.svg)
 * [seanhandley/adventofcode2018](https://github.com/seanhandley/adventofcode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/seanhandley/adventofcode2018.svg)
+* [oscarduignan/AdventOfCode2018](https://github.com/oscarduignan/AdventOfCode2018)![Last Commit on GitHub](https://img.shields.io/github/last-commit/oscarduignan/AdventOfCode2018.svg)
 
 #### Elm
 
