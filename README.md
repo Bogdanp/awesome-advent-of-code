@@ -201,6 +201,7 @@ in your favourite language.*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kindermoumoute/adventofcode.svg)
 * [mauricioabreu/AdventOfCode2018](https://github.com/mauricioabreu/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mauricioabreu/AdventOfCode2018.svg)
 * [metalim/metalim.adventofcode.2018.go](https://github.com/metalim/metalim.adventofcode.2018.go) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/metalim/metalim.adventofcode.2018.go.svg)
+* [thlacroix/goadvent](https://github.com/thlacroix/goadvent) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thlacroix/goadvent.svg)
 * [tpaschalis/Golang-practice](https://github.com/tpaschalis/Golang-practice) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tpaschalis/Golang-practice.svg)
 * [VictorHom/advent_of_code_2018](https://github.com/VictorHom/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/VictorHom/advent_of_code_2018.svg)
 * [wilbertom/advent-of-code-2018](https://github.com/wilbertom/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wilbertom/advent-of-code-2018.svg)
