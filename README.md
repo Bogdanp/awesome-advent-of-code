@@ -403,6 +403,7 @@ in your favourite language.*
 * [petertseng/adventofcode-rb-2018](https://github.com/petertseng/adventofcode-rb-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/petertseng/adventofcode-rb-2018.svg)
 * [sophiedeziel/advent_of_code_2018](https://github.com/sophiedeziel/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sophiedeziel/advent_of_code_2018.svg)
 * [sebastianvirlan/advent-of-code-ruby-2018](https://github.com/sebastianvirlan/advent-of-code-ruby-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebastianvirlan/advent-of-code-ruby-2018.svg)
+* [kazooiebombchu/advent-of-code-2018](https://github.com/kazooiebombchu/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kazooiebombchu/advent-of-code-2018.svg)
 
 #### Rust
 
