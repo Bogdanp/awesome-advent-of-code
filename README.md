@@ -402,6 +402,7 @@ in your favourite language.*
 * [taylorthurlow/advent-of-code-2018](https://github.com/taylorthurlow/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/taylorthurlow/advent-of-code-2018.svg)
 * [petertseng/adventofcode-rb-2018](https://github.com/petertseng/adventofcode-rb-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/petertseng/adventofcode-rb-2018.svg)
 * [sophiedeziel/advent_of_code_2018](https://github.com/sophiedeziel/advent_of_code_2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sophiedeziel/advent_of_code_2018.svg)
+* [sebastianvirlan/advent-of-code-ruby-2018](https://github.com/sebastianvirlan/advent-of-code-ruby-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebastianvirlan/advent-of-code-ruby-2018.svg)
 * [kazooiebombchu/advent-of-code-2018](https://github.com/kazooiebombchu/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kazooiebombchu/advent-of-code-2018.svg)
 
 #### Rust
@@ -426,7 +427,6 @@ in your favourite language.*
 * [sebnow/adventofcode](https://github.com/sebnow/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebnow/adventofcode.svg)
 * [w4tson/advent-of-code-2018](https://github.com/w4tson/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/w4tson/advent-of-code-2018.svg)
 * [arosspope/advent-of-code](https://github.com/arosspope/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/arosspope/advent-of-code.svg)
-
 
 #### Scala
 
