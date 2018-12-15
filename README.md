@@ -374,6 +374,7 @@ in your favourite language.*
 * [Bogdanp/racket-aoc-2018](https://github.com/Bogdanp/racket-aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Bogdanp/racket-aoc-2018.svg)
 * [Saityi/advent-of-code-2018](https://github.com/Saityi/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Saityi/advent-of-code-2018.svg)
 * [curiousyogurt/AdventOfCode](https://github.com/curiousyogurt/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/curiousyogurt/AdventOfCode.svg)
+* [dkvasnicka/advent-of-code](https://github.com/dkvasnicka/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dkvasnicka/advent-of-code.svg)
 
 #### ReasonML
 
