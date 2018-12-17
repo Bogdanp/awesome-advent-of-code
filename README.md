@@ -413,6 +413,7 @@ in your favourite language.*
 
 *Solutions to AoC in Rust.*
 
+* [BurntSushi/advent-of-code](https://github.com/BurntSushi/advent-of-code)
 * [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode) (`2018` branch; will be merged into `master` after the event)
 * [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Poooel/advent-of-code-2018.svg)
