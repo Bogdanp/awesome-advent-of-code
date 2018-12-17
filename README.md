@@ -258,6 +258,7 @@ in your favourite language.*
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/luna1nd1go/aoc-2018.svg)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mariotacke/advent-of-code-2018.svg)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/pizzafox/aoc-2018.svg)
+* [robchett/advent2018](https://github.com/robchett/advent2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/robchett/advent2018.svg)
 * [roebuk/advent-of-code](https://github.com/roebuk/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/roebuk/advent-of-code.svg)
 * [rovaniemi/advent-of-code-2018](https://github.com/rovaniemi/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rovaniemi/advent-of-code-2018.svg)
 * [sebranly/advent-of-code](https://github.com/sebranly/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sebranly/advent-of-code.svg)
