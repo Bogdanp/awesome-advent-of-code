@@ -12,8 +12,8 @@ This is a collection of awesome resources related to the yearly
 * [Other Advent Calendars](#other-advent-calendars)
 * [2018](#2018)
   * [Solutions](#solutions)
-    * [Ada](#ada)
     * [AWK](#awk)
+    * [Ada](#ada)
     * [Bash](#Bash)
     * [C](#c)
     * [C#](#c-1)
@@ -85,17 +85,17 @@ in your favourite language.*
 
 ### Solutions
 
-#### Ada
-
-*Solutions to AoC in Ada.*
-
-* [thorstel/Advent-of-Code-2018](https://github.com/thorstel/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thorstel/Advent-of-Code-2018.svg)
-
 #### AWK
 
 *Solutions to AoC in AWK.*
 
 * [phikal/aoc2018](https://github.com/phikal/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/phikal/aoc2018.svg)
+
+#### Ada
+
+*Solutions to AoC in Ada.*
+
+* [thorstel/Advent-of-Code-2018](https://github.com/thorstel/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thorstel/Advent-of-Code-2018.svg)
 
 #### Bash
 
