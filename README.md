@@ -108,6 +108,7 @@ in your favourite language.*
 *Solutions to AoC in C.*
 
 * [krokerik/Advent-of-Code](https://github.com/krokerik/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/krokerik/Advent-of-Code.svg)
+* [brandon1024/aoc2018](https://github.com/brandon1024/aoc2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/brandon1024/aoc2018.svg)
 
 #### C#
 
