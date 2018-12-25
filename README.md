@@ -377,6 +377,7 @@ in your favourite language.*
 * [RaczeQ/AdventOfCode2018](https://github.com/RaczeQ/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/RaczeQ/AdventOfCode2018.svg)
 * [fsschmitt/advent-of-code-2018](https://github.com/fsschmitt/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fsschmitt/advent-of-code-2018.svg)
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexeSimon/adventofcode.svg)
+* [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
 
 #### Racket
 
