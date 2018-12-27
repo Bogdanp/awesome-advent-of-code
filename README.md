@@ -248,7 +248,7 @@ in your favourite language.*
 * [ars216/Advent-of-Code-2018](https://github.com/ars216/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ars216/Advent-of-Code-2018.svg)
 * [jeffrosenberg/advent-of-code-2018](https://github.com/jeffrosenberg/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jeffrosenberg/advent-of-code-2018.svg)
 * [joethei/Advent-of-Code-2018](https://github.com/joethei/Advent-of-Code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/joethei/Advent-of-Code-2018.svg)
-* [arjvik/Contests (under `AdventOfCode/2018` folder)](https://github.com/arjvik/Contests) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/arjvik/Contests.svg)
+* [arjvik/Contests](https://github.com/arjvik/Contests) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/arjvik/Contests.svg)
 
 #### JavaScript
 
@@ -379,7 +379,7 @@ in your favourite language.*
 * [fsschmitt/advent-of-code-2018](https://github.com/fsschmitt/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fsschmitt/advent-of-code-2018.svg)
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexeSimon/adventofcode.svg)
 * [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
-
+* [katzuv/advent-of-code2018](https://github.com/katzuv/advent-of-code2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/katzuv/advent-of-code2018.svg)
 #### Racket
 
 *Solutions to AoC in Racket.*
@@ -424,7 +424,7 @@ in your favourite language.*
 
 *Solutions to AoC in Rust.*
 
-* [BurntSushi/advent-of-code](https://github.com/BurntSushi/advent-of-code)
+* [BurntSushi/advent-of-code](https://github.com/BurntSushi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/BurntSushi/advent-of-code.svg)
 * [(GitLab) BafDyce/adventofcode](https://gitlab.com/BafDyce/adventofcode) (`2018` branch; will be merged into `master` after the event)
 * [FichteFoll/advent-of-code](https://github.com/FichteFoll/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FichteFoll/advent-of-code.svg)
 * [Poooel/advent-of-code-2018](https://github.com/Poooel/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Poooel/advent-of-code-2018.svg)
