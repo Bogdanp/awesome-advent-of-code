@@ -172,7 +172,6 @@ in your favourite language.*
 
 * [axsuul/advent-of-code](https://github.com/axsuul/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/axsuul/advent-of-code.svg)
 * [bjorng/advent-of-code-2018](https://github.com/bjorng/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bjorng/advent-of-code-2018.svg)
-* [codybartfast/aoc18](https://github.com/codybartfast/aoc18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/codybartfast/aoc18.svg)
 * [kw7oe/advent-of-code-2018](https://github.com/kw7oe/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kw7oe/advent-of-code-2018.svg)
 * [oscarduignan/AdventOfCode2018](https://github.com/oscarduignan/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/oscarduignan/AdventOfCode2018.svg)
 * [sasa1977/aoc](https://github.com/sasa1977/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sasa1977/aoc.svg)
@@ -192,6 +191,7 @@ in your favourite language.*
 
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/CameronAavik/AdventOfCode.svg)
 * [andreasjhkarlsson/aoc-2018](https://github.com/andreasjhkarlsson/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/andreasjhkarlsson/aoc-2018.svg)
+* [codybartfast/aoc18](https://github.com/codybartfast/aoc18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/codybartfast/aoc18.svg)
 * [dmngrsk/advent-of-code-2018](https://github.com/dmngrsk/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dmngrsk/advent-of-code-2018.svg)
 * [ryepup/advent-of-code](https://github.com/ryepup/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ryepup/advent-of-code.svg)
 
