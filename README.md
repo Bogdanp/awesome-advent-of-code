@@ -268,6 +268,7 @@ in your favourite language.*
 * [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chinesedfan/adventofcode.svg)
 * [dxnter/advent-of-code-2018](https://github.com/dxnter/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dxnter/advent-of-code-2018.svg)
 * [eelof/advent-of-code-2018](https://github.com/eelof/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/eelof/advent-of-code-2018.svg)
+* [juwit/adventofcode-2018](https://github.com/juwit/adventofcode-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/juwit/adventofcode-2018.svg)
 * [luna1nd1go/aoc-2018](https://github.com/luna1nd1go/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/luna1nd1go/aoc-2018.svg)
 * [mariotacke/advent-of-code-2018](https://github.com/mariotacke/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mariotacke/advent-of-code-2018.svg)
 * [pizzafox/aoc-2018](https://github.com/pizzafox/aoc-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/pizzafox/aoc-2018.svg)
