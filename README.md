@@ -114,6 +114,7 @@ in your favourite language.*
 
 *Solutions to AoC in C#.*
 
+* [pdmatrix/advent-of-code](https://github.com/pdmatrix/advent-of-code) ![Last Commit on Github](https://img.shields.io/github/last-commit/pdmatrix/advent-of-code.svg)
 * [andi0b/adventofcode](https://github.com/andi0b/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/andi0b/adventofcode.svg)
 * [bersalazar/AoC2018](https://github.com/bersalazar/AoC2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bersalazar/AoC2018.svg)
 * [eduherminio/advent-of-code-2018](https://github.com/eduherminio/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/eduherminio/advent-of-code-2018.svg)
