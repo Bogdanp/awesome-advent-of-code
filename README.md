@@ -46,6 +46,7 @@ This is a collection of awesome resources related to the yearly
     * [Rust](#rust)
     * [Scala](#scala)
     * [Swift](#swift)
+    * [TypeScript](#typescript)
     * [Zig](#zig)
   * [Live Streams](#live-streams)
 
@@ -469,6 +470,12 @@ in your favourite language.*
 * [JeffreyCA/AdventOfCode18](https://github.com/JeffreyCA/AdventOfCode18) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/JeffreyCA/AdventOfCode18.svg)
 * [Levivig/AdventOfCode2018](https://github.com/Levivig/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Levivig/AdventOfCode2018.svg)
 * [davedelong/AOC](https://github.com/davedelong/AOC) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davedelong/AOC.svg)
+
+#### TypeScript
+
+*Solutions to AoC in TypeScript.*
+
+* [MattiasBuelens/advent-of-code-2018](https://github.com/MattiasBuelens/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/MattiasBuelens/advent-of-code-2018.svg)
 
 #### Zig
 
