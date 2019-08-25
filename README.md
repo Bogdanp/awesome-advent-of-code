@@ -218,6 +218,7 @@ in your favourite language.*
 * [tpaschalis/Golang-practice](https://github.com/tpaschalis/Golang-practice) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tpaschalis/Golang-practice.svg)
 * [wilbertom/advent-of-code-2018](https://github.com/wilbertom/advent-of-code-2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/wilbertom/advent-of-code-2018.svg)
 * [leononame/awesome-advent-of-code](https://github.com/leononame/awesome-advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/leononame/awesome-advent-of-code.svg)
+* [stephenfeagin/Go-AdventOfCode](https://github.com/stephenfeagin/Go-AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/stephenfeagin/Go-AdventOfCode.svg)
 
 #### Groovy
 
