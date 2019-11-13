@@ -387,6 +387,7 @@ in your favourite language.*
 * [katzuv/advent-of-code2018](https://github.com/katzuv/advent-of-code2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/katzuv/advent-of-code2018.svg)
 * [speixoto/advent-of-code](https://github.com/speixoto/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/speixoto/advent-of-code.svg)
 * [blu3r4y/AdventOfCode2018](https://github.com/blu3r4y/AdventOfCode2018) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/blu3r4y/AdventOfCode2018.svg)
+* [zenieldanaku/AdventOfCode](https://github.com/zenieldanaku/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/zenieldanaku/AdventOfCode.svg)
 
 #### Racket
 
