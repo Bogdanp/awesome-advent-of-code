@@ -74,6 +74,7 @@ in your favourite language.*
 * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aoc-ranking/) -- Browser extension for private leaderboard visualization
 * [Globals medals overview](http://www.maurits.vdschee.nl/scatterplot/medals.html) -- Alternative global leaderboard showing first, second and third places as gold, silver and bronze medals.
 * [Scatterplot of first 100](http://www.maurits.vdschee.nl/scatterplot/) -- Scatterplot of the time taken to solve the parts of each puzzle by the first 100 people that solved it.
+* [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
 
 ## Other Advent Calendars
 
