@@ -31,6 +31,7 @@ This is a collection of awesome resources related to the yearly
     * [Idris](#idris)
     * [Java](#java)
     * [JavaScript](#javascript)
+    * [Julia](#julia)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
     * [OCaml](#ocaml)
@@ -166,6 +167,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### JavaScript
 
 *Solutions to AoC in JavaScript.*
+
+#### Julia
+
+*Solutions to AoC in Julia.*
+
+* [gsoleilhac/aoc19.jl](https://github.com/gsoleilhac/aoc19.jl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gsoleilhac/aoc19.jl.svg)
 
 #### Kotlin
 
