@@ -85,6 +85,8 @@ in your favourite language.*
 
 **WARNING:** All of these likely contain spoilers.
 
+Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
+
 ### Solutions
 
 #### AWK
