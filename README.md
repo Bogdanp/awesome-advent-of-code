@@ -227,6 +227,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Scala.*
 
+* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sim642/adventofcode.svg)
+
 #### Swift
 
 *Solutions to AoC in Swift.*
