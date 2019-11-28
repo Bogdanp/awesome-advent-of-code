@@ -171,6 +171,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Kotlin.*
 
+* [0legg/adventofcode](https://github.com/0legg/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/0legg/adventofcode.svg)
+
 #### Nim
 
 *Solutions to AoC in Nim.*
