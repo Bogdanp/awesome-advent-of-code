@@ -10,6 +10,7 @@ This is a collection of awesome resources related to the yearly
 * [Project Templates](#project-templates)
 * [Tools and Utilities](#tools-and-utilities)
 * [Other Advent Calendars](#other-advent-calendars)
+* [2018](/2018.md)
 * [2019](#2019)
   * [Solutions](#solutions)
     * [AWK](#awk)
@@ -49,7 +50,6 @@ This is a collection of awesome resources related to the yearly
     * [TypeScript](#typescript)
     * [Zig](#zig)
   * [Live Streams](#live-streams)
-* [2018](/2018.md)
 
 ---
 
