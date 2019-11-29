@@ -31,6 +31,7 @@ This is a collection of awesome resources related to the yearly
     * [Idris](#idris)
     * [Java](#java)
     * [JavaScript](#javascript)
+    * [Julia](#julia)
     * [Kotlin](#kotlin)
     * [Nim](#nim)
     * [OCaml](#ocaml)
@@ -74,6 +75,8 @@ in your favourite language.*
 * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aoc-ranking/) -- Browser extension for private leaderboard visualization
 * [Globals medals overview](http://www.maurits.vdschee.nl/scatterplot/medals.html) -- Alternative global leaderboard showing first, second and third places as gold, silver and bronze medals.
 * [Scatterplot of first 100](http://www.maurits.vdschee.nl/scatterplot/) -- Scatterplot of the time taken to solve the parts of each puzzle by the first 100 people that solved it.
+* [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
+* [aoc-cli](https://github.com/keirua/aoc-cli) -- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions *(Ruby)*.
 
 ## Other Advent Calendars
 
@@ -110,6 +113,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C#.*
 
+* [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/encse/adventofcode.svg)
+
 #### C++
 
 *Solutions to AoC in C++.*
@@ -126,6 +131,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Dart.*
 
+* [julemand101/AdventOfCode2019](https://github.com/julemand101/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/julemand101/AdventOfCode2019.svg)
+
 #### Elixir
 
 *Solutions to AoC in Elixir.*
@@ -141,6 +148,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Go
 
 *Solutions to AoC in Go.*
+
+* [GreenLightning/aoc19](https://github.com/GreenLightning/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GreenLightning/aoc19.svg)
 
 #### Groovy
 
@@ -162,9 +171,18 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in JavaScript.*
 
+#### Julia
+
+*Solutions to AoC in Julia.*
+
+* [gsoleilhac/aoc19.jl](https://github.com/gsoleilhac/aoc19.jl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gsoleilhac/aoc19.jl.svg)
+
 #### Kotlin
 
 *Solutions to AoC in Kotlin.*
+
+* [0legg/adventofcode](https://github.com/0legg/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/0legg/adventofcode.svg)
+* [daafith/advent-of-code-2019](https://github.com/daafith/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/daafith/advent-of-code-2019.svg)
 
 #### Nim
 
@@ -185,6 +203,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Polyglot
 
 *Solutions to AoC in multiple languages.*
+
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 
 #### Pony
@@ -198,6 +217,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Python
 
 *Solutions to AoC in Python.*
+
+* [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
 
 #### Racket
 
@@ -215,6 +236,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Ruby.*
 
+* [Kazhuu/advent-of-code-2019](https://github.com/Kazhuu/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Kazhuu/advent-of-code-2019.svg)
+
 #### Rust
 
 *Solutions to AoC in Rust.*
@@ -222,6 +245,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Scala
 
 *Solutions to AoC in Scala.*
+
+* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sim642/adventofcode.svg)
 
 #### Swift
 
