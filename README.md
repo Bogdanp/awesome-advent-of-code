@@ -182,6 +182,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Julia.*
 
 * [gsoleilhac/aoc19.jl](https://github.com/gsoleilhac/aoc19.jl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gsoleilhac/aoc19.jl.svg)
+* [racinmat/advent_of_code_2019](https://github.com/racinmat/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/racinmat/advent_of_code_2019.svg)
 
 #### Kotlin
 
