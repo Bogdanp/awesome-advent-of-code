@@ -236,6 +236,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Ruby.*
 
 * [Kazhuu/advent-of-code-2019](https://github.com/Kazhuu/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Kazhuu/advent-of-code-2019.svg)
+* [keirua/adventofcode-rb](https://github.com/Keirua/adventofcode-rb) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Keirua/adventofcode-rb.svg)
 
 #### Rust
 
