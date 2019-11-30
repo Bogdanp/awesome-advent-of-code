@@ -13,9 +13,8 @@ badges.  Users will be able to figure out where the code for the
 current year is if you use the same repo for multiple years so don't
 worry about it.
 
-Adding your own repos is perfectly fine, but don't add the same repo
-to multiple sections.  If you use multiple languages, then you should
-add your repo to the "Polyglot" section.
+Adding your own repos is perfectly fine.  If you use multiple
+languages, then avoid adding your repo to more than 3 sections.
 
 Repositories not hosted on GitHub are fine, but they won't have a
 "last commit" badge.

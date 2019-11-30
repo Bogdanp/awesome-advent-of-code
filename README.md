@@ -37,7 +37,6 @@ This is a collection of awesome resources related to the yearly
     * [OCaml](#ocaml)
     * [PHP](#php)
     * [Perl](#perl)
-    * [Polyglot](#polyglot)
     * [Pony](#pony)
     * [PowerShell](#powershell)
     * [Python](#python)
@@ -137,6 +136,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Elixir.*
 
+* [dunyakirkali/aoc](https://github.com/dunyakirkali/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dunyakirkali/aoc.svg)
+
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
@@ -171,6 +172,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in JavaScript.*
 
+* [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chinesedfan/adventofcode.svg)
+
 #### Julia
 
 *Solutions to AoC in Julia.*
@@ -199,12 +202,6 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Perl
 
 *Solutions to AoC in Perl.*
-
-#### Polyglot
-
-*Solutions to AoC in multiple languages.*
-
-* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 
 #### Pony
 
@@ -242,6 +239,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Rust.*
 
+* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
+
 #### Scala
 
 *Solutions to AoC in Scala.*
@@ -255,6 +254,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
+
+* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 
 #### Zig
 
