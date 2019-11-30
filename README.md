@@ -136,6 +136,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Elixir
 
 *Solutions to AoC in Elixir.*
+ 
+* [dunyakirkali/aoc](https://github.com/dunyakirkali/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dunyakirkali/aoc.svg)
 
 #### Elm
 
