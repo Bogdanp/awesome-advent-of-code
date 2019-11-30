@@ -225,6 +225,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in ReasonML.*
 
+* [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/believer/advent-of-code.svg)
+
 #### Red
 
 *Solutions to AoC in Red.*
