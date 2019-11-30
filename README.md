@@ -248,6 +248,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code.svg)
+* [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
 
 #### Scala
 
