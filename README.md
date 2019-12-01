@@ -176,6 +176,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in JavaScript.*
 
 * [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chinesedfan/adventofcode.svg)
+* [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 
 #### Julia
 
@@ -202,6 +203,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### PHP
 
 *Solutions to AoC in PHP.*
+
+* [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 
 #### Perl
 
