@@ -245,6 +245,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [IFinners/advent-of-code](https://github.com/IFinners/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/IFinners/advent-of-code.svg)
 * [Levivig/AdventOfCode2019](https://github.com/Levivig/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Levivig/AdventOfCode2019.svg)
 * [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
+* [TristoKrempita/advent-of-code](https://github.com/TristoKrempita/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/TristoKrempita/advent-of-code.svg)
 
 #### R
 
