@@ -308,7 +308,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Swift.*
 
-* [evilmint/AdventOfCode](https://github.com/evilmint/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/evilmint/advent-of-code.svg)
+* [evilmint/AdventOfCode](https://github.com/evilmint/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/evilmint/AdventOfCode.svg)
 
 #### TypeScript
 
