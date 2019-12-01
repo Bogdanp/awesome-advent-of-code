@@ -148,6 +148,9 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in F#.*
 
+* [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/CameronAavik/AdventOfCode.svg)
+* [ChrisPritchard/AdventOfCode](https://github.com/ChrisPritchard/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ChrisPritchard/AdventOfCode.svg)
+
 #### Go
 
 *Solutions to AoC in Go.*
