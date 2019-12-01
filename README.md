@@ -118,6 +118,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/encse/adventofcode.svg)
 * [sanraith/aoc2019](https://github.com/sanraith/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sanraith/aoc2019.svg)
 * [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/viceroypenguin/adventofcode.svg)
+* [sindrekjr/AdventOfCode](https://github.com/sindrekjr/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sindrekjr/AdventOfCode.svg)
 
 #### C++
 
