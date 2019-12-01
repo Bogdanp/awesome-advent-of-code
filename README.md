@@ -108,6 +108,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C.*
 
+* [coder5506/advent-of-code-2019](https://github.com/coder5506/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/coder5506/advent-of-code-2019.svg)
+
 #### C#
 
 *Solutions to AoC in C#.*
