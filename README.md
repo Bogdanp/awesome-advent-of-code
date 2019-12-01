@@ -20,6 +20,7 @@ This is a collection of awesome resources related to the yearly
     * [C#](#c-1)
     * [C++](#c-2)
     * [Clojure](#clojure)
+    * [Common Lisp](#common-lisp)
     * [Crystal](#crystal)
     * [Dart](#dart)
     * [Elixir](#elixir)
@@ -130,6 +131,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Clojure.*
 
 * [fdlk/advent-2019](https://github.com/fdlk/advent-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fdlk/advent-2019.svg)
+
+#### Common Lisp
+
+*Solutions to AoC in Common Lisp.*
+
+* [topikettunen/advent-of-code-2019](https://github.com/topikettunen/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/topikettunen/advent-of-code-2019.svg)
 
 #### Crystal
 
