@@ -176,6 +176,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Haskell.*
 
 * [hashedone/advent-of-code-2019-hask](https://github.com/hashedone/advent-of-code-2019-hask) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hashedone/advent-of-code-2019-hask.svg)
+* [nrdmn/adventofcode2019](https://github.com/nrdmn/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nrdmn/adventofcode2019.svg)
 * [webbiscuit/adventofcode](https://github.com/webbiscuit/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode.svg)
 
 #### Idris
