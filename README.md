@@ -148,12 +148,16 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in F#.*
 
+* [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/CameronAavik/AdventOfCode.svg)
+* [ChrisPritchard/AdventOfCode](https://github.com/ChrisPritchard/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ChrisPritchard/AdventOfCode.svg)
+
 #### Go
 
 *Solutions to AoC in Go.*
 
 * [GreenLightning/aoc19](https://github.com/GreenLightning/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GreenLightning/aoc19.svg)
 * [davidaayers/advent-of-code-2019](https://github.com/davidaayers/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidaayers/advent-of-code-2019.svg)
+* [Ullaakut/aoc19](https://github.com/Ullaakut/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Ullaakut/aoc19.svg)
 
 #### Groovy
 
@@ -204,6 +208,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in PHP.*
 
+* [cbzink/advent-of-code-2019](https://github.com/cbzink/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/cbzink/advent-of-code-2019.svg)
 * [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 
 #### Perl
