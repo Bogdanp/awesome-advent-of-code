@@ -20,6 +20,7 @@ This is a collection of awesome resources related to the yearly
     * [C#](#c-1)
     * [C++](#c-2)
     * [Clojure](#clojure)
+    * [Common Lisp](#common-lisp)
     * [Crystal](#crystal)
     * [Dart](#dart)
     * [Elixir](#elixir)
