@@ -163,8 +163,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Go.*
 
 * [GreenLightning/aoc19](https://github.com/GreenLightning/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GreenLightning/aoc19.svg)
-* [davidaayers/advent-of-code-2019](https://github.com/davidaayers/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidaayers/advent-of-code-2019.svg)
 * [Ullaakut/aoc19](https://github.com/Ullaakut/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Ullaakut/aoc19.svg)
+* [davidaayers/advent-of-code-2019](https://github.com/davidaayers/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidaayers/advent-of-code-2019.svg)
 * [gliderGeek/adventofcode19](https://github.com/gliderGeek/adventofcode19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gliderGeek/adventofcode19.svg)
 
 #### Groovy
@@ -191,8 +191,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in JavaScript.*
 
 * [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chinesedfan/adventofcode.svg)
-* [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 * [gavinhenderson/advent-of-code](https://github.com/gavinhenderson/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gavinhenderson/advent-of-code.svg)
+* [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 
 #### Julia
 
@@ -239,10 +239,10 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Python.*
 
-* [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
 * [Dementophobia/advent-of-code-2019](https://github.com/Dementophobia/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Dementophobia/advent-of-code-2019.svg)
-* [Levivig/AdventOfCode2019](https://github.com/Levivig/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Levivig/AdventOfCode2019.svg)
 * [IFinners/advent-of-code](https://github.com/IFinners/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/IFinners/advent-of-code.svg)
+* [Levivig/AdventOfCode2019](https://github.com/Levivig/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Levivig/AdventOfCode2019.svg)
+* [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
 
 #### R
 
@@ -280,8 +280,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code.svg)
 * [dashed/advent-of-code](https://github.com/dashed/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dashed/advent-of-code.svg)
-* [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
 * [hashedone/advent-of-code-2019-rust](https://github.com/hashedone/advent-of-code-2019-rust) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hashedone/advent-of-code-2019-rust.svg)
+* [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
 
 #### Scala
 
