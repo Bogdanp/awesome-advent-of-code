@@ -325,6 +325,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in TypeScript.*
 
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
+* [florianfreier/AdventOfCode2019](https://github.com/florianfreier/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/florianfreier/AdventOfCode2019.svg)
 
 #### Zig
 
