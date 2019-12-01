@@ -256,9 +256,9 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Rust.*
 
-* [dashed/advent-of-code](https://github.com/dashed/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dashed/advent-of-code.svg)
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code.svg)
+* [dashed/advent-of-code](https://github.com/dashed/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dashed/advent-of-code.svg)
 * [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
 
 #### Scala
