@@ -24,6 +24,7 @@ This is a collection of awesome resources related to the yearly
     * [Dart](#dart)
     * [Elixir](#elixir)
     * [Elm](#elm)
+    * [Erlang](#erlang)
     * [F#](#f)
     * [Go](#go)
     * [Groovy](#groovy)
@@ -151,6 +152,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
+
+#### Erlang
+
+*Solutions to AoC in Erlang.*
+
+* [rhbvkleef/aoc2019](https://github.com/rhbvkleef/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rhbvkleef/aoc2019.svg)
 
 #### F#
 
