@@ -40,6 +40,7 @@ This is a collection of awesome resources related to the yearly
     * [Pony](#pony)
     * [PowerShell](#powershell)
     * [Python](#python)
+    * [R](#r)
     * [Racket](#racket)
     * [ReasonML](#reasonml)
     * [Red](#red)
