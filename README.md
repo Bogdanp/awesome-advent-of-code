@@ -292,6 +292,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in R.*
 
 * [Morawski21/Advent-of-Code-2019-in-R](https://github.com/Morawski21/Advent-of-Code-2019-in-R) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Morawski21/Advent-of-Code-2019-in-R.svg)
+* [davidmasp/adventofcode-dmp](https://github.com/davidmasp/adventofcode-dmp) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidmasp/adventofcode-dmp.svg)
 
 #### Racket
 
