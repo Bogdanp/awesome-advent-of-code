@@ -22,6 +22,7 @@ This is a collection of awesome resources related to the yearly
     * [Clojure](#clojure)
     * [Common Lisp](#common-lisp)
     * [Crystal](#crystal)
+    * [D](#d)
     * [Dart](#dart)
     * [Elixir](#elixir)
     * [Elm](#elm)
@@ -145,6 +146,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Crystal.*
 
 * [salival1/advent-2019](https://github.com/salival1/advent-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/salival1/advent-2019.svg)
+
+#### D
+
+*Solutions to AoC in D.*
+
+* [jrfondren/adventofcode](https://github.com/jrfondren/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jrfondren/adventofcode.svg)
 
 #### Dart
 
