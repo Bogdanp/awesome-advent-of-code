@@ -169,6 +169,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [dunyakirkali/aoc](https://github.com/dunyakirkali/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dunyakirkali/aoc.svg)
 * [jwarwick/aoc_2019](https://github.com/jwarwick/aoc_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jwarwick/aoc_2019.svg)
+* [manniL/aoc-2019-elixir](https://github.com/manniL/aoc-2019-elixir) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/manniL/aoc-2019-elixir.svg)
 
 #### Elm
 
