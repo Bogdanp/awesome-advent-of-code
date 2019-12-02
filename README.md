@@ -68,6 +68,7 @@ in your favourite language.*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) *(C#)*
+* [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter) *(Clojure)*
 
 ## Tools and Utilities
 
