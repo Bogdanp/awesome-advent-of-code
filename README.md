@@ -121,7 +121,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in C#.*
 
 * [alexchro93/AdventOfCode](https://github.com/alexchro93/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/alexchro93/AdventOfCode.svg)
-* [AnkurSheel/AdventOfCode2019.git](https://github.com/AnkurSheel/AdventOfCode2019.git) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnkurSheel/AdventOfCode2019.git.svg)
+* [AnkurSheel/AdventOfCode2019](https://github.com/AnkurSheel/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AnkurSheel/AdventOfCode2019.svg)
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/encse/adventofcode.svg)
 * [sanraith/aoc2019](https://github.com/sanraith/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sanraith/aoc2019.svg)
 * [sindrekjr/AdventOfCode](https://github.com/sindrekjr/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sindrekjr/AdventOfCode.svg)
