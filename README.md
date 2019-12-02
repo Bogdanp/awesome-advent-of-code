@@ -266,6 +266,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [PatMyron/advent-of-code](https://github.com/PatMyron/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PatMyron/advent-of-code.svg)
 * [TristoKrempita/advent-of-code](https://github.com/TristoKrempita/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/TristoKrempita/advent-of-code.svg)
 * [ste001/advent-of-code-2019](https://github.com/ste001/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ste001/advent-of-code-2019.svg)
+* [metzbernhard/aoc2019](https://github.com/metzbernhard/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/metzbernhard/aoc2019.svg)
 
 #### R
 
