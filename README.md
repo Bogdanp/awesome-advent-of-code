@@ -316,6 +316,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [Kazhuu/advent-of-code-2019](https://github.com/Kazhuu/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Kazhuu/advent-of-code-2019.svg)
 * [Keirua/adventofcode-rb](https://github.com/Keirua/adventofcode-rb) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Keirua/adventofcode-rb.svg)
+* [Pungsnigel/advent_of_code_2019](https://github.com/Pungsnigel/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Pungsnigel/advent_of_code_2019.svg)
 
 #### Rust
 
