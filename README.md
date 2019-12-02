@@ -208,6 +208,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [hashedone/advent-of-code-2019-hask](https://github.com/hashedone/advent-of-code-2019-hask) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hashedone/advent-of-code-2019-hask.svg)
 * [nrdmn/adventofcode2019](https://github.com/nrdmn/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nrdmn/adventofcode2019.svg)
 * [webbiscuit/adventofcode](https://github.com/webbiscuit/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode.svg)
+* [ephemient/aoc2019#hs](https://github.com/ephemient/aoc2019/tree/hs) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/hs.svg)
 
 #### Idris
 
@@ -249,6 +250,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [0legg/adventofcode](https://github.com/0legg/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/0legg/adventofcode.svg)
 * [daafith/advent-of-code-2019](https://github.com/daafith/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/daafith/advent-of-code-2019.svg)
 * [mew/aoc-2019](https://github.com/mew/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mew/aoc-2019.svg)
+* [ephemient/aoc2019#kt](https://github.com/ephemient/aoc2019/tree/kt) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/kt.svg)
 
 #### Nim
 
@@ -298,6 +300,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [ste001/advent-of-code-2019](https://github.com/ste001/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ste001/advent-of-code-2019.svg)
 * [vincent-vega/adventofcode](https://github.com/vincent-vega/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vincent-vega/adventofcode.svg)
 * [visini/aoc2019](https://github.com/visini/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/visini/aoc2019.svg)
+* [ephemient/aoc2019#py](https://github.com/ephemient/aoc2019/tree/py) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/py.svg)
 
 #### R
 
