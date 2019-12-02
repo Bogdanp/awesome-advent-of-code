@@ -49,6 +49,7 @@ This is a collection of awesome resources related to the yearly
     * [Red](#red)
     * [Ruby](#ruby)
     * [Rust](#rust)
+    * [Smalltalk](#smalltalk)
     * [Scala](#scala)
     * [Swift](#swift)
     * [TypeScript](#typescript)
@@ -320,6 +321,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
 * [alyti/aoc-2019](https://github.com/alyti/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/alyti/aoc-2019.svg)
 * [fornwall/advent-of-code-2019-rs](https://github.com/fornwall/advent-of-code-2019-rs) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fornwall/advent-of-code-2019-rs.svg)
+
+#### Smalltalk
+
+*Solutions to AoC in Common Smalltalk.*
+
+* [thiagoslino/Advent-of-Code-2019](https://github.com/thiagoslino/Advent-of-Code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thiagoslino/Advent-of-Code-2019.svg)
 
 #### Scala
 
