@@ -211,6 +211,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [gavinhenderson/advent-of-code](https://github.com/gavinhenderson/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gavinhenderson/advent-of-code.svg)
 * [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 * [atme/advent-of-code](https://github.com/atme/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/atme/advent-of-code.svg)
+* [arnauddrain/advent-of-code-2019](https://github.com/arnauddrain/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/arnauddrain/advent-of-code-2019.svg)
 
 #### Julia
 
