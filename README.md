@@ -277,6 +277,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Python.*
 
+* [elvinyhlee/advent-of-code-2019-python](https://github.com/elvinyhlee/advent-of-code-2019-python) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/elvinyhlee/advent-of-code-2019-python.svg)
 * [0x8b/advent-of-code-2019](https://github.com/0x8b/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/0x8b/advent-of-code-2019.svg)
 * [BogDAAAMN/advent-of-code](https://github.com/BogDAAAMN/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/BogDAAAMN/advent-of-code.svg)
 * [Dementophobia/advent-of-code-2019](https://github.com/Dementophobia/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Dementophobia/advent-of-code-2019.svg)
