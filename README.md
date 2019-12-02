@@ -342,7 +342,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 #### Smalltalk
 
-*Solutions to AoC in Common Smalltalk.*
+*Solutions to AoC in Smalltalk.*
 
 * [thiagoslino/Advent-of-Code-2019](https://github.com/thiagoslino/Advent-of-Code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thiagoslino/Advent-of-Code-2019.svg)
 
