@@ -281,6 +281,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in PowerShell.*
 
+* [Crucerio/adventofcode](https://github.com/Crucerio/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Crucerio/awesome-advent-of-code.svg)
+
 #### Python
 
 *Solutions to AoC in Python.*
