@@ -228,6 +228,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jackcutting/aoc2019](https://github.com/jackcutting/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jackcutting/aoc2019.svg)
 * [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 * [GigaNova/advent-of-code-2019](https://github.com/GigaNova/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GigaNova/advent-of-code-2019.svg)
+* [bureson/advent-of-code-2019](https://github.com/bureson/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bureson/advent-of-code-2019.svg)
 
 #### Julia
 
