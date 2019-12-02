@@ -216,6 +216,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Java.*
 
+* [giganova/advent-of-code-2019-java](https://github.com/giganova/advent-of-code-2019-java) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/giganova/advent-of-code-2019-java.svg)
+
 #### JavaScript
 
 *Solutions to AoC in JavaScript.*
