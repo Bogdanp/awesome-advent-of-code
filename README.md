@@ -228,6 +228,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jackcutting/aoc2019](https://github.com/jackcutting/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jackcutting/aoc2019.svg)
 * [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 * [GigaNova/advent-of-code-2019](https://github.com/GigaNova/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GigaNova/advent-of-code-2019.svg)
+* [bureson/advent-of-code-2019](https://github.com/bureson/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/bureson/advent-of-code-2019.svg)
 
 #### Julia
 
@@ -276,6 +277,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Python.*
 
+* [elvinyhlee/advent-of-code-2019-python](https://github.com/elvinyhlee/advent-of-code-2019-python) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/elvinyhlee/advent-of-code-2019-python.svg)
 * [0x8b/advent-of-code-2019](https://github.com/0x8b/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/0x8b/advent-of-code-2019.svg)
 * [BogDAAAMN/advent-of-code](https://github.com/BogDAAAMN/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/BogDAAAMN/advent-of-code.svg)
 * [Dementophobia/advent-of-code-2019](https://github.com/Dementophobia/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Dementophobia/advent-of-code-2019.svg)
@@ -290,6 +292,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [vincent-vega/adventofcode](https://github.com/vincent-vega/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vincent-vega/adventofcode.svg)
 * [Miccowhy/adventofcode2019](https://github.com/Miccowhy/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Miccowhy/adventofcode2019.svg)
 * [visini/aoc2019](https://github.com/visini/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/visini/aoc2019.svg)
+* [gbusch/AdventOfCode](https://github.com/gbusch/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gbusch/AdventOfCode.svg)
 
 #### R
 
