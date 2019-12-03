@@ -360,6 +360,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Rust.*
 
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
+* [AmauryCarrade/AdventOfCode2019](https://github.com/AmauryCarrade/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AmauryCarrade/AdventOfCode2019.svg)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DarthGandalf/advent-of-code.svg)
 * [alyti/aoc-2019](https://github.com/alyti/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/alyti/aoc-2019.svg)
 * [dashed/advent-of-code](https://github.com/dashed/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dashed/advent-of-code.svg)
