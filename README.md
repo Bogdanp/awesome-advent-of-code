@@ -303,6 +303,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [vincent-vega/adventofcode](https://github.com/vincent-vega/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vincent-vega/adventofcode.svg)
 * [visini/aoc2019](https://github.com/visini/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/visini/aoc2019.svg)
 * [ephemient/aoc2019#py](https://github.com/ephemient/aoc2019/tree/py) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/py.svg)
+* [Akumatic/Advent-of-Code](https://github.com/Akumatic/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Akumatic/Advent-of-Code.svg)
 
 #### R
 
