@@ -177,7 +177,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [dunyakirkali/aoc](https://github.com/dunyakirkali/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dunyakirkali/aoc.svg)
 * [jwarwick/aoc_2019](https://github.com/jwarwick/aoc_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jwarwick/aoc_2019.svg)
 * [manniL/aoc-2019-elixir](https://github.com/manniL/aoc-2019-elixir) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/manniL/aoc-2019-elixir.svg)
-* [es1o/adventofcode](https://github.com/es1o/adventofcode) ![Last Commit on Github](https://img.shields.io/github/last-commit/es1o/adventofcode.svg) 
+* [es1o/adventofcode](https://github.com/es1o/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/es1o/adventofcode.svg)
 
 #### Elm
 
@@ -327,6 +327,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [ephemient/aoc2019#py](https://github.com/ephemient/aoc2019/tree/py) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/py.svg)
 * [Akumatic/Advent-of-Code](https://github.com/Akumatic/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Akumatic/Advent-of-Code.svg)
 * [mevdschee/AdventOfCode2019](https://github.com/mevdschee/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mevdschee/AdventOfCode2019.svg)
+* [a-red-christmas/aoc2019-ae](https://github.com/a-red-christmas/aoc2019-ae) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/a-red-christmas/aoc2019-ae.svg)
 
 #### R
 
