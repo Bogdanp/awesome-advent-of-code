@@ -177,7 +177,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [dunyakirkali/aoc](https://github.com/dunyakirkali/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dunyakirkali/aoc.svg)
 * [jwarwick/aoc_2019](https://github.com/jwarwick/aoc_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jwarwick/aoc_2019.svg)
 * [manniL/aoc-2019-elixir](https://github.com/manniL/aoc-2019-elixir) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/manniL/aoc-2019-elixir.svg)
-* [es1o/adventofcode](https://github.com/es1o/adventofcode) ![Last Commit on Github](https://img.shields.io/github/last-commit/es1o/adventofcode.svg) 
+* [es1o/adventofcode](https://github.com/es1o/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/es1o/adventofcode.svg)
 
 #### Elm
 
@@ -206,6 +206,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [gliderGeek/adventofcode19](https://github.com/gliderGeek/adventofcode19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gliderGeek/adventofcode19.svg)
 * [howden/advent19](https://github.com/howden/advent19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/howden/advent19.svg)
 * [kissgyorgy/adventofcode2019](https://github.com/kissgyorgy/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kissgyorgy/adventofcode2019.svg)
+* [devries/advent_of_code_2019](https://github.com/devries/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/devries/advent_of_code_2019.svg)
 
 #### Groovy
 
