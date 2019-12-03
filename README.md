@@ -73,6 +73,8 @@ in your favourite language.*
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) *(C#)*
 * [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter) *(Clojure)*
+* [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js) *(JavaScript)*
+* [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
 
 ## Tools and Utilities
 
@@ -293,7 +295,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in PowerShell.*
 
-* [Crucerio/adventofcode](https://github.com/Crucerio/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Crucerio/awesome-advent-of-code.svg)
+* [Crucerio/adventofcode](https://github.com/Crucerio/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Crucerio/adventofcode.svg)
 
 #### Python
 
@@ -388,6 +390,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AlexAegis/advent-of-code.svg)
 * [florianfreier/AdventOfCode2019](https://github.com/florianfreier/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/florianfreier/AdventOfCode2019.svg)
+* [caderek/aoc2019](https://github.com/caderek/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/caderek/aoc2019.svg)
 
 #### Zig
 
