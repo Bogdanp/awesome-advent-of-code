@@ -36,6 +36,7 @@ This is a collection of awesome resources related to the yearly
     * [JavaScript](#javascript)
     * [Julia](#julia)
     * [Kotlin](#kotlin)
+    * [LDPL](#ldpl)
     * [Nim](#nim)
     * [OCaml](#ocaml)
     * [PHP](#php)
@@ -253,6 +254,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [daafith/advent-of-code-2019](https://github.com/daafith/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/daafith/advent-of-code-2019.svg)
 * [mew/aoc-2019](https://github.com/mew/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mew/aoc-2019.svg)
 * [ephemient/aoc2019#kt](https://github.com/ephemient/aoc2019/tree/kt) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/kt.svg)
+
+#### LDPL
+
+*Solutions to AoC in LDPL.*
+
+* [dgarroDC/advent-of-code-2019-ldpl](https://github.com/dgarroDC/advent-of-code-2019-ldpl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dgarroDC/advent-of-code-2019-ldpl.svg)
 
 #### Nim
 
