@@ -219,6 +219,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [nrdmn/adventofcode2019](https://github.com/nrdmn/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nrdmn/adventofcode2019.svg)
 * [webbiscuit/adventofcode](https://github.com/webbiscuit/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode.svg)
 * [ephemient/aoc2019#hs](https://github.com/ephemient/aoc2019/tree/hs) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/hs.svg)
+* [glguy/advent2019](https://github.com/glguy/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/glguy/advent2019.svg)
 
 #### Idris
 
