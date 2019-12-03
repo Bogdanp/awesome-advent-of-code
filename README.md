@@ -253,6 +253,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [daafith/advent-of-code-2019](https://github.com/daafith/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/daafith/advent-of-code-2019.svg)
 * [mew/aoc-2019](https://github.com/mew/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mew/aoc-2019.svg)
 * [ephemient/aoc2019#kt](https://github.com/ephemient/aoc2019/tree/kt) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ephemient/aoc2019/kt.svg)
+* [hughjdavey/aoc-2019](https://github.com/hughjdavey/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hughjdavey/aoc-2019.svg)
 
 #### Nim
 
