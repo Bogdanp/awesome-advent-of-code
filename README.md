@@ -268,6 +268,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in LDPL.*
 
 * [dgarroDC/advent-of-code-2019-ldpl](https://github.com/dgarroDC/advent-of-code-2019-ldpl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dgarroDC/advent-of-code-2019-ldpl.svg)
+* [Lartu/adventOfCode2019](https://github.com/Lartu/adventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Lartu/adventOfCode2019.svg)
 
 #### Nim
 
