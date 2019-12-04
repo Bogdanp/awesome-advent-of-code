@@ -145,6 +145,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [fdlk/advent-2019](https://github.com/fdlk/advent-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fdlk/advent-2019.svg)
 * [fctorial/adventofcode2019-clojure](https://github.com/fctorial/adventofcode2019-clojure) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fctorial/adventofcode2019-clojure.svg)
 * [alexparlett/advent-of-code-2019](https://github.com/alexparlett/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/alexparlett/advent-of-code-2019.svg)
+* [felipecortez/advent-of-code](https://github.com/felipecortez/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/felipecortez/advent-of-code.svg)
 
 #### Common Lisp
 
