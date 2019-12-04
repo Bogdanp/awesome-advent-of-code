@@ -348,6 +348,11 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [Morawski21/Advent-of-Code-2019-in-R](https://github.com/Morawski21/Advent-of-Code-2019-in-R) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Morawski21/Advent-of-Code-2019-in-R.svg)
 * [davidmasp/adventofcode-dmp](https://github.com/davidmasp/adventofcode-dmp) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidmasp/adventofcode-dmp.svg)
 * [akulumbeg/adventofcode](https://github.com/akulumbeg/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/akulumbeg/adventofcode.svg)
+* [EdwinTh/AoC_2019](https://github.com/EdwinTh/AoC_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/EdwinTh/AoC_2019.svg)
+* [adam-gruer/aoc2019](https://github.com/adam-gruer/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/adam-gruer/aoc2019.svg)
+* [Cattiva/adventofcode](https://github.com/Cattiva/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Cattiva/adventofcode.svg)
+* [riinuots/advent2019](https://github.com/riinuots/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/riinuots/advent2019.svg)
+* [mpjdem/adventofcode2019](https://github.com/mpjdem/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mpjdem/adventofcode2019.svg)
 
 #### Racket
 
