@@ -52,6 +52,7 @@ This is a collection of awesome resources related to the yearly
     * [Rust](#rust)
     * [Smalltalk](#smalltalk)
     * [Scala](#scala)
+    * [Scheme](#scheme)
     * [Swift](#swift)
     * [TypeScript](#typescript)
     * [Zig](#zig)
@@ -400,6 +401,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [FlorianCassayre/AdventOfCode-2019](https://github.com/FlorianCassayre/AdventOfCode-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/FlorianCassayre/AdventOfCode-2019.svg)
 * [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/matelaszlo/advent-of-code-scala.svg)
 * [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sim642/adventofcode.svg)
+
+#### Scheme
+
+*Solutions to AoC in Scheme.*
+
+* [nenadom/AdventOfCode](https://github.com/nenadom/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nenadom/AdventOfCode.svg)
 
 #### Swift
 
