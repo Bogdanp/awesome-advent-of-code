@@ -295,6 +295,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Perl.*
 
+* [lskatz/advent-of-code](https://github.com/lskatz/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lskatz/advent-of-code.svg)
+
 #### Pony
 
 *Solutions to AoC in Pony.*
