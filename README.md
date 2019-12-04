@@ -281,6 +281,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in OCaml.*
 
+* [georgek42/AOC2019](https://github.com/georgek42/AOC2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/georgek42/AOC2019.svg)
+
 #### PHP
 
 *Solutions to AoC in PHP.*
