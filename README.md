@@ -146,6 +146,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [fctorial/adventofcode2019-clojure](https://github.com/fctorial/adventofcode2019-clojure) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fctorial/adventofcode2019-clojure.svg)
 * [alexparlett/advent-of-code-2019](https://github.com/alexparlett/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/alexparlett/advent-of-code-2019.svg)
 * [felipecortez/advent-of-code](https://github.com/felipecortez/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/felipecortez/advent-of-code.svg)
+* [agrison/advent-of-code-2019](https://github.com/agrison/advent-of-code-2019/) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/agrison/advent-of-code-2019.svg)
 
 #### Common Lisp
 
@@ -233,6 +234,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [giganova/advent-of-code-2019-java](https://github.com/giganova/advent-of-code-2019-java) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/giganova/advent-of-code-2019-java.svg)
 * [SimonBaars/adventOfCode-2019](https://github.com/SimonBaars/adventOfCode-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SimonBaars/adventOfCode-2019.svg)
+* [agrison/advent-of-code-2019](https://github.com/agrison/advent-of-code-2019/) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/agrison/advent-of-code-2019.svg)
 
 #### JavaScript
 
