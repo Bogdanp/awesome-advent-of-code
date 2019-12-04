@@ -202,6 +202,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Go.*
 
+* [lynerist/Advent-of-code-2019-golang](https://github.com/lynerist/Advent-of-code-2019-golang) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lynerist/Advent-of-code-2019-golang.svg)
 * [GreenLightning/aoc19](https://github.com/GreenLightning/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GreenLightning/aoc19.svg)
 * [Ullaakut/aoc19](https://github.com/Ullaakut/aoc19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Ullaakut/aoc19.svg)
 * [davidaayers/advent-of-code-2019](https://github.com/davidaayers/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidaayers/advent-of-code-2019.svg)
@@ -317,6 +318,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Python.*
 
+* [mpindaro/advent-of-code-2019](https://bitbucket.org/mpindaro/advent-of-code-2019/src/master/)
 * [0x8b/advent-of-code-2019](https://github.com/0x8b/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/0x8b/advent-of-code-2019.svg)
 * [BogDAAAMN/advent-of-code](https://github.com/BogDAAAMN/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/BogDAAAMN/advent-of-code.svg)
 * [Dementophobia/advent-of-code-2019](https://github.com/Dementophobia/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Dementophobia/advent-of-code-2019.svg)
