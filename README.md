@@ -181,6 +181,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jwarwick/aoc_2019](https://github.com/jwarwick/aoc_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jwarwick/aoc_2019.svg)
 * [manniL/aoc-2019-elixir](https://github.com/manniL/aoc-2019-elixir) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/manniL/aoc-2019-elixir.svg)
 * [es1o/adventofcode](https://github.com/es1o/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/es1o/adventofcode.svg)
+* [Firebain/adventofcode](https://github.com/Firebain/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Firebain/adventofcode.svg)
 
 #### Elm
 
@@ -211,6 +212,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [howden/advent19](https://github.com/howden/advent19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/howden/advent19.svg)
 * [kissgyorgy/adventofcode2019](https://github.com/kissgyorgy/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kissgyorgy/adventofcode2019.svg)
 * [devries/advent_of_code_2019](https://github.com/devries/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/devries/advent_of_code_2019.svg)
+* [chigley/advent2019](https://github.com/chigley/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chigley/advent2019.svg)
 
 #### Groovy
 
@@ -257,6 +259,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [vguerrerobosch/advent-of-code-2019](https://github.com/vguerrerobosch/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vguerrerobosch/advent-of-code-2019.svg)
 * [gamma032steam/Advent-of-code](https://github.com/gamma032steam/Advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gamma032steam/Advent-of-code.svg)
 * [entibo/advent-of-code-golf-2019](https://github.com/entibo/advent-of-code-golf-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/entibo/advent-of-code-golf-2019.svg)
+* [imsalahdev/adventofcode-2019](https://github.com/imsalahdev/adventofcode-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/imsalahdev/adventofcode-2019.svg)
 
 #### Julia
 
