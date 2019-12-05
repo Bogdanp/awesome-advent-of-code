@@ -211,6 +211,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [howden/advent19](https://github.com/howden/advent19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/howden/advent19.svg)
 * [kissgyorgy/adventofcode2019](https://github.com/kissgyorgy/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kissgyorgy/adventofcode2019.svg)
 * [devries/advent_of_code_2019](https://github.com/devries/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/devries/advent_of_code_2019.svg)
+* [chigley/advent2019](https://github.com/chigley/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chigley/advent2019.svg)
 
 #### Groovy
 
