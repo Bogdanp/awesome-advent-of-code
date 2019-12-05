@@ -159,6 +159,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Crystal.*
 
+* [PenguinOwl/advent2019](https://github.com/PenguinOwl/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/PenguinOwl/advent2019.svg)
 * [salival1/advent-2019](https://github.com/salival1/advent-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/salival1/advent-2019.svg)
 
 #### D
