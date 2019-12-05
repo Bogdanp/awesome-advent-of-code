@@ -256,6 +256,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [Jedi-Fullstack-Avengers/AdventOfCode](https://github.com/Jedi-Fullstack-Avengers/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Jedi-Fullstack-Avengers/AdventOfCode.svg)
 * [vguerrerobosch/advent-of-code-2019](https://github.com/vguerrerobosch/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vguerrerobosch/advent-of-code-2019.svg)
 * [gamma032steam/Advent-of-code](https://github.com/gamma032steam/Advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gamma032steam/Advent-of-code.svg)
+* [entibo/advent-of-code-golf-2019](https://github.com/entibo/advent-of-code-golf-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/entibo/advent-of-code-golf-2019.svg)
 
 #### Julia
 
