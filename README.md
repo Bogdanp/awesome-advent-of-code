@@ -254,6 +254,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [GigaNova/advent-of-code-2019](https://github.com/GigaNova/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/GigaNova/advent-of-code-2019.svg)
 * [Jedi-Fullstack-Avengers/AdventOfCode](https://github.com/Jedi-Fullstack-Avengers/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Jedi-Fullstack-Avengers/AdventOfCode.svg)
+* [MaxArt2501/advent-of-code-2019](https://github.com/MaxArt2501/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/MaxArt2501/advent-of-code-2019.svg)
 * [RaedsLab/advent-of-code](https://github.com/RaedsLab/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/RaedsLab/advent-of-code.svg)
 * [arnauddrain/advent-of-code-2019](https://github.com/arnauddrain/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/arnauddrain/advent-of-code-2019.svg)
 * [atme/advent-of-code](https://github.com/atme/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/atme/advent-of-code.svg)
