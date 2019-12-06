@@ -286,6 +286,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [hughjdavey/aoc-2019](https://github.com/hughjdavey/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hughjdavey/aoc-2019.svg)
 * [mew/aoc-2019](https://github.com/mew/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mew/aoc-2019.svg)
 * [jgoerner/aoc-2019](https://github.com/jgoerner/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jgoerner/aoc-2019.svg)
+* [jorispz/aoc-2019](https://github.com/jorispz/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jorispz/aoc-2019.svg)
 
 #### LDPL
 
