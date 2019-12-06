@@ -219,6 +219,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [lynerist/Advent-of-code-2019-golang](https://github.com/lynerist/Advent-of-code-2019-golang) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lynerist/Advent-of-code-2019-golang.svg)
 * [sasom/adventofcode19](https://gitlab.com/sasom/adventofcode19)
 * [thlacroix/goadvent](https://github.com/thlacroix/goadvent) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thlacroix/goadvent.svg)
+* [hierynomus/2019-adventofcode.com](https://github.com/hierynomus/code-challenges/tree/master/2019-adventofcode.com) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hierynomus/code-challenges.svg)
 
 #### Groovy
 
