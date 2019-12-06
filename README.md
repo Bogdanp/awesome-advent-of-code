@@ -110,6 +110,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Ada
 
 *Solutions to AoC in Ada.*
+
 * [jamestomasino/advent-of-code-2019](https://github.com/jamestomasino/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jamestomasino/advent-of-code-2019.svg)
 
 #### Bash
