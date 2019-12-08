@@ -446,6 +446,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [davedelong/AOC](https://github.com/davedelong/AOC) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davedelong/AOC.svg)
 * [evilmint/AdventOfCode](https://github.com/evilmint/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/evilmint/AdventOfCode.svg)
 * [fguchelaar/AdventOfCode2019](https://github.com/fguchelaar/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/fguchelaar/AdventOfCode2019.svg)
+* [gernb/AdventOfCode2019](https://github.com/gernb/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gernb/AdventOfCode2019.svg)
 
 #### TypeScript
 
