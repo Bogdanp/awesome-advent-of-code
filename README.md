@@ -274,6 +274,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
 * [davidmargolin/Advent-Of-Code-2019](https://github.com/davidmargolin/Advent-Of-Code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidmargolin/Advent-Of-Code-2019.svg)
 * [und3f/advent-of-code-2019](https://github.com/und3f/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/und3f/advent-of-code-2019.svg)
+* [danieltrost/adventofcode-2019-solutions-js](https://github.com/danieltrost/adventofcode-2019-solutions-js) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/danieltrost/adventofcode-2019-solutions-js.svg)
 
 #### Julia
 
