@@ -251,6 +251,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [SimonBaars/adventOfCode-2019](https://github.com/SimonBaars/adventOfCode-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SimonBaars/adventOfCode-2019.svg)
 * [agrison/advent-of-code-2019](https://github.com/agrison/advent-of-code-2019/) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/agrison/advent-of-code-2019.svg)
 * [giganova/advent-of-code-2019-java](https://github.com/giganova/advent-of-code-2019-java) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/giganova/advent-of-code-2019-java.svg)
+* [SizableShrimp/AdventOfCode2019](https://github.com/SizableShrimp/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/SizableShrimp/AdventOfCode2019.svg)
 
 #### JavaScript
 
