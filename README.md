@@ -172,13 +172,14 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in D.*
 
 * [jrfondren/adventofcode](https://github.com/jrfondren/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jrfondren/adventofcode.svg)
+* [m3m0ry/2019-advent](https://github.com/m3m0ry/2019-advent) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/m3m0ry/2019-advent.svg)
 
 #### Dart
 
 *Solutions to AoC in Dart.*
 
 * [julemand101/AdventOfCode2019](https://github.com/julemand101/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/julemand101/AdventOfCode2019.svg)
-* [Awjin/advent-of-code](https://github.com/Awjin/advent-of-code) ![Last Commit on Github](https://img.shields.io/github/last-commit/Awjin/advent-of-code.svg)
+* [Awjin/advent-of-code](https://github.com/Awjin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Awjin/advent-of-code.svg)
 
 #### Elixir
 
