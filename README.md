@@ -32,6 +32,7 @@ This is a collection of awesome resources related to the yearly
     * [Groovy](#groovy)
     * [Haskell](#haskell)
     * [Idris](#idris)
+    * [J](#J)
     * [Java](#java)
     * [JavaScript](#javascript)
     * [Julia](#julia)
@@ -248,6 +249,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Idris.*
 
+#### J
+
+*Solutions to AoC in J.*
+
+* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jitwit/aoc.svg)
+
 #### Java
 
 *Solutions to AoC in Java.*
@@ -450,6 +457,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Scheme.*
 
+* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jitwit/aoc.svg)
 * [nenadom/AdventOfCode](https://github.com/nenadom/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nenadom/AdventOfCode.svg)
 
 #### Swift
