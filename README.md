@@ -397,6 +397,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [davidmasp/adventofcode-dmp](https://github.com/davidmasp/adventofcode-dmp) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidmasp/adventofcode-dmp.svg)
 * [mpjdem/adventofcode2019](https://github.com/mpjdem/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mpjdem/adventofcode2019.svg)
 * [riinuots/advent2019](https://github.com/riinuots/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/riinuots/advent2019.svg)
+* [plannapus/AdventOfCode2019](https://github.com/plannapus/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/plannapus/AdventOfCode2019.svg)
 
 #### Racket
 
