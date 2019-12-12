@@ -44,6 +44,7 @@ This is a collection of awesome resources related to the yearly
     * [Perl](#perl)
     * [Pony](#pony)
     * [PowerShell](#powershell)
+    * [Prolog](#prolog)
     * [Python](#python)
     * [R](#r)
     * [Racket](#racket)
@@ -346,6 +347,10 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Pony
 
 *Solutions to AoC in Pony.*
+
+#### Prolog
+
+*Solutions to AoC in Prolog.*
 
 #### PowerShell
 
