@@ -440,7 +440,6 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [hashedone/advent-of-code-2019-rust](https://github.com/hashedone/advent-of-code-2019-rust) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hashedone/advent-of-code-2019-rust.svg)
 * [jdlambert/advent-of-code-2019](https://github.com/jdlambert/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jdlambert/advent-of-code-2019.svg)
 * [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
-* [notviri/aoc2019](https://github.com/notviri/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/notviri/aoc2019.svg)
 * [timvisee/advent-of-code-2019](https://github.com/timvisee/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/timvisee/advent-of-code-2019.svg)
 
 #### Smalltalk
