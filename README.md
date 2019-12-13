@@ -145,6 +145,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [TheRealMolen/adventofcode2019](https://github.com/TheRealMolen/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/TheRealMolen/adventofcode2019.svg)
 * [voivoid/advent-of-code](https://github.com/voivoid/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/voivoid/advent-of-code.svg)
 * [rrrlw/advent-of-code-2019](https://github.com/rrrlw/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rrrlw/advent-of-code-2019.svg)
+* [bwearley/advent-of-code-2019](https://gitlab.com/bwearley/advent-of-code-2019/)
 
 #### Clojure
 
@@ -291,6 +292,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [und3f/advent-of-code-2019](https://github.com/und3f/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/und3f/advent-of-code-2019.svg)
 * [vguerrerobosch/advent-of-code-2019](https://github.com/vguerrerobosch/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vguerrerobosch/advent-of-code-2019.svg)
 * [vuryss/aoc-2019](https://github.com/vuryss/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/vuryss/aoc-2019.svg)
+* [bwearley/advent-of-code-2019](https://gitlab.com/bwearley/advent-of-code-2019/)
 
 #### Julia
 
@@ -452,6 +454,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jdlambert/advent-of-code-2019](https://github.com/jdlambert/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/jdlambert/advent-of-code-2019.svg)
 * [meyerphi/advent-of-code](https://github.com/meyerphi/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/meyerphi/advent-of-code.svg)
 * [timvisee/advent-of-code-2019](https://github.com/timvisee/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/timvisee/advent-of-code-2019.svg)
+* [bwearley/advent-of-code-2019](https://gitlab.com/bwearley/advent-of-code-2019/)
 
 #### Smalltalk
 
