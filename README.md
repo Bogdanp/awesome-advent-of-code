@@ -186,6 +186,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [Awjin/advent-of-code](https://github.com/Awjin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Awjin/advent-of-code.svg)
 * [julemand101/AdventOfCode2019](https://github.com/julemand101/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/julemand101/AdventOfCode2019.svg)
+* [ejain/advent-of-code-2019](https://github.com/ejain/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ejain/advent-of-code-2019.svg)
 
 #### Elixir
 
