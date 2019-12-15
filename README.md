@@ -330,6 +330,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Nim.*
 
 * [kaushalmodi/aoc2019](https://github.com/kaushalmodi/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaushalmodi/aoc2019.svg)
+* [Coac/advent-of-code-2019](https://github.com/Coac/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Coac/advent-of-code-2019.svg)
 
 #### OCaml
 
