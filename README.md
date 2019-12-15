@@ -226,6 +226,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [davidaayers/advent-of-code-2019](https://github.com/davidaayers/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/davidaayers/advent-of-code-2019.svg)
 * [devries/advent_of_code_2019](https://github.com/devries/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/devries/advent_of_code_2019.svg)
 * [gliderGeek/adventofcode19](https://github.com/gliderGeek/adventofcode19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gliderGeek/adventofcode19.svg)
+* [hamzah-hayat/adventofcode](https://github.com/hamzah-hayat/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hamzah-hayat/adventofcode.svg)
 * [hierynomus/2019-adventofcode.com](https://github.com/hierynomus/code-challenges/tree/master/2019-adventofcode.com) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hierynomus/code-challenges.svg)
 * [howden/advent19](https://github.com/howden/advent19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/howden/advent19.svg)
 * [kissgyorgy/adventofcode2019](https://github.com/kissgyorgy/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kissgyorgy/adventofcode2019.svg)
