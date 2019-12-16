@@ -165,6 +165,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Common Lisp.*
 
 * [topikettunen/advent-of-code-2019](https://github.com/topikettunen/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/topikettunen/advent-of-code-2019.svg)
+* [HenryS1/adventofcode](https://github.com/HenryS1/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/HenryS1/adventofcode.svg)
 
 #### Crystal
 
