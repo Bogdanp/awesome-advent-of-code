@@ -57,6 +57,7 @@ This is a collection of awesome resources related to the yearly
     * [Scheme](#scheme)
     * [Swift](#swift)
     * [TypeScript](#typescript)
+    * [Unison](#unison)
     * [Zig](#zig)
   * [Live Streams](#live-streams)
 
@@ -507,6 +508,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [caderek/aoc2019](https://github.com/caderek/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/caderek/aoc2019.svg)
 * [florianfreier/AdventOfCode2019](https://github.com/florianfreier/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/florianfreier/AdventOfCode2019.svg)
 * [izexi/adventofcode2019](https://github.com/izexi/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/izexi/adventofcode2019.svg)
+
+#### Unison
+
+*Solutions to AoC in Unison.*
+
+* [BenFradet/aoc-2019](https://github.com/BenFradet/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/BenFradet/aoc-2019.svg)
 
 #### Zig
 
