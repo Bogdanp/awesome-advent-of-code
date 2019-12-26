@@ -413,6 +413,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [zenieldanaku/AdventOfCode](https://github.com/zenieldanaku/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/zenieldanaku/AdventOfCode.svg)
 * [dmies/adventOfCode](https://github.com/dmies/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dmies/adventOfCode.svg)
 * [iownthegame/AdventofCode2019](https://github.com/iownthegame/AdventofCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/iownthegame/AdventofCode2019.svg)
+* [mapio/advent-of-code-2019](https://github.com/mapio/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mapio/advent-of-code-2019.svg)
 
 #### R
 
