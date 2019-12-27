@@ -479,6 +479,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [bwearley/advent-of-code-2019](https://gitlab.com/bwearley/advent-of-code-2019/)
 * [AxlLind/AdventOfCode2019](https://github.com/AxlLind/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/AxlLind/AdventOfCode2019.svg)
 * [risboo6909/aoc2019-rust](https://github.com/risboo6909/aoc2019-rust) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/risboo6909/aoc2019-rust.svg)
+* [thorstel/Advent-of-Code-2019](https://github.com/thorstel/Advent-of-Code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/thorstel/Advent-of-Code-2019.svg)
 
 #### Smalltalk
 
