@@ -414,6 +414,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [dmies/adventOfCode](https://github.com/dmies/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/dmies/adventOfCode.svg)
 * [iownthegame/AdventofCode2019](https://github.com/iownthegame/AdventofCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/iownthegame/AdventofCode2019.svg)
 * [mapio/advent-of-code-2019](https://github.com/mapio/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/mapio/advent-of-code-2019.svg)
+* [chase1745/AdventOfCode2019](https://github.com/chase1745/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/chase1745/AdventOfCode2019.svg)
 
 #### R
 
