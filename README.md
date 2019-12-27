@@ -31,6 +31,7 @@ This is a collection of awesome resources related to the yearly
     * [Go](#go)
     * [Groovy](#groovy)
     * [Haskell](#haskell)
+    * [Haxe](#haxe)
     * [Idris](#idris)
     * [J](#J)
     * [Java](#java)
@@ -255,6 +256,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [hashedone/advent-of-code-2019-hask](https://github.com/hashedone/advent-of-code-2019-hask) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hashedone/advent-of-code-2019-hask.svg)
 * [nrdmn/adventofcode2019](https://github.com/nrdmn/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nrdmn/adventofcode2019.svg)
 * [webbiscuit/adventofcode](https://github.com/webbiscuit/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode.svg)
+
+#### Haxe
+
+*Solutions to AoC in Haxe.*
+
+* [Gama11/AdventOfCode2019](https://github.com/Gama11/AdventOfCode2019) ![Last commit on Github](https://img.shields.io/github/last-commit/Gama11/AdventOfCode2019.svg)
 
 #### Idris
 
