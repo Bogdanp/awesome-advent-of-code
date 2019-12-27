@@ -256,6 +256,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [glguy/advent2019](https://github.com/glguy/advent2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/glguy/advent2019.svg)
 * [hashedone/advent-of-code-2019-hask](https://github.com/hashedone/advent-of-code-2019-hask) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/hashedone/advent-of-code-2019-hask.svg)
 * [nrdmn/adventofcode2019](https://github.com/nrdmn/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/nrdmn/adventofcode2019.svg)
+* [Rick-T/Advent-of-Code-2k19](https://github.com/Rick-T/Advent-of-Code-2k19) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Rick-T/Advent-of-Code-2k19.svg)
 * [webbiscuit/adventofcode](https://github.com/webbiscuit/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/webbiscuit/adventofcode.svg)
 
 #### Haxe
