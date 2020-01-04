@@ -219,6 +219,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [CameronAavik/AdventOfCode](https://github.com/CameronAavik/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/CameronAavik/AdventOfCode.svg)
 * [ChrisPritchard/AdventOfCode](https://github.com/ChrisPritchard/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ChrisPritchard/AdventOfCode.svg)
+* [ThomasGoetzmann/AdventOfCode](https://github.com/ThomasGoetzmann/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ThomasGoetzmann/AdventOfCode.svg)
 
 #### Go
 
