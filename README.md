@@ -529,6 +529,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [caderek/aoc2019](https://github.com/caderek/aoc2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/caderek/aoc2019.svg)
 * [florianfreier/AdventOfCode2019](https://github.com/florianfreier/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/florianfreier/AdventOfCode2019.svg)
 * [izexi/adventofcode2019](https://github.com/izexi/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/izexi/adventofcode2019.svg)
+* [sw-double/advent-of-code](https://github.com/sw-double/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sw-double/advent-of-code.svg)
 
 #### Unison
 
