@@ -505,6 +505,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [lupari/aoc](https://github.com/lupari/aoc2019/) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lupari/aoc2019.svg)
 * [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/matelaszlo/advent-of-code-scala.svg)
 * [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/sim642/adventofcode.svg)
+* [voivoid/scala-adventofcode](https://github.com/voivoid/scala-adventofcode) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/voivoid/scala-adventofcode.svg)
 
 #### Scheme
 
