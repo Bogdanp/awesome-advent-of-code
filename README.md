@@ -370,6 +370,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Perl.*
 
+* [DadaIsCrazy/adventofcode2019](https://github.com/DadaIsCrazy/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/DadaIsCrazy/adventofcode2019.svg)
 * [kcaran/adventofcode2019](https://github.com/kcaran/adventofcode2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kcaran/adventofcode2019.svg)
 * [kolcon/adventofcode_2019](https://github.com/kolcon/adventofcode_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kolcon/adventofcode_2019.svg)
 * [lskatz/advent-of-code](https://github.com/lskatz/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lskatz/advent-of-code.svg)
