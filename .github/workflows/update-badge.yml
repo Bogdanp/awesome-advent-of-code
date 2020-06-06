@@ -12,6 +12,10 @@ jobs:
         with:
           ref: ${{ github.ref }}
 
+      - name: Install packages
+        run: npm
+        working-directory: ./.github/actions/update-badge
+
       - name: Use local action
         uses: ./.github/actions/update-badge
         with: 
