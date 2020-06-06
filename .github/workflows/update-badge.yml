@@ -1,0 +1,16 @@
+on:
+  push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          ref: $GITHUB_REF
+
+      - name: Use local action
+        uses: ./.github/actions/update-badge
+        with: 
+          filePath: README.md
