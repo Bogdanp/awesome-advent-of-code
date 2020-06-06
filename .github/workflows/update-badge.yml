@@ -13,7 +13,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Install packages
-        run: npm
+        run: npm install --no-package-lock
         working-directory: ./.github/actions/update-badge
 
       - name: Use local action
