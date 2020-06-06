@@ -1,3 +1,5 @@
+name: Update AoC badge
+
 on:
   push
 
@@ -8,7 +10,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-          ref: $GITHUB_REF
+          ref: ${{ github.ref }}
 
       - name: Use local action
         uses: ./.github/actions/update-badge
