@@ -1,0 +1,10 @@
+name: 'Update badge'
+description: 'Fetches last commit time of repositories and generates badges'
+inputs:
+  filePath:
+    description: 'File path of README.md'
+    required: true
+    default: 'README.md'
+runs:
+  using: 'node12'
+  main: 'index.js'
