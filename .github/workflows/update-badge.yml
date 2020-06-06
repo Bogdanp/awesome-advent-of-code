@@ -1,0 +1,35 @@
+name: Update AoC badge
+
+on:
+  schedule:
+    - cron: '0 0 * 1-11 1'
+    - cron: '0 0 * 12 *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 5
+
+      - name: Install packages
+        run: yarn
+        working-directory: ./.github/actions/update-badge
+
+      - name: Use local action
+        uses: ./.github/actions/update-badge
+        with: 
+          ghToken: ${{ secrets.GITHUB_TOKEN }}
+          inputFile: README.md
+          outputFile: README.md
+      
+      - name: Git commit and push
+        run: |
+          git config user.email 'actions@github.com'
+          git config user.name 'github-actions'
+          git add README.md
+          git commit -m 'update by action'
+          git push origin HEAD:master
