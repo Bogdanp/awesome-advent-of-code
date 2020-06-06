@@ -3,7 +3,7 @@ const core = require('@actions/core')
 
 try {
   const filePath = core.getInput('filePath')
-  const content = fs.readFileSync(filePath)
+  const content = fs.readFileSync(filePath, 'utf8')
   const repos = extractRepositories(content)
 
   console.log('extract js repos:')
