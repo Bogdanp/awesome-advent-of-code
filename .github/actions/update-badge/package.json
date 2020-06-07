@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@actions/core": "^1.2.4",
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "moment": "^2.26.0"
   }
 }

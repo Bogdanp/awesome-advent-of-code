@@ -19,6 +19,7 @@ async function handle({ user, repo, branch }) {
   try {
     lastCommitDayStr = await fetchLastCommitDay(user, repo, branch)
   } catch (e) {
+    console.log(`[${user }/${repo}] ${e.message}`)
     return { message: 'resource not available', color: 'red' }
   }
 
@@ -29,13 +30,9 @@ async function handle({ user, repo, branch }) {
   }
 }
 
-async function invokeHandler(req) {
-  return Object.assign({}, badgeDefaults, await handle(req.query))
+module.exports = async function invokeHandler(query) {
+  return Object.assign({}, badgeDefaults, await handle(query))
 }
-
-const endpoint = require('@runkit/runkit/json-endpoint/1.0.0')
-endpoint(module.exports, invokeHandler)
-
 
 // copy from https://github.com/badges/shields
 function colorScale(steps, colors, reversed) {
