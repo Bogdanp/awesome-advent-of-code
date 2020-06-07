@@ -28,5 +28,6 @@ jobs:
           git checkout js-badge
           git config user.email 'actions@github.com'
           git config user.name 'github-actions'
-          git commit -am 'update by action'
+          git add README-badge.md
+          git commit -m 'update by action'
           git push origin HEAD:js-badge
