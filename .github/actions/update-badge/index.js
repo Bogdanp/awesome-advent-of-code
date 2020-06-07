@@ -7,14 +7,20 @@ try {
   const outputFile = core.getInput('outputFile')
 
   const content = fs.readFileSync(inputFile, 'utf8')
+  core.startGroup('Extract repositories')
   const repos = extractRepositories(content)
-  console.log('[] extract js repos:')
-  console.log(repos.join('\n'));
+  core.info(repos.join('\n'))
+  core.endGroup()
 
+  core.startGroup('Fetch repositories')
   Promise.all(repos.map(generateLine))
     .then((lines) => {
+      core.endGroup()
+
+      core.startGroup('Writing to file')
       fs.writeFileSync(outputFile, lines.join('\n'))
-      console.log(`[] finished writing to ${outputFile}`)
+      core.info(`Finished writing to ${outputFile}`)
+      core.endGroup()
     })
     .catch(error => {
       core.setFailed(error.message)
@@ -55,7 +61,7 @@ async function generateBadget(repoStr) {
   const [user, repo] = repoStr.split('/')
   const { label, message, color } = await endpoint({ user, repo })
 
-  console.log(`...fetched repo ${repoStr}`)
+  core.info(`...fetched repo ${repoStr}`)
 
   return 'https://img.shields.io/badge/' + [label, message, color]
     .map(s => encodeURIComponent(s.replace(/\-/g, '--')))

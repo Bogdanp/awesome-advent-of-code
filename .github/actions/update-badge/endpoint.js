@@ -17,7 +17,10 @@ const badgeDefaults = {
 async function handle({ user, repo, branch }) {
   let lastCommitDayStr
   try {
-    lastCommitDayStr = await fetchLastCommitDay(user, repo, branch)
+    lastCommitDayStr = await Promise.race([
+      new Promise(resolve => setTimeout(resolve, 10 * 1000)),
+      fetchLastCommitDay(user, repo, branch)
+    ])
   } catch (e) {
     console.log(`[${user }/${repo}] ${e.message}`)
     return { message: 'resource not available', color: 'red' }
