@@ -24,6 +24,7 @@ jobs:
       
       - name: Git commit and push
         run: |
-          git checkout js-badge --depth 5
+          git fetch --no-tags --depth=5 origin +refs/heads/js-badge:refs/remotes/origin/js-badge
+          git checkout js-badge
           git commit -am 'update by action'
           git push origin HEAD:js-badge
