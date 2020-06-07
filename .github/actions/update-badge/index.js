@@ -2,20 +2,24 @@ const fs = require('fs')
 const axios = require('axios')
 const core = require('@actions/core')
 
-(async function () {
+try {
   const inputFile = core.getInput('inputFile')
   const outputFile = core.getInput('outputFile')
 
   const content = fs.readFileSync(inputFile, 'utf8')
   const repos = extractRepositories(content)
 
-  const lines = await Promise.all(repos.map(generateLine))
-
-  fs.writeFileSync(outputFile, lines.join('\n'))
-  console.log(`finished writing to ${outputFile}`)
-})().catch(error => {
+  Promise.all(repos.map(generateLine))
+    .then((lines) => {
+      fs.writeFileSync(outputFile, lines.join('\n'))
+      console.log(`finished writing to ${outputFile}`)
+    })
+    .catch(error => {
+      core.setFailed(error.message)
+    })
+} catch (error) {
   core.setFailed(error.message)
-})
+}
 
 function extractRepositories(content) {
   const repos = []
