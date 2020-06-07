@@ -26,5 +26,7 @@ jobs:
         run: |
           git fetch --no-tags --depth=5 origin +refs/heads/js-badge:refs/remotes/origin/js-badge
           git checkout js-badge
+          git config user.email 'actions@github.com'
+          git config user.name 'github-actions'
           git commit -am 'update by action'
           git push origin HEAD:js-badge
