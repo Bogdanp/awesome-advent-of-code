@@ -19,4 +19,10 @@ jobs:
       - name: Use local action
         uses: ./.github/actions/update-badge
         with: 
-          filePath: README.md
+          inputFile: README.md
+          outputFile: README-badge.md
+      
+      - name: Git commit and push
+        run: |
+          git commit -am 'update by action'
+          git push origin HEAD:js-badge
