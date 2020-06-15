@@ -1,6 +1,9 @@
 name: 'Update badge'
 description: 'Fetches last commit time of repositories and generates badges'
 inputs:
+  ghToken:
+    description: 'GitHub token'
+    required: true
   inputFile:
     description: 'File path of README.md'
     required: true

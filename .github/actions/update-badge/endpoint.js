@@ -3,26 +3,25 @@
 const axios = require('axios');
 const moment = require('moment');
 
-async function fetchLastCommitDay(user, repo, branch = 'master') {
-  const url = `https://api.github.com/repos/${user}/${repo}/commits?sha=${branch}`
-  const { data } = await axios.get(url, { responseType: 'json' })
-  return data[0].commit.author.date
-}
-
 const badgeDefaults = {
   schemaVersion: 1,
   label: 'last commit',
 }
 
-async function handle({ user, repo, branch }) {
+async function handle(octokit, { owner, repo, sha = 'master' }) {
   let lastCommitDayStr
   try {
-    lastCommitDayStr = await Promise.race([
+    const { data: commitList } = await Promise.race([
       new Promise(resolve => setTimeout(resolve, 10 * 1000)),
-      fetchLastCommitDay(user, repo, branch)
+      octokit.repos.listCommits({
+        owner,
+        repo,
+        sha
+      })
     ])
+    lastCommitDayStr = commitList[0].commit.author.date
   } catch (e) {
-    console.log(`[${user }/${repo}] ${e.message}`)
+    console.log(`[${owner }/${repo}] ${e.message}`)
     return { message: 'resource not available', color: 'red' }
   }
 
@@ -33,8 +32,8 @@ async function handle({ user, repo, branch }) {
   }
 }
 
-module.exports = async function invokeHandler(query) {
-  return Object.assign({}, badgeDefaults, await handle(query))
+module.exports = async function invokeHandler(octokit, query) {
+  return Object.assign({}, badgeDefaults, await handle(octokit, query))
 }
 
 // copy from https://github.com/badges/shields
