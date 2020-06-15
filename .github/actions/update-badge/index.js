@@ -67,7 +67,7 @@ async function generateLine(repoStr) {
 }
 async function generateBadget(repoStr) {
   const [owner, repo] = repoStr.split('/')
-  const { label, message, color } = await endpoint(octokit, { user, repo })
+  const { label, message, color } = await endpoint(octokit, { owner, repo })
 
   core.info(`...fetched repo ${repoStr}`)
 
