@@ -45,8 +45,6 @@ function extractRepositories(lines) {
     if (line === '### Solutions') {
       collect = true
     } else if (collect) {
-      if (line.indexOf('####') === 0) return true
-
       const idx1 = line.indexOf('[')
       const idx2 = line.indexOf(']')
       if (idx1 >= 0 && idx2 >= 0) {
