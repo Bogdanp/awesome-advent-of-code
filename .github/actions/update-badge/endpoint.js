@@ -1,5 +1,4 @@
 // modifiy based on https://runkit.com/melnikow/version-from-requirements-txt
-// FIXME: it doesn't work in Node 8 and later
 const axios = require('axios');
 const moment = require('moment');
 

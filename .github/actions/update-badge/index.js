@@ -23,7 +23,11 @@ try {
     .then((newLines) => {
       core.endGroup()
 
-      newLines.forEach((line, i) => lines[repos[i].index] = line)
+      newLines.forEach((line, i) => {
+        if (shouldUpdate(lines[repos[i].index], line)) {
+          lines[repos[i].index] = line
+        }
+      })
 
       core.startGroup('Writing to file')
       fs.writeFileSync(outputFile, lines.join('\n'))
@@ -74,4 +78,9 @@ async function generateBadget(repoStr) {
   return 'https://img.shields.io/badge/' + [label, message, color]
     .map(s => encodeURIComponent(s.replace(/\-/g, '--')))
     .join('-')
+}
+
+function shouldUpdate(oldLine, newLine) {
+  const badDateReg = /red\)$/
+  return badDateReg.test(oldLine) || !badDateReg.test(newLine)
 }
