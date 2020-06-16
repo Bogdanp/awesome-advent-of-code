@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 5
 
       - name: Install packages
-        run: npm install --no-package-lock
+        run: yarn
         working-directory: ./.github/actions/update-badge
 
       - name: Use local action
