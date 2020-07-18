@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "3.0.0",
+    "axios": "^0.19.2",
+    "moment": "^2.26.0"
+  }
+}
