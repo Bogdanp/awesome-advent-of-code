@@ -3,7 +3,7 @@
 To add a new repository to the list, find the appropriate section for
 the repository's language and add a new entry like this:
 
-    * (https://github.com/username/repo)
+    * [https://github.com/username/repo]
 
 Don't link to files or folder within the tree since that messes up the
 badges.  Users will be able to figure out where the code for the
