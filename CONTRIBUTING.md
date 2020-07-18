@@ -1,12 +1,14 @@
 # Contributing
 
 To add a new repository to the list, find the appropriate section for
-the repository's language and add a new entry like this:
+the repository's language and add a new entry like this for
+GitHub-hosted repos:
 
-    * (https://github.com/username/repo)
+    * [username/repo]
 
-Save the file and then run `./scripts/add-badges.py` on the command
-line and then commit your changes.
+or like this for non-GH repos:
+
+    * [username/repo](https://somewhere-else.com/username/repo)
 
 Don't link to files or folder within the tree since that messes up the
 badges.  Users will be able to figure out where the code for the
