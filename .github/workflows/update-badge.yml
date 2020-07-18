@@ -1,8 +1,8 @@
 name: Update AoC badge
 
 on:
-  - pull_request
-  - schedule:
+  pull_request:
+  schedule:
     - cron: '0 0 * 1-11 1'
     - cron: '0 0 * 12 *'
 
