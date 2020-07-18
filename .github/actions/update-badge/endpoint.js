@@ -20,6 +20,10 @@ async function handle(octokit, { owner, repo, sha = 'master' }) {
     ])
     lastCommitDayStr = commitList[0].commit.author.date
   } catch (e) {
+    if (e.message.indexOf('rate limit exceeded') !== -1) {
+      throw e;
+    }
+
     console.log(`[${owner }/${repo}] ${e.message}`)
     return { message: 'resource not available', color: 'red' }
   }
@@ -75,11 +79,12 @@ function colorScale(steps, colors, reversed) {
     return colors.slice(stepIndex)[0]
   }
 }
+
 function age(date) {
   const now = moment()
   const dec1st = moment([now.year(), 11, 1])
   if (now.diff(dec1st) < 0) dec1st.add(-1, 'y')
-  
+
   const daysElapsed = moment(date).diff(moment(dec1st), 'days') + 1
   const colorByAge = colorScale([0, 5, 10, 20, 25], undefined, false)
   return colorByAge(daysElapsed)

@@ -66,10 +66,11 @@ function extractRepositories(lines) {
 }
 
 async function generateLine(repoStr) {
-  const badge = await generateBadget(repoStr)
+  const badge = await generateBadge(repoStr)
   return `* [${repoStr}](https://github.com/${repoStr}) ![Last Commit on GitHub](${badge})`
 }
-async function generateBadget(repoStr) {
+
+async function generateBadge(repoStr) {
   const [owner, repo] = repoStr.split('/')
   const { label, message, color } = await endpoint(octokit, { owner, repo })
 
