@@ -496,6 +496,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [ThePants999/advent-of-code-2019](https://github.com/ThePants999/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--04--03-brightgreen)
 * [thorstel/Advent-of-Code-2019](https://github.com/thorstel/Advent-of-Code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--27-brightgreen)
 * [timvisee/advent-of-code-2019](https://github.com/timvisee/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--20-green)
+* [zsacul/AoC2019](https://github.com/zsacul/AoC2019)
 
 #### Smalltalk
 
