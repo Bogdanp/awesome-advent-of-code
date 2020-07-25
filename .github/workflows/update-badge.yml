@@ -1,7 +1,7 @@
 name: Update AoC badge
 
 on:
-  pull_request:
+  push:
   schedule:
     - cron: '0 0 * 1-11 1'
     - cron: '0 0 * 12 *'
@@ -13,7 +13,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-          ref: ${{ contains(github.event_name, 'pull_request') && github.event.pull_request.head.sha || github.ref }}
+          ref: ${{ github.ref }}
           fetch-depth: 0
 
       - name: Install packages
@@ -33,4 +33,4 @@ jobs:
           git config user.name 'github-actions'
           git add README.md
           git commit -m 'update badges'
-          git push origin HEAD:${{ contains(github.event_name, 'pull_request') && github.head_ref || 'master' }}
+          git push origin HEAD:${{ github.ref }}
