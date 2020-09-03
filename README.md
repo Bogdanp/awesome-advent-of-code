@@ -529,6 +529,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [evilmint/AdventOfCode](https://github.com/evilmint/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--08-yellow)
 * [fguchelaar/AdventOfCode2019](https://github.com/fguchelaar/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--01--06-brightgreen)
 * [gernb/AdventOfCode2019](https://github.com/gernb/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--25-brightgreen)
+* [bradleymackey/AdventOfCode2019](https://github.com/bradleymackey/advent-of-code-19)
 
 #### TypeScript
 
