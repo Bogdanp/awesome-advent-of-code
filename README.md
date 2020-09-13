@@ -289,7 +289,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [niedrist/AdventOfCode](https://github.com/niedrist/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--29-brightgreen)
 * [thcathy/advent-of-code](https://github.com/thcathy/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--02--24-brightgreen)
 * [akaritakai/AdventOfCode2019](https://github.com/akaritakai/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--01--07-brightgreen)
-* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tmrd993/advent-of-code-solutions)
+* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--12-brightgreen)
 
 #### JavaScript
 
@@ -460,7 +460,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in ReasonML.*
 
-* [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--07--21-brightgreen)
+* [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--13-brightgreen)
 
 #### Red
 
@@ -479,7 +479,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Rust.*
 
-* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--08--20-brightgreen)
+* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--11-brightgreen)
 * [AmauryCarrade/AdventOfCode2019](https://github.com/AmauryCarrade/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--25-brightgreen)
 * [AxlLind/AdventOfCode2019](https://github.com/AxlLind/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--04--25-brightgreen)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--25-brightgreen)
