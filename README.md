@@ -289,6 +289,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [niedrist/AdventOfCode](https://github.com/niedrist/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--29-brightgreen)
 * [thcathy/advent-of-code](https://github.com/thcathy/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--02--24-brightgreen)
 * [akaritakai/AdventOfCode2019](https://github.com/akaritakai/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--01--07-brightgreen)
+* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/tmrd993/advent-of-code-solutions)
 
 #### JavaScript
 
