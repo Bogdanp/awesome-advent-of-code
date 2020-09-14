@@ -482,7 +482,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [alyti/aoc-2019](https://github.com/alyti/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--16-yellowgreen)
 * [bwearley/advent-of-code-2019](https://gitlab.com/bwearley/advent-of-code-2019/)
 * [dashed/advent-of-code](https://github.com/dashed/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--04--06-brightgreen)
-* [fornwall/advent-of-code-2019-rs](https://github.com/fornwall/advent-of-code-2019-rs) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--11-brightgreen)
+* [fornwall/advent-of-code-2019-rs](https://github.com/fornwall/advent-of-code-2019-rs) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--13-brightgreen)
 * [gr-g/advent-of-code-2019](https://github.com/gr-g/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--02--23-brightgreen)
 * [hashedone/advent-of-code-2019-rust](https://github.com/hashedone/advent-of-code-2019-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--14-yellowgreen)
 * [jdlambert/advent-of-code-2019](https://github.com/jdlambert/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--26-brightgreen)
