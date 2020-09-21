@@ -189,7 +189,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [Awjin/advent-of-code](https://github.com/Awjin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--08-yellow)
 * [ejain/advent-of-code-2019](https://github.com/ejain/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--31-brightgreen)
-* [julemand101/AdventOfCode2019](https://github.com/julemand101/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--11-brightgreen)
+* [julemand101/AdventOfCode2019](https://github.com/julemand101/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--17-brightgreen)
 
 #### Elixir
 
@@ -287,7 +287,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [niedrist/AdventOfCode](https://github.com/niedrist/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--29-brightgreen)
 * [thcathy/advent-of-code](https://github.com/thcathy/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--02--24-brightgreen)
 * [akaritakai/AdventOfCode2019](https://github.com/akaritakai/AdventOfCode2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--01--07-brightgreen)
-* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--12-brightgreen)
+* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--17-brightgreen)
 
 #### JavaScript
 
@@ -482,7 +482,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [alyti/aoc-2019](https://github.com/alyti/aoc-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--16-yellowgreen)
 * [bwearley/advent-of-code-2019](https://gitlab.com/bwearley/advent-of-code-2019/)
 * [dashed/advent-of-code](https://github.com/dashed/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--04--06-brightgreen)
-* [fornwall/advent-of-code-2019-rs](https://github.com/fornwall/advent-of-code-2019-rs) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--13-brightgreen)
+* [fornwall/advent-of-code-2019-rs](https://github.com/fornwall/advent-of-code-2019-rs) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--18-brightgreen)
 * [gr-g/advent-of-code-2019](https://github.com/gr-g/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--02--23-brightgreen)
 * [hashedone/advent-of-code-2019-rust](https://github.com/hashedone/advent-of-code-2019-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--14-yellowgreen)
 * [jdlambert/advent-of-code-2019](https://github.com/jdlambert/advent-of-code-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--26-brightgreen)
@@ -507,7 +507,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [FlorianCassayre/AdventOfCode-2019](https://github.com/FlorianCassayre/AdventOfCode-2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--15-yellowgreen)
 * [lupari/aoc](https://github.com/lupari/aoc2019/) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lupari/aoc2019.svg)
-* [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--07--29-brightgreen)
+* [matelaszlo/advent-of-code-scala](https://github.com/matelaszlo/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--20-brightgreen)
 * [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--09--12-brightgreen)
 * [voivoid/scala-adventofcode](https://github.com/voivoid/scala-adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--02--24-brightgreen)
 
