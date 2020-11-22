@@ -431,6 +431,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [vincent-vega/adventofcode](https://github.com/vincent-vega/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--08--01-brightgreen)
 * [zenieldanaku/AdventOfCode](https://github.com/zenieldanaku/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2019--12--04-orange)
 * [branislavjenco/advent2019](https://github.com/branislavjenco/advent2019) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--01--10-brightgreen)
+* [loociano/advent-of-code](https://github.com/loociano/advent-of-code)
 
 #### R
 
