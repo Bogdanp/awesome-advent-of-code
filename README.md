@@ -130,7 +130,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C#.*
 
-* [eduherminio/AoC2020]
+* [eduherminio/AoC2020](https://github.com/Kazhuu/AoC2020)
 
 #### C++
 
