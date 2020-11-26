@@ -81,6 +81,7 @@ in your favourite language.*
 * [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter) *(Clojure)*
 * [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js) *(JavaScript)*
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
+* [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) *(JavaScript)*
 
 ## Tools and Utilities
 
@@ -202,6 +203,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### JavaScript
 
 *Solutions to AoC in JavaScript.*
+
+* [mariotacke/advent-of-code-2020](https://github.com/mariotacke/advent-of-code-2020)
 
 #### Julia
 
