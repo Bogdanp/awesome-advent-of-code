@@ -7,15 +7,14 @@ const badgeDefaults = {
   label: 'last commit',
 }
 
-async function handle(octokit, { owner, repo, sha = 'master' }) {
+async function handle(octokit, { owner, repo }) {
   let lastCommitDayStr
   try {
     const { data: commitList } = await Promise.race([
       new Promise(resolve => setTimeout(resolve, 10 * 1000)),
       octokit.repos.listCommits({
         owner,
-        repo,
-        sha
+        repo
       })
     ])
     lastCommitDayStr = commitList[0].commit.author.date
