@@ -186,7 +186,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Haskell.*
 
-* [haskelling/aoc2020]
+* [haskelling/aoc2020](https://github.com/haskelling/aoc2020)
 
 #### Haxe
 
