@@ -130,13 +130,13 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C#.*
 
-* [eduherminio/AoC2020](https://github.com/eduherminio/AoC2020)
+* [eduherminio/AoC2020](https://github.com/eduherminio/AoC2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--11--24-brightgreen)
 
 #### C++
 
 *Solutions to AoC in C++.*
 
-* [Kazhuu/advent-of-code-2020](https://github.com/Kazhuu/advent-of-code-2020)
+* [Kazhuu/advent-of-code-2020](https://github.com/Kazhuu/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--11--17-brightgreen)
 
 #### Clojure
 
@@ -186,7 +186,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Haskell.*
 
-* [haskelling/aoc2020](https://github.com/haskelling/aoc2020)
+* [haskelling/aoc2020](https://github.com/haskelling/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--11--21-brightgreen)
 
 #### Haxe
 
@@ -299,7 +299,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in TypeScript.*
 
 * [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--11--21-brightgreen)
-* [RubenVerg/aoc2020]
+* [RubenVerg/aoc2020](https://github.com/RubenVerg/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--11--17-brightgreen)
 
 #### Unison
 
