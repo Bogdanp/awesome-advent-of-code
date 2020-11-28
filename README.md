@@ -254,6 +254,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Python.*
 
+* [IanFindlay/advent-of-code]
+
 #### R
 
 *Solutions to AoC in R.*
