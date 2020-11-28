@@ -83,6 +83,7 @@ in your favourite language.*
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
 * [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) *(JavaScript)*
 * [arkadye/advent_of_code](https://github.com/arkadye/advent_of_code_framework) *(C++)*
+* [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
 
 ## Tools and Utilities
 
