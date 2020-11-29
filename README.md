@@ -190,6 +190,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Haskell.*
 
 * [haskelling/aoc2020](https://github.com/haskelling/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--11--21-brightgreen)
+* [jitwit/aoc](https://github.com/jitwit/aoc)
 
 #### Haxe
 
@@ -202,6 +203,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### J
 
 *Solutions to AoC in J.*
+
+* [jitwit/aoc](https://github.com/jitwit/aoc)
 
 #### Java
 
@@ -296,6 +299,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Scheme
 
 *Solutions to AoC in Scheme.*
+
+* [jitwit/aoc](https://github.com/jitwit/aoc)
 
 #### Swift
 
