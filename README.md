@@ -101,7 +101,7 @@ in your favourite language.*
 
 *24 days of cool stuff regarding <insert-technology-here>.*
 
-* [Perl6 Advent Calendar](https://perl6advent.wordpress.com/)
+* [Raku Advent Calendar](https://raku-advent.blog/)
 * [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
 
 ## 2020
