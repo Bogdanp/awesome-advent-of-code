@@ -163,6 +163,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Dart.*
 
+* [julemand101/AdventOfCode2020]
+
 #### Elixir
 
 *Solutions to AoC in Elixir.*
