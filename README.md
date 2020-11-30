@@ -286,6 +286,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Rust.*
 
+* [believer/advent-of-code]
+
 #### Smalltalk
 
 *Solutions to AoC in Smalltalk.*
