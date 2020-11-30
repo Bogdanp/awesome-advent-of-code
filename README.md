@@ -224,6 +224,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Kotlin.*
 
+* [janbina/advent-of-code-2020]
+
 #### LDPL
 
 *Solutions to AoC in LDPL.*
