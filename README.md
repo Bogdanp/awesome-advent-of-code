@@ -151,7 +151,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 #### Common Lisp
 
-*Solutions to AoC in Common Lisp.*
+* [~zge/aoc20](https://git.sr.ht/~zge/aoc20)
 
 #### Crystal
 
