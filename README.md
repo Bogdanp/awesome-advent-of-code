@@ -320,6 +320,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Swift.*
 
+* [gernb/AdventOfCode2020]
+
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
