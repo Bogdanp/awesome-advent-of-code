@@ -303,6 +303,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Racket.*
 
+* [Bogdanp/aoc2020](https://github.com/bogdanp/aoc2020)
+
 #### ReasonML
 
 *Solutions to AoC in ReasonML.*
