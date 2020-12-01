@@ -361,3 +361,24 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 ### Live Streams
 
 *Folks who are live streaming their process.*
+
+* [Alca](https://twitch.tv/Alca) (JavaScript)
+* [ClysmiC](https://twitch.tv/clysmic) (C++)
+* [Pewqazz](https://twitch.tv/Pewqazz) (Python)
+* [Ph3rny](https://twitch.tv/anthonywritescode) (Python)
+* [anagonlive](https://twitch.tv/anagonlive) (Python)
+* [chrisforrence](https://twitch.tv/chrisforrence) (PHP)
+* [dr_njitram](https://twitch.tv/dr_njitram) (Python)
+* [hurlian](https://twitch.tv/hurlian) (Python)
+* [jonathan_paulson](https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA/videos) (Python)
+* [jwise00](https://www.youtube.com/channel/UCBHySN2FtVPxEJxYU1PXTHA) (Lua)
+* [lizthegrey](https://twitch.tv/lizthegrey) (Go)
+* [lukechampine](https://twitch.tv/nemo1618) (Go/Zig)
+* [martinjaniczek](https://twitch.tv/martinjaniczek) (Elm)
+* [maryjostaebler](https://www.twitch.tv/maryjostaebler) (JavaScript)
+* [nicuveo](https://twitch.tv/nicuveo) (Haskell)
+* [pengiswe](https://www.twitch.tv/pengiswe) (Excel)
+* [psymar_](https://twitch.tv/psymar_) (Python)
+* [spaceboyr00](https://twitch.tv/spaceboyr00) (Python)
+* [theypsilon](https://www.youtube.com/playlist?list=PL959l4g0Ko1riV3QU_qcTgue41y4S7ffP) (Rust)
+* [yernab](https://twitch.tv/yernab) (APL)
