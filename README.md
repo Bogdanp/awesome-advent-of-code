@@ -187,6 +187,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Go.*
 
+* [nlowe/aoc2020]
+
 #### Groovy
 
 *Solutions to AoC in Groovy.*
