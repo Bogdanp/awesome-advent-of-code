@@ -211,6 +211,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Idris.*
 
+* [xWafl/aoc-2020-idris]
+
 #### J
 
 *Solutions to AoC in J.*
