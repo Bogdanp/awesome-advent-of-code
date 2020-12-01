@@ -292,6 +292,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in R.*
 
+* [nirski/aoc20](https://gitlab.com/nirski/aoc20)
+
 #### Racket
 
 *Solutions to AoC in Racket.*
