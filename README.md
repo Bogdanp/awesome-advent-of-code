@@ -363,6 +363,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Ruby.*
 
+* [0x8b/aoc-2020-rb]
 * [ni3t/advent-2020](https://github.com/ni3t/advent-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--01-orange)
 * [gogvale/AdventOfCode](https://github.com/gogvale/AdventOfCode)
 
