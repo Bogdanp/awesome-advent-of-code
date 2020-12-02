@@ -40,6 +40,7 @@ This is a collection of awesome resources related to the yearly
     * [Julia](#julia)
     * [Kotlin](#kotlin)
     * [LDPL](#ldpl)
+    * [MATLAB](#matlab)
     * [Nim](#nim)
     * [OCaml](#ocaml)
     * [PHP](#php)
@@ -286,6 +287,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### LDPL
 
 *Solutions to AoC in LDPL.*
+
+#### MATLAB
+
+*Solutions to AoC in MATLAB (Octave).*
+
+* [jholtom/advent-of-code-2020]
 
 #### Nim
 
