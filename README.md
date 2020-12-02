@@ -250,6 +250,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [ryanolsonx/aocjs](https://github.com/ryanolsonx/aocjs) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--01-orange)
 * [mdunisch/adventOfCode2020](https://github.com/mdunisch/adventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--01-orange)
 * [AxemaFr/AdventOfCode-2020](https://github.com/AxemaFr/AdventOfCode-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--01-orange)
+* [neg4n/advent-of-code](https://github.com/neg4n/advent-of-code)
 
 #### Julia
 
