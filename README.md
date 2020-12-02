@@ -57,6 +57,7 @@ This is a collection of awesome resources related to the yearly
     * [Smalltalk](#smalltalk)
     * [Scala](#scala)
     * [Scheme](#scheme)
+    * [SQL](#sql)
     * [Swift](#swift)
     * [TypeScript](#typescript)
     * [Unison](#unison)
@@ -373,6 +374,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Scheme.*
 
 * [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--01-orange)
+
+#### SQL
+
+*Solutions to AoC in SQL.*
+
+* [xocolatl/advent-of-code](https://github.com/xocolatl/advent-of-code)
 
 #### Swift
 
