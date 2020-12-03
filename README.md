@@ -62,7 +62,7 @@ This is a collection of awesome resources related to the yearly
     * [Swift](#swift)
     * [TypeScript](#typescript)
     * [Unison](#unison)
-    * [VB.NET](#vb.net)
+    * [VB.NET](#vbnet)
     * [Zig](#zig)
   * [Live Streams](#live-streams)
 
