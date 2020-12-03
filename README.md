@@ -386,6 +386,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in ReasonML.*
 
+* [believer/advent-of-code]
+
 #### Red
 
 *Solutions to AoC in Red.*
