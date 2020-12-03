@@ -51,7 +51,8 @@ function extractRepositories(lines) {
     } else if (collect) {
       const idx1 = line.indexOf('[')
       const idx2 = line.indexOf(']')
-      if (idx1 >= 0 && idx2 >= 0) {
+      const idx3 = line.indexOf('/')
+      if (idx1 >= 0 && idx2 >= 0 && idx3 > 0) {
         repos.push({
           index,
           repoStr: line.slice(idx1 + 1, idx2)
