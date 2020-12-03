@@ -502,6 +502,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [nicuveo](https://twitch.tv/nicuveo) (Haskell)
 * [pengiswe](https://www.twitch.tv/pengiswe) (Excel)
 * [psymar_](https://twitch.tv/psymar_) (Python)
+* [SimonBaars](https://www.twitch.tv/simon_baars) (Java + Haskell)
 * [spaceboyr00](https://twitch.tv/spaceboyr00) (Python)
 * [theypsilon](https://www.youtube.com/playlist?list=PL959l4g0Ko1riV3QU_qcTgue41y4S7ffP) (Rust)
 * [yernab](https://twitch.tv/yernab) (APL)
