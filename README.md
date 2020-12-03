@@ -51,6 +51,7 @@ This is a collection of awesome resources related to the yearly
     * [Python](#python)
     * [R](#r)
     * [Racket](#racket)
+    * [Raku](#raku)
     * [ReasonML](#reasonml)
     * [Red](#red)
     * [Ruby](#ruby)
@@ -399,6 +400,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Racket.*
 
 * [Bogdanp/aoc2020](https://github.com/Bogdanp/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+
+#### Raku
+
+*Solutions to AoC in Raku.*
+
+* [interlab/advent-of-code](https://github.com/interlab/advent-of-code)
 
 #### ReasonML
 
