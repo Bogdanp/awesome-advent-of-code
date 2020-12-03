@@ -88,6 +88,7 @@ in your favourite language.*
 * [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) *(JavaScript)*
 * [arkadye/advent_of_code](https://github.com/arkadye/advent_of_code_framework) *(C++)*
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
+* [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template) *(TypeScript)*
 
 ## Tools and Utilities
 
@@ -482,6 +483,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [arnauddrain/advent-of-code-2020](https://github.com/arnauddrain/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
 * [milanosie/adventofcode2020](https://github.com/milanosie/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
 * [ttbowen/advent-of-code-2020](https://github.com/ttbowen/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+* [izexi/adventofcode2020](https://github.com/izexi/adventofcode2020)
 
 ##### Deno
 
