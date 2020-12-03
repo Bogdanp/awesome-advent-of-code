@@ -176,6 +176,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Crystal.*
 
+* [jazcarate/advent-of-code-2020](https://github.com/jazcarate/advent-of-code-2020)
+
 #### D
 
 *Solutions to AoC in D.*
