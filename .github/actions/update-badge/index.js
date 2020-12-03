@@ -19,7 +19,7 @@ let octokit
     octokit = github.getOctokit(ghToken)
     await core.group('Fetch repositories & updating lines...', async () => {
       for (const repo of repos) {
-        const line = await generateLine(repoStr)
+        const line = await generateLine(repo.repoStr)
         if (shouldUpdate(lines[repo.index], line)) {
           lines[repo.index] = line
         }
