@@ -17,7 +17,7 @@ let octokit
     core.info(`count=${repos.length}`)
 
     octokit = github.getOctokit(ghToken)
-    await core.group('Fetch repositories & updating lines...', async () => {
+    await core.group('Fetching repositories & updating lines...', async () => {
       for (const repo of repos) {
         const line = await generateLine(repo.repoStr)
         if (shouldUpdate(lines[repo.index], line)) {
@@ -42,11 +42,12 @@ function extractRepositories(lines) {
   lines.some((line, index) => {
     if (line === '### Solutions') {
       collect = true
+    } else if (line === '### Live Streams') {
+      collect = false
     } else if (collect) {
       const idx1 = line.indexOf('[')
       const idx2 = line.indexOf(']')
-      const idx3 = line.indexOf('/')
-      if (idx1 >= 0 && idx2 >= 0 && idx3 > 0) {
+      if (idx1 >= 0 && idx2 >= 0) {
         repos.push({
           index,
           repoStr: line.slice(idx1 + 1, idx2)
