@@ -62,6 +62,7 @@ This is a collection of awesome resources related to the yearly
     * [Swift](#swift)
     * [TypeScript](#typescript)
     * [Unison](#unison)
+    * [VB.NET](#vbnet)
     * [Zig](#zig)
   * [Live Streams](#live-streams)
 
@@ -460,6 +461,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Unison
 
 *Solutions to AoC in Unison.*
+
+#### VB.NET
+
+*Solutions to AoC in VB.NET.*
+
+* [Virenbar/AdventOfCode2020](https://github.com/Virenbar/AdventOfCode2020)
 
 #### Zig
 
