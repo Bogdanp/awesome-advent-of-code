@@ -14,8 +14,9 @@ This is a collection of awesome resources related to the yearly
 * [2019](/2019.md)
 * [2020](#2020)
   * [Solutions](#solutions)
-    * [AWK](#awk)
     * [Ada](#ada)
+    * [Assembly](#assembly)
+    * [AWK](#awk)
     * [Bash](#Bash)
     * [C](#c)
     * [C#](#c-1)
@@ -117,18 +118,24 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 ### Solutions
 
+#### Ada
+
+*Solutions to AoC in Ada.*
+
+* [jwarwick/aoc_2020](https://github.com/jwarwick/aoc_2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+
+#### Assembly
+
+*Solutions to AoC in Assembly.*
+
+* [k2l8m11n2/advent-2020]
+
 #### AWK
 
 *Solutions to AoC in AWK.*
 
 * [phillbush/aoc](https://github.com/phillbush/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
 * [patsie75/aoc](https://github.com/patsie75/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
-
-#### Ada
-
-*Solutions to AoC in Ada.*
-
-* [jwarwick/aoc_2020](https://github.com/jwarwick/aoc_2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
 
 #### Bash
 
