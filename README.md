@@ -151,7 +151,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C.*
 
-* [breakthatbass/advent_of_code2020](https://github.com/breakthatbass/advent_of_code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+* [breakthatbass/advent_of_code2020](https://github.com/breakthatbass/advent_of_code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 
 #### C#
 
@@ -350,7 +350,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in OCaml.*
 
-* [illbexyz/advent-of-code-2020](https://github.com/illbexyz/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+* [illbexyz/advent-of-code-2020](https://github.com/illbexyz/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 
 #### PHP
 
@@ -391,7 +391,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [agubelu/Advent-of-Code-2020](https://github.com/agubelu/Advent-of-Code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [aufbakanleitung/advent-of-code-2020](https://github.com/aufbakanleitung/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [aureliensimon/avent-of-code-2020](https://github.com/aureliensimon/avent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
-* [candemircan/adventofcode](https://github.com/candemircan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+* [candemircan/adventofcode](https://github.com/candemircan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [codemicro/adventOfCode](https://github.com/codemicro/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [d1618033/aoc](https://github.com/d1618033/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [eliseomartelli/Advent-of-Code-2020](https://github.com/eliseomartelli/Advent-of-Code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
