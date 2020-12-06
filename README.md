@@ -230,6 +230,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Erlang.*
 
+* [stuart-thackray/aoc2020erl]
+
 #### F#
 
 *Solutions to AoC in F#.*
