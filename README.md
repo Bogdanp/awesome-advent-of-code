@@ -168,8 +168,9 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [andi0b/advent-of-code-2020](https://github.com/andi0b/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
 * [eduherminio/AoC2020](https://github.com/eduherminio/AoC2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
-* [p-kostic/AdventOfCode2020](https://github.com/p-kostic/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
 * [mddr/advent-of-code-2020]
+* [p-kostic/AdventOfCode2020](https://github.com/p-kostic/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
+* [thejan14/adventofcode2020](https://github.com/thejan14/adventofcode2020)
 
 #### C++
 
