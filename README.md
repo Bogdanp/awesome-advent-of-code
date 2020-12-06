@@ -80,7 +80,7 @@ in your favourite language.*
 * [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) *(Reason and OCaml)*
 * [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
-* [nickyvanurk/advent-of-code-rust-template]
+* [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template)
 * [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
 * [codemicro/adventOfCode](https://github.com/codemicro/adventOfCode/tree/master/template) *(Go, Python)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
@@ -487,7 +487,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Rust.*
 
-* [nickyvanurk/advent-of-code]
+* [nickyvanurk/advent-of-code](https://github.com/nickyvanurk/advent-of-code)
 * [aniljava/aoc-2020](https://github.com/aniljava/aoc-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
 * [baszalmstra/adventofcode2020](https://github.com/baszalmstra/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
 * [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
