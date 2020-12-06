@@ -606,4 +606,5 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [SimonBaars](https://www.twitch.tv/simon_baars) (Java + Haskell)
 * [spaceboyr00](https://twitch.tv/spaceboyr00) (Python)
 * [theypsilon](https://www.youtube.com/playlist?list=PL959l4g0Ko1riV3QU_qcTgue41y4S7ffP) (Rust)
+* [vwoo](https://www.twitch.tv/vwoo) (Ruby)
 * [yernab](https://twitch.tv/yernab) (APL)
