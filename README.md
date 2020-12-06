@@ -96,6 +96,7 @@ in your favourite language.*
 * [arkadye/advent_of_code](https://github.com/arkadye/advent_of_code_framework) *(C++)*
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
 * [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template) *(TypeScript)*
+* [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
 
 ## Tools and Utilities
 
@@ -326,6 +327,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [ryanolsonx/aocjs](https://github.com/ryanolsonx/aocjs) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
 * [s1gr1d/aoc-2020_functional-JS](https://github.com/s1gr1d/aoc-2020_functional-JS) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [theninthsky/advent-of-code](https://github.com/theninthsky/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
+* [ridaamirini/advent-of-code](https://github.com/ridaamirini/advent-of-code)
 
 #### Julia
 
@@ -385,6 +387,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [hapidjus/AdventOfCode](https://github.com/hapidjus/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
 * [vuryss/aoc-php](https://github.com/vuryss/aoc-php) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
 * [xavice/advent-of-code](https://github.com/xavice/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-yellow)
+* [ridaamirini/advent-of-code](https://github.com/ridaamirini/advent-of-code)
 
 #### Perl
 
