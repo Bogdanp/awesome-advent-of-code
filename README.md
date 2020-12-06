@@ -81,6 +81,7 @@ in your favourite language.*
 * [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
 * [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
+* [codemicro/adventOfCode](https://github.com/codemicro/adventOfCode/tree/master/template) *(Go, Python)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) *(Elixir)*
