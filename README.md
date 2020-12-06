@@ -215,6 +215,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Elixir.*
 
+* [norrbacka/aoc2020_elixir]
+
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
