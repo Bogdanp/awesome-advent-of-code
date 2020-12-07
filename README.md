@@ -416,6 +416,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [sgruber94/awesome-advent-of-code2020](https://github.com/sgruber94/awesome-advent-of-code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
 * [tomlarse/aoc2020](https://github.com/tomlarse/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
 * [rdybro/adventofcode](https://github.com/rdybro/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
+* [seanluce/adventofcode2020](https://github.com/seanluce/adventofcode2020) ![Last Commit on Github](https://img.shields.io/github/last-commit/seanluce/adventofcode2020)
 
 #### Python
 
