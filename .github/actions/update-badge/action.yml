@@ -1,0 +1,17 @@
+name: 'Update badge'
+description: 'Fetches last commit time of repositories and generates badges'
+inputs:
+  ghToken:
+    description: 'GitHub token'
+    required: true
+  inputFile:
+    description: 'File path of README.md'
+    required: true
+    default: 'README.md'
+  outputFile:
+    description: 'File path of output'
+    required: true
+    default: 'README-badge.md'
+runs:
+  using: 'node12'
+  main: 'index.js'
