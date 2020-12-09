@@ -506,6 +506,11 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Racket.*
 
 * [Bogdanp/aoc2020](https://github.com/Bogdanp/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--09-yellow)
+* [haskal/aoc2020](https://git.lain.faith/haskal/aoc2020)
+* [jackfirth/advent-of-code]
+* [lojic/LearningRacket]
+* [mbutterick/aoc-racket]
+* [samdphillips/aoc-2020]
 
 #### Raku
 
