@@ -682,6 +682,9 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Zig.*
 
+* [fyrchik/aoc2020zig](https://github.com/fyrchik/aoc2020zig)
+
+
 ### Live Streams
 
 *Folks who are live streaming their process.*
