@@ -667,6 +667,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [ttbowen/advent-of-code-2020](https://github.com/ttbowen/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--06-yellow)
 * [robinpokorny/advent-of-code-2020](https://github.com/robinpokorny/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--11-yellowgreen)
 * [RinkAttendant6/advent-of-code-2020](https://github.com/RinkAttendant6/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--12-yellowgreen)
+* [LoicB/Advent-of-Code-2020](https://github.com/LoicB/Advent-of-Code-2020) 
 
 ##### Deno
 
