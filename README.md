@@ -447,6 +447,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Prolog.*
 
+* [aarroyoc/advent-of-code-2020]
+
 #### PowerShell
 
 *Solutions to AoC in PowerShell.*
