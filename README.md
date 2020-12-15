@@ -356,6 +356,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--13-yellowgreen)
 * [cullylarson/advent-code-2020](https://github.com/cullylarson/advent-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--09-yellow)
 * [falsepopsky/advent-of-code-2020-js](https://github.com/falsepopsky/advent-of-code-2020-js) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--03-orange)
+* [joaomlneto/advent-of-code]
 * [leyanlo/advent-of-code](https://github.com/leyanlo/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--15-yellowgreen)
 * [linyeir/adventOfCode](https://github.com/linyeir/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--15-yellowgreen)
 * [mariotacke/advent-of-code-2020](https://github.com/mariotacke/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--15-yellowgreen)
