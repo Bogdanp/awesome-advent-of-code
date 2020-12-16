@@ -5,41 +5,35 @@ const endpoint = require('./endpoint')
 
 let octokit
 
-try {
-  const ghToken = core.getInput('ghToken')
-  const inputFile = core.getInput('inputFile')
-  const outputFile = core.getInput('outputFile')
+(async function() {
+  try {
+    const ghToken = core.getInput('ghToken')
+    const inputFile = core.getInput('inputFile')
+    const outputFile = core.getInput('outputFile')
 
-  const content = fs.readFileSync(inputFile, 'utf8')
-  const lines = content.split('\n')
-  core.startGroup('Extract repositories')
-  const repos = extractRepositories(lines)
-  core.info(`count=${repos.length}`)
-  core.endGroup()
+    const content = fs.readFileSync(inputFile, 'utf8')
+    const lines = content.split('\n')
+    const repos = await core.group('Extracting repos...', () => extractRepositories(lines))
+    core.info(`count=${repos.length}`)
 
-  octokit = github.getOctokit(ghToken)
-  core.startGroup('Fetch repositories')
-  Promise.all(repos.map(({ repoStr }) => generateLine(repoStr)))
-    .then((newLines) => {
-      core.endGroup()
-
-      newLines.forEach((line, i) => {
-        if (shouldUpdate(lines[repos[i].index], line)) {
-          lines[repos[i].index] = line
+    octokit = github.getOctokit(ghToken)
+    await core.group('Fetching repositories & updating lines...', async () => {
+      for (const repo of repos) {
+        const line = await generateLine(repo.repoStr)
+        if (shouldUpdate(lines[repo.index], line)) {
+          lines[repo.index] = line
         }
-      })
+      }
+    })
 
-      core.startGroup('Writing to file')
+    await core.group('Writing README...', () => {
       fs.writeFileSync(outputFile, lines.join('\n'))
       core.info(`Finished writing to ${outputFile}`)
-      core.endGroup()
     })
-    .catch(error => {
-      core.setFailed(error.message)
-    })
-} catch (error) {
-  core.setFailed(error.message)
-}
+  } catch (error) {
+    core.setFailed(error.message)
+  }
+})()
 
 function extractRepositories(lines) {
   const repos = []
@@ -48,6 +42,8 @@ function extractRepositories(lines) {
   lines.some((line, index) => {
     if (line === '### Solutions') {
       collect = true
+    } else if (line === '### Live Streams') {
+      collect = false
     } else if (collect) {
       const idx1 = line.indexOf('[')
       const idx2 = line.indexOf(']')
