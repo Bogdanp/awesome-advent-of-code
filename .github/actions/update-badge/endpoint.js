@@ -45,11 +45,11 @@ function colorScale(steps, colors, reversed) {
   }
 
   const defaultColors = {
-    1: ['red', 'brightgreen'],
-    2: ['red', 'yellow', 'brightgreen'],
-    3: ['red', 'yellow', 'green', 'brightgreen'],
-    4: ['red', 'yellow', 'yellowgreen', 'green', 'brightgreen'],
-    5: ['red', 'orange', 'yellow', 'yellowgreen', 'green', 'brightgreen'],
+    1: ['brightgreen', 'red'],
+    2: ['brightgreen', 'yellow', 'red'],
+    3: ['brightgreen', 'green', 'yellow', 'red'],
+    4: ['brightgreen', 'green', 'yellowgreen', 'yellow', 'red'],
+    5: ['brightgreen', 'green', 'yellowgreen', 'yellow', 'orange', 'red']
   }
 
   if (typeof colors === 'undefined') {
@@ -71,20 +71,20 @@ function colorScale(steps, colors, reversed) {
   }
 
   return value => {
-    const stepIndex = steps.findIndex(step => value < step)
+    const stepIndex = steps.findIndex(step => value >= step)
 
-    // For the final step, stepIndex is -1, so in all cases this expression
-    // works swimmingly.
+    // For any value above the final step, stepIndex is -1, so in all cases this
+    // expression works swimmingly.
     return colors.slice(stepIndex)[0]
   }
 }
 
 function age(date) {
   const now = moment()
-  const dec1st = moment([now.year(), 11, 1])
-  if (now.diff(dec1st) < 0) dec1st.add(-1, 'y')
+  const then = moment(date)
+  if (now.diff(date) < 0) date.add(-1, 'y')
 
-  const daysElapsed = moment(date).diff(moment(dec1st), 'days') + 1
-  const colorByAge = colorScale([0, 5, 10, 20, 25], undefined, false)
+  const daysElapsed = now.diff(moment(date), 'days')
+  const colorByAge = colorScale([1, 5, 10, 20, 25], undefined, false)
   return colorByAge(daysElapsed)
 }
