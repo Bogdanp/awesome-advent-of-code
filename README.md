@@ -538,6 +538,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [yufengg/adventofcode](https://github.com/yufengg/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--18-brightgreen)
 * [rosscon/rosscon_advent_of_code](https://github.com/rosscon/rosscon_advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--18-brightgreen)
 * [terezaif/adventofcode](https://github.com/terezaif/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--18-brightgreen)
+* [zed-b/advent-of-code](https://github.com/zed-b/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
 
 #### R
 
