@@ -292,6 +292,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [sshilin/aoc2020](https://github.com/sshilin/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [thlacroix/goadvent](https://github.com/thlacroix/goadvent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
 * [Catorpilor/adventofcode](https://github.com/Catorpilor/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
+* [alokmenghrajani/adventofcode2020](https://github.com/alokmenghrajani/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--21-brightgreen)
 
 #### Groovy
 
