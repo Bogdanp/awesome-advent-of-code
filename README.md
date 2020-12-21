@@ -270,7 +270,9 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Go.*
 
+* [Catorpilor/adventofcode](https://github.com/Catorpilor/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
 * [NoMod-Programming/Advent-of-Code-2020](https://github.com/NoMod-Programming/Advent-of-Code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--08-brightgreen)
+* [arxeiss/advent-of-code-2020](https://github.com/arxeiss/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [bartvanackooij/adventofcode2020](https://github.com/bartvanackooij/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-brightgreen)
 * [chigley/advent2020](https://github.com/chigley/advent2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [codemicro/adventOfCode](https://github.com/codemicro/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
@@ -291,7 +293,6 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [nlowe/aoc2020](https://github.com/nlowe/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--17-brightgreen)
 * [sshilin/aoc2020](https://github.com/sshilin/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [thlacroix/goadvent](https://github.com/thlacroix/goadvent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
-* [Catorpilor/adventofcode](https://github.com/Catorpilor/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 
 #### Groovy
 
