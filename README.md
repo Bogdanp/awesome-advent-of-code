@@ -679,6 +679,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [Afstkla/AdventOfCode2020](https://github.com/Afstkla/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [richardpineo/AOC2020](https://github.com/richardpineo/AOC2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [crmitchelmore/adventofcode2020](https://github.com/crmitchelmore/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--18-brightgreen)
+* [altaibayar/AdventOfCode](https://github.com/altaibayar/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 
 #### TypeScript
 
