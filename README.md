@@ -41,6 +41,7 @@ This is a collection of awesome resources related to the yearly
     * [Julia](#julia)
     * [Kotlin](#kotlin)
     * [LDPL](#ldpl)
+    * [Lua](#lua)
     * [MATLAB](#matlab)
     * [Nim](#nim)
     * [OCaml](#ocaml)
@@ -412,6 +413,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### LDPL
 
 *Solutions to AoC in LDPL.*
+
+#### Lua
+
+*Solutions to AoC in Lua.*
+
+* [actually-reb/aoc2020]
 
 #### MATLAB
 
