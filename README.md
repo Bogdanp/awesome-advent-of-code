@@ -272,6 +272,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [Catorpilor/adventofcode](https://github.com/Catorpilor/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
 * [NoMod-Programming/Advent-of-Code-2020](https://github.com/NoMod-Programming/Advent-of-Code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--08-brightgreen)
+* [alokmenghrajani/adventofcode2020](https://github.com/alokmenghrajani/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--21-brightgreen)
 * [arxeiss/advent-of-code-2020](https://github.com/arxeiss/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [bartvanackooij/adventofcode2020](https://github.com/bartvanackooij/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-brightgreen)
 * [chigley/advent2020](https://github.com/chigley/advent2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
