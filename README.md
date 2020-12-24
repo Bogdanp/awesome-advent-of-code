@@ -462,6 +462,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Perl.*
 
+* [syaffers/p5-advent-of-code-2020]
+
 #### Pony
 
 *Solutions to AoC in Pony.*
