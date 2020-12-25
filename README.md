@@ -414,6 +414,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [nschwermann/AdventOfCode](https://github.com/nschwermann/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [yangzii0920/advent-of-code-2020](https://github.com/yangzii0920/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--22-brightgreen)
 * [tobi6112/AdventOfCode_2020](https://github.com/tobi6112/AdventOfCode_2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
+* [siraben/haoc-2020](https://github.com/siraben/haoc-2020)![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
 
 #### LDPL
 
