@@ -502,6 +502,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [Levivig/AdventOfCode2020](https://github.com/Levivig/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--07-brightgreen)
 * [Manas02/Advent-of-code](https://github.com/Manas02/Advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--15-brightgreen)
 * [Robin-Bakker/advent-of-code](https://github.com/Robin-Bakker/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--08-brightgreen)
+* [TheLocehiliosan/advent-of-code](https://github.com/TheLocehiliosan/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
 * [VasileiosGeladaris/AdventOfCode2020](https://github.com/VasileiosGeladaris/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-brightgreen)
 * [agubelu/Advent-of-Code-2020](https://github.com/agubelu/Advent-of-Code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
 * [alstn2468/Advent_of_Code_2020](https://github.com/alstn2468/Advent_of_Code_2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--14-brightgreen)
