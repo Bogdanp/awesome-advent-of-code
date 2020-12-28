@@ -38,6 +38,7 @@ This is a collection of awesome resources related to the yearly
     * [J](#J)
     * [Java](#java)
     * [JavaScript](#javascript)
+    * [jq](#jq)
     * [Julia](#julia)
     * [Kotlin](#kotlin)
     * [LDPL](#ldpl)
@@ -386,6 +387,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [shahata/adventofcode-solver](https://github.com/shahata/adventofcode-solver) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--26-brightgreen)
 * [theninthsky/advent-of-code](https://github.com/theninthsky/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--17-brightgreen)
 * [kopenkinda/advent-of-code-2020](https://github.com/kopenkinda/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--23-brightgreen)
+
+#### jq
+
+*Solutions to AoC in jq.*
+
+* [odnoletkov/advent-of-code-2020-jq]
 
 #### Julia
 
