@@ -45,6 +45,7 @@ This is a collection of awesome resources related to the yearly
     * [Lua](#lua)
     * [MATLAB](#matlab)
     * [Nim](#nim)
+    * [Objective-C][#objc]
     * [OCaml](#ocaml)
     * [PHP](#php)
     * [Perl](#perl)
@@ -454,6 +455,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [dimspith/AdventOfCode2020](https://github.com/dimspith/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [jgesc/AdventOfCode2020](https://github.com/jgesc/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--17-brightgreen)
 * [pietroppeter/adventofnim](https://github.com/pietroppeter/adventofnim) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--27-brightgreen)
+
+#### Objective-C
+
+*Solutions to AoC in Objective-C.*
+
+* [n3pheddy/AdventOfCode2020](https://github.com/n3pheddy/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--29-brightgreen)
 
 #### OCaml
 
