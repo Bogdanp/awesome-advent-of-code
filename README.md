@@ -45,7 +45,7 @@ This is a collection of awesome resources related to the yearly
     * [Lua](#lua)
     * [MATLAB](#matlab)
     * [Nim](#nim)
-    * [Objective-C][#objc]
+    * [Objective-C](#objc)
     * [OCaml](#ocaml)
     * [PHP](#php)
     * [Perl](#perl)
