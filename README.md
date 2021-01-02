@@ -105,8 +105,12 @@ in your favourite language.*
 ## Tools and Utilities
 
 * [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
-* [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-ranking/jbnlafikncgjjhdkmfhokcplgahebmjl) -- Browser extension for private leaderboard visualization
-* [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aoc-ranking/) -- Browser extension for private leaderboard visualization
+* Browser extension for private leaderboard visualization
+  * [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-ranking/jbnlafikncgjjhdkmfhokcplgahebmjl)
+  * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aoc-ranking/)
+* Browser extension which enhances your personal stats page with a time from Part 1 to Part 2 column (it also tracks when you've first opened a puzzle and offsets the completion times accordingly)
+  * [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-part-2-timer/fhmjpoppaplfhgnknpbaaklgdnnimfbn)
+  * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-part-2-timer/)
 * [Globals medals overview](http://www.maurits.vdschee.nl/scatterplot/medals.html) -- Alternative global leaderboard showing first, second and third places as gold, silver and bronze medals.
 * [Scatterplot of first 100](http://www.maurits.vdschee.nl/scatterplot/) -- Scatterplot of the time taken to solve the parts of each puzzle by the first 100 people that solved it.
 * [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
