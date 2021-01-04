@@ -270,7 +270,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in F#.*
 
-* [JanDotNet/AdventOfCode](https://github.com/JanDotNet/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--02-brightgreen)
+* [JanDotNet/AdventOfCode](https://github.com/JanDotNet/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--03-brightgreen)
 * [ThomasGoetzmann/AdventOfCode2020](https://github.com/ThomasGoetzmann/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--11-brightgreen)
 * [jilleJr/adventofcode-2020-fsharp](https://github.com/jilleJr/adventofcode-2020-fsharp) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--14-brightgreen)
 * [jovaneyck/advent-of-code-2020](https://github.com/jovaneyck/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
@@ -460,7 +460,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [dimspith/AdventOfCode2020](https://github.com/dimspith/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-brightgreen)
 * [jgesc/AdventOfCode2020](https://github.com/jgesc/AdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--17-brightgreen)
 * [pietroppeter/adventofnim](https://github.com/pietroppeter/adventofnim) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--30-brightgreen)
-* [slicklash/aoc]
+* [slicklash/aoc](https://github.com/slicklash/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--03-brightgreen)
 
 #### Objective-C
 
