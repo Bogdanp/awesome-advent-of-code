@@ -102,6 +102,7 @@ in your favourite language.*
 * [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
 * [amorriscode/advent-of-code](https://github.com/amorriscode/advent-of-code) *(JavaScript)*
 * [mariofdezzz/aoc-node-starter](https://github.com/mariofdezzz/aoc-node-starter) *(JavaScript, TypeScript)*
+* [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *TypeScript*
 
 ## Tools and Utilities
 
