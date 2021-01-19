@@ -32,6 +32,7 @@ This is a collection of awesome resources related to the yearly
     * [F#](#f)
     * [Go](#go)
     * [Groovy](#groovy)
+    * [Hamler](#hamler)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
     * [Idris](#idris)
