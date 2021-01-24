@@ -268,6 +268,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Erlang.*
 
 * [stuart-thackray/aoc2020erl](https://github.com/stuart-thackray/aoc2020erl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--24-brightgreen)
+* [bzab076/AoC2020]
 
 #### F#
 
