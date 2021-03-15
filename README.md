@@ -549,7 +549,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [aufbakanleitung/advent-of-code-2020](https://github.com/aufbakanleitung/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--08-brightgreen)
 * [aureliensimon/avent-of-code-2020](https://github.com/aureliensimon/avent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--15-brightgreen)
 * [brianbarbieri](https://github.com/brianbarbieri/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--03--15-brightgreen)
-* [bsoyka/aoc](https://github.com/bsoyka/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--09-brightgreen)
+* [bsoyka/aoc](https://github.com/bsoyka/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--03--14-brightgreen)
 * [campierce/advent-of-code](https://github.com/campierce/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--30-brightgreen)
 * [candemircan/adventofcode](https://github.com/candemircan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--05-brightgreen)
 * [codemicro/adventOfCode](https://github.com/codemicro/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
