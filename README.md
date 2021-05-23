@@ -641,6 +641,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Raku.*
 
 * [interlab/advent-of-code](https://github.com/interlab/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--13-brightgreen)
+* [juliodcs/advent-of-code](https://github.com/juliodcs/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--05--22-brightgreen)
 
 #### ReasonML
 
