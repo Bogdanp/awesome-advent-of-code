@@ -686,6 +686,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [hashedone/aoc2020](https://github.com/hashedone/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-brightgreen)
 * [jasondew/advent-of-code](https://github.com/jasondew/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--01-brightgreen)
 * [LesnyRumcajs/advent-of-rust-2020](https://github.com/LesnyRumcajs/advent-of-rust-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
+* [lmammino/rust-advent]
 * [lukestorry/advent-of-code-2020](https://github.com/lukestorry/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--22-brightgreen)
 * [maksyms/aoc2020](https://github.com/maksyms/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
 * [mathieu/adventofcode-2020](https://lab.texthtml.net/mathieu/adventofcode-2020)
