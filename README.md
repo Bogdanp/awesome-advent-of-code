@@ -235,6 +235,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [m3m0ry/2020-aoc](https://github.com/m3m0ry/2020-aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--21-brightgreen)
 * [~zge/aoc20](https://git.sr.ht/~zge/aoc20)
 * [dwclark/advent-of-code-2020](https://github.com/dwclark/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--20-brightgreen)
+* [guojing0/aoc-2020](https://github.com/guojing0/aoc-2020)
 
 #### Crystal
 
