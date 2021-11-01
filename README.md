@@ -203,7 +203,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in C++.*
 
 * [BuzzHari/advent_of_code](https://github.com/BuzzHari/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--07-brightgreen)
-* [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--08--31-brightgreen)
+* [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--10--29-brightgreen)
 * [Kazhuu/advent-of-code-2020](https://github.com/Kazhuu/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--10--10-brightgreen)
 * [Sciencentistguy/AdventOfCode](https://github.com/Sciencentistguy/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--10--11-brightgreen)
 * [TheRealMolen/adventofcode2020](https://github.com/TheRealMolen/adventofcode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--26-brightgreen)
@@ -235,7 +235,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [m3m0ry/2020-aoc](https://github.com/m3m0ry/2020-aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--21-brightgreen)
 * [~zge/aoc20](https://git.sr.ht/~zge/aoc20)
 * [dwclark/advent-of-code-2020](https://github.com/dwclark/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--20-brightgreen)
-* [guojing0/aoc-2020](https://github.com/guojing0/aoc-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--10--26-brightgreen)
+* [guojing0/aoc-2020](https://github.com/guojing0/aoc-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--10--31-brightgreen)
 
 #### Crystal
 
@@ -380,7 +380,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--03--24-brightgreen)
 * [yeroc/advent-of-code](https://github.com/yeroc/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--17-brightgreen)
 * [vforchi/AoC](https://github.com/vforchi/AoC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--31-brightgreen)
-* [TheCK/codeChallenges](https://github.com/TheCK/codeChallenges) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--04--30-brightgreen)
+* [TheCK/codeChallenges](https://github.com/TheCK/codeChallenges) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--10--29-brightgreen)
 
 #### JavaScript
 
