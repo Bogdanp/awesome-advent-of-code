@@ -102,7 +102,6 @@ in your favourite language.*
 * [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template) *(TypeScript)*
 * [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
 * [amorriscode/advent-of-code](https://github.com/amorriscode/advent-of-code) *(JavaScript)*
-* [mariofdezzz/aoc-node-starter](https://github.com/mariofdezzz/aoc-node-starter) *(JavaScript, TypeScript)*
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *TypeScript*
 
 ## Tools and Utilities
@@ -127,6 +126,7 @@ in your favourite language.*
 * [aoc-ranking](https://github.com/freedomofkeima/aoc-ranking) -- Show all non-zero score AoC participants in one, global scoreboard. *(Python)*
 * [aoc-cli](https://github.com/scarvalhojr/aoc-cli) -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
 * [adventofcode-badge](https://github.com/stackcats/adventofcode-badge) -- An interface over Shields.io to facilitate the creation of badges from Advent of Code.
+* [@aocjs/cli](https://github.com/aocjs/cli) -- Package for executing solutions with hot reload and data fetching *(JavaScript, TypeScript)*
 
 ## Other Advent Calendars
 
