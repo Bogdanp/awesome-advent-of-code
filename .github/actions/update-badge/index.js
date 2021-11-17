@@ -21,6 +21,7 @@ let octokit
       for (const repo of repos) {
         const line = await generateLine(repo.repoStr)
         if (shouldUpdate(lines[repo.index], line)) {
+          core.debug(`Updated line: '${line}'`)
           lines[repo.index] = line
         }
       }
