@@ -194,12 +194,11 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Crystal.*
 
-* [jazcarate/advent-of-code-2020](https://github.com/jazcarate/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--19-brightgreen)
-* [meadsteve/advent-of-code-2020](https://github.com/meadsteve/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--12-brightgreen)
 
 #### D
 
 *Solutions to AoC in D.*
+
 
 #### Dart
 
@@ -214,6 +213,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
+
 
 #### Erlang
 
@@ -237,7 +237,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 #### Hamler
 
-*Solutions to AoC in [Hamler](https://github.com/hamler-lang/hamler)*
+*Solutions to AoC in Hamler.*
 
 
 #### Haskell
