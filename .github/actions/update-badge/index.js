@@ -20,7 +20,7 @@ let octokit
     await core.group('Fetching repositories & updating lines...', async () => {
       for (const repo of repos) {
         const line = await generateLine(repo.repoStr)
-        core.debug(`Updated line: '${line}'`)
+        core.info(`...repo line: '${line}'`)
         lines[repo.index] = line
       }
     })
