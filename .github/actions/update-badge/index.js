@@ -81,6 +81,9 @@ async function generateBadge(repoStr) {
 }
 
 function shouldUpdate(oldLine, newLine) {
-  const badDateReg = /red\)$/
-  return badDateReg.test(oldLine) || !badDateReg.test(newLine)
+  const lastReg = /Last Commit on GitHub/;
+  const badDateReg = /red\)$/;
+  return !lastReg.test(oldLine) ||
+    !badDateReg.test(newLine) ||
+    badDateReg.test(oldLine);
 }
