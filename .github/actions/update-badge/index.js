@@ -20,10 +20,8 @@ let octokit
     await core.group('Fetching repositories & updating lines...', async () => {
       for (const repo of repos) {
         const line = await generateLine(repo.repoStr)
-        if (shouldUpdate(lines[repo.index], line)) {
-          core.debug(`Updated line: '${line}'`)
-          lines[repo.index] = line
-        }
+        core.debug(`Updated line: '${line}'`)
+        lines[repo.index] = line
       }
     })
 
@@ -76,9 +74,4 @@ async function generateBadge(repoStr) {
   return 'https://img.shields.io/badge/' + [label, message, color]
     .map(s => encodeURIComponent(s.replace(/\-/g, '--')))
     .join('-')
-}
-
-function shouldUpdate(oldLine, newLine) {
-  const badDateReg = /red\)$/
-  return badDateReg.test(oldLine) || !badDateReg.test(newLine)
 }
