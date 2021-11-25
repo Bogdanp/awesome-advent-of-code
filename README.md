@@ -104,6 +104,7 @@ in your favourite language.*
 * [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
 * [amorriscode/advent-of-code](https://github.com/amorriscode/advent-of-code) *(JavaScript)*
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *TypeScript*
+* [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) *Zig*
 
 ## Tools and Utilities
 
