@@ -65,6 +65,7 @@ This is a collection of awesome resources related to the yearly
     * [Smalltalk](#smalltalk)
     * [Scala](#scala)
     * [Scheme](#scheme)
+    * [Solidity](#solidity)
     * [SpectX](#spectx)
     * [SQL](#sql)
     * [Swift](#swift)
@@ -411,6 +412,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Scheme.*
 
+
+#### Solidity
+
+*Solutions to AoC in Solidity.*
+
+* [ethsgo/aoc]
 
 #### SpectX
 
