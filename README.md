@@ -287,7 +287,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Julia.*
 
-* [goggle/AdventOfCode2021.jl](https:/github.com/goggle/AdventOfCode2021.jl)
+* [goggle/AdventOfCode2021.jl](https://github.com/goggle/AdventOfCode2021.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--11--24-brightgreen)
 
 #### Kotlin
 
