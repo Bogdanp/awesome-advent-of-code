@@ -451,6 +451,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Swift.*
 
+* [bence-t0th/Advent-of-Code-2021]
 
 #### TypeScript
 
