@@ -161,7 +161,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
  
 *Solutions to AoC in AWK.*
  
-* [ofrank123/AoC2021]
+* [ofrank123/AoC2021](https://github.com/ofrank123/AoC2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-red)
 
 
 #### Bash
