@@ -229,6 +229,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Erlang.*
 
+* [hypothermic/advent-of-code-2021]
 
 #### F#
 
