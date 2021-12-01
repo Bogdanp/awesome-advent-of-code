@@ -255,6 +255,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Haskell.*
 
+* [DestyNova/advent_of_code_2021]
 
 #### Haxe
 
