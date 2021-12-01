@@ -197,6 +197,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Common Lisp
 
 *Solutions to AoC in Common Lisp.*
+* [guojing0/aoc-2021]
 
 
 #### Crystal
