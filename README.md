@@ -50,7 +50,6 @@ This is a collection of awesome resources related to the yearly
     * [PowerShell](#powershell)
     * [Prolog](#prolog)
     * [Python](#python)
-      * [smetanin-av/advent_of_code](https://github.com/smetanin-av/advent_of_code.git)
     * [R](#r)
     * [Racket](#racket)
     * [Raku](#raku)
@@ -508,7 +507,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [wysockipiotr/aoc](https://github.com/wysockipiotr/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-yellowgreen)
 * [yeurch/advent-of-code](https://github.com/yeurch/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-yellowgreen)
 * [yufengg/adventofcode](https://github.com/yufengg/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--10-yellowgreen)
-* [smetanin-av/advent_of_code]
+* [smetanin-av/advent_of_code](https://github.com/smetanin-av/advent_of_code.git)
 
 #### R
 
