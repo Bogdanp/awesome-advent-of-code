@@ -73,6 +73,7 @@ This is a collection of awesome resources related to the yearly
       * [Deno](#deno)
     * [Unison](#unison)
     * [VB.NET](#vbnet)
+    * [Whitespace](#whitespace)
     * [Zig](#zig)
   * [Live Streams](#live-streams)
 
@@ -480,6 +481,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in VB.NET.*
 
 
+
+#### Whitespace
+
+*Solutions to AoC in Whitespace.*
+
+* [andrewarchi/ws-challenges](https://github.com/andrewarchi/ws-challenges) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--11--30-brightgreen)
 
 #### Zig
 
