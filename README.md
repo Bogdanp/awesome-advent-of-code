@@ -219,6 +219,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Elm and Literate Elm.*
 
+* [ryanolsonx/aocelm2021]
+
 
 #### Erlang
 
