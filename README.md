@@ -512,7 +512,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Zig.*
 
-
+* [scorphus/advent-of-code-2021](https://github.com/scorphus/advent-of-code-2021)
 
 ### Live Streams
 
