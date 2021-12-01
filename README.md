@@ -50,7 +50,7 @@ This is a collection of awesome resources related to the yearly
     * [PowerShell](#powershell)
     * [Prolog](#prolog)
     * [Python](#python)
-    * [smetanin-av/advent_of_code](https://github.com/smetanin-av/advent_of_code.git)
+      * [smetanin-av/advent_of_code](https://github.com/smetanin-av/advent_of_code.git)
     * [R](#r)
     * [Racket](#racket)
     * [Raku](#raku)
