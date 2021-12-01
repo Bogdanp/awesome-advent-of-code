@@ -437,6 +437,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Ruby.*
 
+* [damyvv/advent-of-code-2021](https://github.com/damyvv/advent-of-code-2021)
 
 #### Rust
 
