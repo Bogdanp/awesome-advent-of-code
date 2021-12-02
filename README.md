@@ -425,6 +425,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [smetanin-av/advent_of_code](https://github.com/smetanin-av/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
 * [ernestoarbitrio/AoC2021](https://github.com/ernestoarbitrio/AoC2021) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/ernestoarbitrio/AoC2021)
 * [rosscon/rosscon_advent_of_code](https://github.com/rosscon/rosscon_advent_of_code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rosscon/rosscon_advent_of_code)
+* [widdin/advent-of-code](https://github.com/Widdin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/widdin/advent-of-code)
 
 #### R
 
