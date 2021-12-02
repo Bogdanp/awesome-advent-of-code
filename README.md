@@ -311,7 +311,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [thejan14/adventofcode2021](https://github.com/thejan14/adventofcode2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
 * [ald890/advent-of-code](https://github.com/ald890/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-red)
-* [joaomlneto/advent-of-code]
+* [joaomlneto/advent-of-code](https://github.com/joaomlneto/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-red)
 
 #### jq
 
@@ -353,7 +353,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Nim.*
 
-* [AP2008/nim-aoc2021]
+* [AP2008/nim-aoc2021](https://github.com/AP2008/nim-aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-red)
 
 #### Objective-C
 
@@ -370,7 +370,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jvwag/advent-of-code](https://github.com/jvwag/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
 * [ridaamirini/advent-of-code](https://github.com/ridaamirini/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
 * [vuryss/aoc-php](https://github.com/vuryss/aoc-php) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
-* [kirara/advent-of-code]
+* [kirara/advent-of-code](https://github.com/kirara/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-red)
 
 #### Perl
 
