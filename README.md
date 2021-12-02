@@ -352,6 +352,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Nim.*
 
+* [AP2008/nim-aoc2021]
+
 #### Objective-C
 
 *Solutions to AoC in Objective-C.*
