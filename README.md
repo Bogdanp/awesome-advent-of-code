@@ -440,6 +440,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Raku.*
 
+[Hydrazer/advent-of-code](https://github.com/Hydrazer/advent-of-code/tree/main/raku/2021)
 
 #### ReasonML
 
@@ -469,7 +470,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [zsacul/AdventOfCode2021](https://github.com/zsacul/AdventOfCode2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
 * [sathwikmatsa/aoc21](https://github.com/sathwikmatsa/aoc21) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
 * [hashedone/aoc2021](https://github.com/hashedone/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-brightgreen)
-
+[Hydrazer/advent-of-code](https://github.com/Hydrazer/advent-of-code/tree/main/rust/2021)
 #### Smalltalk
 
 *Solutions to AoC in Smalltalk.*
