@@ -85,6 +85,6 @@ function age(date) {
   if (now.diff(date) < 0) date.add(-1, 'y')
 
   const daysElapsed = now.diff(moment(date), 'days')
-  const colorByAge = colorScale([1, 5, 10, 20, 25], undefined, false)
+  const colorByAge = colorScale([0, 5, 10, 20, 25], undefined, false)
   return colorByAge(daysElapsed)
 }
