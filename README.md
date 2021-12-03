@@ -206,6 +206,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Clojure.*
 
+* [unparalloser/advent-of-code-2021](https://github.com/unparalloser/advent-of-code-2021)
 
 #### Common Lisp
 
