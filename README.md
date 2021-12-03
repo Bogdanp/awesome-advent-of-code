@@ -338,7 +338,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [Omay238/advent-of-code](https://github.com/Omay238/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--03-brightgreen)
 * [Totto16/AOC-2021](https://github.com/Totto16/AOC-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--03-brightgreen)
 * [xhayper/advent-of-code](https://github.com/xhayper/advent-of-code)
- 
+
 #### jq
 
 *Solutions to AoC in jq.*
@@ -373,7 +373,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Lua
 
 *Solutions to AoC in Lua.*
- 
+
 * [xhayper/advent-of-code](https://github.com/xhayper/advent-of-code)
 
 #### MATLAB
@@ -592,9 +592,6 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [jwarwick/aoc_2021](https://github.com/jwarwick/aoc_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-brightgreen)
 * [scorphus/advent-of-code-2021](https://github.com/scorphus/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-brightgreen)
-
 ### Live Streams
-
 *Folks who are live streaming their process.*
-
 * [Aufbakanleitung](https://youtube.com/playlist?list=PLDeBWauprDRjbplIuyhVhXhIt7k4NuOad)
