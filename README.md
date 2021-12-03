@@ -337,6 +337,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [joaomlneto/advent-of-code](https://github.com/joaomlneto/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-brightgreen)
 * [Omay238/advent-of-code](https://github.com/Omay238/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--03-brightgreen)
 * [Totto16/AOC-2021](https://github.com/Totto16/AOC-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--03-brightgreen)
+* [xhayper/advent-of-code](https://github.com/xhayper/advent-of-code)
+ 
 #### jq
 
 *Solutions to AoC in jq.*
@@ -371,6 +373,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Lua
 
 *Solutions to AoC in Lua.*
+ 
+* [xhayper/advent-of-code](https://github.com/xhayper/advent-of-code)
 
 #### MATLAB
 
