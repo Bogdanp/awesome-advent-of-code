@@ -108,6 +108,7 @@ in your favourite language.*
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *(TypeScript)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) *(Zig)*
 * [pacso/aoc_rb](https://github.com/pacso/aoc_rb) *(Ruby)*
+* [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
 
 ## Tools and Utilities
 
@@ -595,6 +596,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Deno
 
 *Solutions to AoC in Deno (TypeScript).*
+
+* [ismtabo/advent-of-code-2021](https://github.com/ismtabo/advent-of-code-2021)
 
 #### Unison
 
