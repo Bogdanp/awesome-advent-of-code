@@ -171,8 +171,10 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 #### Bash
 
-* [Theo-rhone/Advent-Of-Code-Bash](https://github.com/Theo-rhone/Advent-Of-Code-Bash) 
- 
+*Solutions to AoC in Bash.*
+
+* [Theo-rhone/Advent-Of-Code-Bash](https://github.com/Theo-rhone/Advent-Of-Code-Bash)
+
 #### C
 
 *Solutions to AoC in C.*
