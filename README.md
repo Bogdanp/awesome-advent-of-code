@@ -477,6 +477,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [gamma032steam/advent-of-code-2021](https://github.com/gamma032steam/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--05-brightgreen)
 * [grigoresc/adventofcode.2021](https://github.com/grigoresc/adventofcode.2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--05-brightgreen)
 * [jhrcook/advent-of-code_2021](https://github.com/jhrcook/advent-of-code_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--05-brightgreen)
+* [JohnScolaro/advent-of-code]
 * [jopein/aoc2021](https://github.com/jopein/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-brightgreen)
 * [k2bd/advent-of-code](https://github.com/k2bd/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--06-brightgreen)
 * [lostella/advent-of-code](https://github.com/lostella/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--05-brightgreen)
