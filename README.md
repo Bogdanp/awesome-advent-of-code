@@ -62,6 +62,7 @@ This is a collection of awesome resources related to the yearly
     * [Raku](#raku)
     * [ReasonML](#reasonml)
     * [Red](#red)
+    * [REXX](#rexx)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Smalltalk](#smalltalk)
@@ -110,6 +111,7 @@ in your favourite language.*
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *(TypeScript)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) *(Zig)*
 * [pacso/aoc_rb](https://github.com/pacso/aoc_rb) *(Ruby)*
+* [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
 
@@ -582,6 +584,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Red
 
 *Solutions to AoC in Red.*
+ 
+ #### REXX
+
+ *Solutions to AoC in REXX.*
+ 
+ * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) 
 
 #### Ruby
 
