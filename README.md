@@ -368,7 +368,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### HolyC
 
 *Solutions to AoC in HolyC (TempleOS).*
-* [tsoding/aoc-2021](https://gitlab.com/tsoding/aoc-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--10-brightgreen)
+* [tsoding/aoc-2021](https://gitlab.com/tsoding/aoc-2021)
 
 #### Idris
 
