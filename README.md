@@ -286,6 +286,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Elm and Literate Elm.*
 
 * [ryanolsonx/aocelm2021](https://github.com/ryanolsonx/aocelm2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--07-brightgreen)
+* [n1k0/elm-advent-2021](https://github.com/n1k0/elm-advent-2021) ([live demos](https://n1k0.github.io/elm-advent-2021/#/day/1)) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--11-brightgreen)
 
 #### Erlang
 
