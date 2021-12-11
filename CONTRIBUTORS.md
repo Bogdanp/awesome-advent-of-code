@@ -1,6 +1,8 @@
 # Contributors
 
-This file lists the contributors to awesome-advent-of-code.
+This file lists the contributors to awesome-advent-of-code.  Only add
+yourself here if you've contributed to the automation parts of the
+repo, not if you've added yourself to the list.
 
 | Username                                       | Name             |
 | :-------                                       | :---             |
