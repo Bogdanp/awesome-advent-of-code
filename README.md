@@ -38,6 +38,7 @@ This is a collection of awesome resources related to the yearly
     * [Hamler](#hamler)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
+	* [HolyC](#holyc)
     * [Idris](#idris)
     * [J](#J)
     * [Java](#java)
@@ -364,6 +365,11 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Haxe
 
 *Solutions to AoC in Haxe.*
+
+#### HolyC
+
+*Solutions to AoC in HolyC (TempleOS).*
+* [tsoding/aoc-2021](https://gitlab.com/tsoding/aoc-2021)
 
 #### Idris
 
