@@ -38,6 +38,7 @@ This is a collection of awesome resources related to the yearly
     * [Hamler](#hamler)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
+	* [HolyC](#holyc)
     * [Idris](#idris)
     * [J](#J)
     * [Java](#java)
