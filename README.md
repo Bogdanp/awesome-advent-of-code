@@ -72,6 +72,7 @@ This is a collection of awesome resources related to the yearly
     * [Solidity](#solidity)
     * [SpectX](#spectx)
     * [SQL](#sql)
+    * [Standard ML](#standard-ml)
     * [Swift](#swift)
     * [TypeScript](#typescript)
       * [Deno](#deno)
@@ -712,6 +713,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in SQL.*
 
 * [alihacks/advent-of-code](https://github.com/alihacks/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--11-brightgreen)
+
+#### Standard ML
+
+*Solutions to AoC in Standard ML.*
+
+* [qweeze/adventofcode](https://github.com/qweeze/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--11-brightgreen)
 
 #### Swift
 
