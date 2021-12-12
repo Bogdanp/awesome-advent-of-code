@@ -88,69 +88,34 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
-
-
-#### C#
-* [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase)
-* [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template)
-
-#### C++
-* [arkadye/advent_of_code](https://github.com/arkadye/advent_of_code_framework)
-
-#### Clojure
-* [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter)
-
-#### Dart
-
-* [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart)
-
-#### Elixir
-* [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc)
-* [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter)
-
-#### Go
-* [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template)
-
-#### Java
-* [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter)
-
-#### JavaScript
-* [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js)
-* [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code)
-* [amorriscode/advent-of-code](https://github.com/amorriscode/advent-of-code)
-
-#### Kotlin
-* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter)
-* [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin/tree/clean-template)
-
-#### PHP
-* [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template)
-
-#### Python
-* [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode)
-* [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template)
+* [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart)*(Dart)*
+* [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) *(Reason and OCaml)*
+* [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
+* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
+* [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template) *(Rust)*
+* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
+* [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin/tree/clean-template) *(Kotlin)*
+* [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
+* [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+* [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) *(Elixir)*
+* [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 * [UncleCJ/advent-of-code](https://github.com/UncleCJ/advent-of-code) *(Jupyter Python Notebooks)*
+* [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) *(C#)*
+* [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter) *(Clojure)*
+* [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js) *(JavaScript)*
+* [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
+* [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) *(JavaScript)*
+* [arkadye/advent_of_code](https://github.com/arkadye/advent_of_code_framework) *(C++)*
+* [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
+* [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template) *(TypeScript)*
+* [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
+* [amorriscode/advent-of-code](https://github.com/amorriscode/advent-of-code) *(JavaScript)*
+* [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *(TypeScript)*
+* [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) *(Zig)*
+* [pacso/aoc_rb](https://github.com/pacso/aoc_rb) *(Ruby)*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
-
-#### Reason/OCaml
-* [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter)
-
-#### Ruby
-* [pacso/aoc_rb](https://github.com/pacso/aoc_rb)
-
-#### Rust
-* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc)
-* [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template)
-
-#### TypeScript
-* [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts)
-* [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template)
-* [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter)
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
-
-#### Zig
-* [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template)
-
+* [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
 
 ## Tools and Utilities
 
