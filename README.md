@@ -181,6 +181,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Assembly.*
 
+* [shadow578/advent-of-pain-2021]
+
 #### AWK
 
 *Solutions to AoC in AWK.*
