@@ -344,7 +344,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 #### Groovy
 
-*Solutions to AoC in Groovy.*
+* [jack-c-tang/advent-of-code-2021](https://github.com/jack-c-tang/advent-of-code-2021)
 
 #### Hamler
 
