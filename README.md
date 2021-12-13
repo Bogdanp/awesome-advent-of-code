@@ -332,6 +332,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [devries/advent_of_code_2021](https://github.com/devries/advent_of_code_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--12-brightgreen)
 * [flopp/aoc2021](https://github.com/flopp/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--12-brightgreen)
 * [ga-paul-t/advent-of-code-2021](https://github.com/ga-paul-t/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--11-brightgreen)
+* [hariskhan14/advent-of-code-2021](https://github.com/hariskhan14/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
 * [hija/aoc-2021](https://github.com/hija/aoc-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--12-brightgreen)
 * [jsgv/advent-of-code](https://github.com/jsgv/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--03-brightgreen)
 * [mbalc/advent-of-code-2021-golang](https://github.com/mbalc/advent-of-code-2021-golang) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--09-brightgreen)
@@ -341,7 +342,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [pvainio/adventofcode](https://github.com/pvainio/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--12-brightgreen)
 * [ridaamirini/advent-of-code](https://github.com/ridaamirini/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--12-brightgreen)
 * [shytikov/advent-of-go](https://github.com/shytikov/advent-of-go) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--12-brightgreen)
-* [hariskhan14/advent-of-code-2021](https://github.com/hariskhan14/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
+* [stscoundrel/advent-of-code-2021]
 
 #### Groovy
 
