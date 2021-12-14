@@ -19,7 +19,8 @@ This is a collection of awesome resources related to the yearly
     * [APL](#apl)
     * [Assembly](#assembly)
     * [AWK](#awk)
-    * [Bash](#Bash)
+    * [Bash](#bash)
+    * [BQN](#bqn)
     * [C](#c)
     * [C#](#c-1)
     * [C++](#c-2)
@@ -196,6 +197,19 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Bash.*
 
 * [ColasNahaboo/advent-of-code-my-solutions](https://github.com/ColasNahaboo/advent-of-code-my-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
+ 
+#### BQN
+ 
+*Solutions to AoC in BQN.*
+ 
+* [dancek/bqn-advent2021](https://github.com/dancek/bqn-advent2021)
+* [AlexDikelsky/puzzles](https://github.com/AlexDikelsky/puzzles/tree/main/advent_of_code/advent_2021)
+* [Detegr/aoc2021](https://github.com/Detegr/aoc2021)
+* [dzaima/aoc](https://github.com/dzaima/aoc/tree/master/2021/BQN)
+* [razetime/AOC2021-BQN](https://github.com/razetime/AOC2021-BQN)
+* [leahneukirchen/adventofcode2021](https://github.com/leahneukirchen/adventofcode2021)
+* [frasiyav/AoC2021](https://github.com/frasiyav/AoC2021)
+* [icen/aoc21](https://gitlab.com/icen/aoc21)
 
 #### C
 
