@@ -501,6 +501,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### MATLAB
 
 *Solutions to AoC in MATLAB (Octave).*
+* [j-a-martins/Advent-of-Code-2021]
 
 #### Nim
 
