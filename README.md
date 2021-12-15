@@ -40,6 +40,7 @@ This is a collection of awesome resources related to the yearly
     * [Haskell](#haskell)
     * [Haxe](#haxe)
     * [HolyC](#holyc)
+    * [Hoon](#hoon)
     * [Idris](#idris)
     * [J](#J)
     * [Java](#java)
@@ -402,6 +403,16 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [tsoding/aoc-2021](https://gitlab.com/tsoding/aoc-2021)
 
+#### Hoon
+
+*Solutions to AoC in Hoon (Urbit).*
+
+* [yosoyubik/advent-of-hoon](https://github.com/yosoyubik/advent-of-hoon)
+* [taalhavras/advent-of-code-2021](https://github.com/taalhavras/advent-of-code-2021)
+* [Splined/Advent-of-hoon](https://github.com/Splined/Advent-of-hoon)
+* [hanfel-dovned/advent-of-hoon-2021](https://github.com/hanfel-dovned/advent-of-hoon-2021)
+* [ashelkovnykov/advent-of-hoon-2021](https://github.com/ashelkovnykov/advent-of-hoon-2021)
+ 
 #### Idris
 
 *Solutions to AoC in Idris.*
