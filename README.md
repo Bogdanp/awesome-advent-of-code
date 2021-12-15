@@ -176,7 +176,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jayfoad/aoc2021apl](https://github.com/jayfoad/aoc2021apl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
 * [pitr/aoc](https://github.com/pitr/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 * [rak1507/Advent-Of-Code-APL](https://github.com/rak1507/Advent-Of-Code-APL) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
-* [technic/AoC2021_APL](https://github.com/technic/AoC2021_APL) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
+* [technic/AoC2021_APL](https://github.com/technic/AoC2021_APL) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
 
 #### Assembly
 
@@ -340,7 +340,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 * [Alex-Wauters/advent-go-2021](https://github.com/Alex-Wauters/advent-go-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--08-brightgreen)
 * [BorisLeMeec/adventofcode](https://github.com/BorisLeMeec/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
-* [Christheoreo/advent-of-code-2021](https://github.com/Christheoreo/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
+* [Christheoreo/advent-of-code-2021](https://github.com/Christheoreo/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
 * [Maitgon/Advent2021](https://github.com/Maitgon/Advent2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 * [SwiftPush/advent-of-code-2021](https://github.com/SwiftPush/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--09-brightgreen)
 * [angristan/advent-of-code-2021](https://github.com/angristan/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
@@ -424,7 +424,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jerchende/advent-of-code-2021](https://github.com/jerchende/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 * [nsirons/programming-puzzles](https://github.com/nsirons/programming-puzzles) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
 * [pvainio/adventofcode](https://github.com/pvainio/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
-* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions)
+* [tmrd993/advent-of-code-solutions](https://github.com/tmrd993/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 
 #### JavaScript
 
@@ -703,8 +703,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [mayjs/advent_of_code_2021](https://github.com/mayjs/advent_of_code_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 * [megatank58/adventofcode](https://github.com/megatank58/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--03-brightgreen)
 * [nickyvanurk/advent-of-code](https://github.com/nickyvanurk/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
-* [pemoreau/advent-of-code-2021](https://github.com/pemoreau/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
-* [poyea/aoc](https://github.com/poyea/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
+* [pemoreau/advent-of-code-2021](https://github.com/pemoreau/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
+* [poyea/aoc](https://github.com/poyea/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
 * [richardneililagan/adventofcode-2021](https://github.com/richardneililagan/adventofcode-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--10-brightgreen)
 * [sathwikmatsa/aoc21](https://github.com/sathwikmatsa/aoc21) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 * [sergree/aoc2021](https://github.com/sergree/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-brightgreen)
