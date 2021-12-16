@@ -82,6 +82,7 @@ This is a collection of awesome resources related to the yearly
     * [VB.NET](#vbnet)
     * [Whitespace](#whitespace)
     * [Zig](#zig)
+    * [Zsh](#zsh)
   * [Live Streams](#live-streams)
 
 ---
@@ -840,6 +841,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [jwarwick/aoc_2021](https://github.com/jwarwick/aoc_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--10-brightgreen)
 * [scorphus/advent-of-code-2021](https://github.com/scorphus/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--14-brightgreen)
 * [DearRude/advent-of-code](https://github.com/DearRude/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--15-brightgreen)
+
+#### Zsh
+
+*Solutions to AoC in Zsh.*
+
+* [pseyfert/advent-of-code-2021]
 
 
 ### Live Streams
