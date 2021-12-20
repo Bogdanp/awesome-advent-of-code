@@ -20,3 +20,6 @@ languages, then avoid adding your repo to more than 3 sections.
 
 Repositories not hosted on GitHub are fine, but they won't have a
 "last commit" badge.
+
+The last commit times are automatically updated every hour.  You don't
+need to make new PRs to update your entry.
