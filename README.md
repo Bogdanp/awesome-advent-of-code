@@ -163,7 +163,7 @@ in your favourite language.*
 
 **WARNING:** All of these likely contain spoilers.
 
-Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
+Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own repos.
 
 ### Solutions
 
@@ -748,6 +748,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [yeurch/advent-of-code](https://github.com/yeurch/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--20-brightgreen)
 * [ziegfried/advent-of-code](https://github.com/ziegfried/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--20-brightgreen)
 * [zsacul/AdventOfCode2021](https://github.com/zsacul/AdventOfCode2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--17-brightgreen)
+* [fpalmier/rust-aoc-2021](https://github.com/fpalmier/rust-aoc-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--20-brightgreen)
 
 #### Smalltalk
 
