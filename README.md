@@ -406,6 +406,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [shepherdjerred/advent-of-code-2021](https://github.com/shepherdjerred/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--13-brightgreen)
 * [sonowz/advent-of-code-haskell](https://github.com/sonowz/advent-of-code-haskell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--22-brightgreen)
 * [siraben/haoc-2021](https://github.com/siraben/haoc-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--24-brightgreen)
+* [ephemient/aoc2021]
 
 #### Haxe
 
@@ -522,6 +523,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [underwindfall/advent-of-code-2021](https://github.com/underwindfall/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--25-brightgreen)
 * [zakmat/AdventOfCode2021](https://github.com/zakmat/AdventOfCode2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--25-brightgreen)
 * [sebdehne/advent_of_code](https://github.com/sebdehne/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--25-brightgreen)
+* [ephemient/aoc2021]
 
 #### LDPL
 
@@ -662,6 +664,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [xanthoko/Advent-of-Code](https://github.com/xanthoko/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
 * [yspreen/adventofcode](https://github.com/yspreen/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
 * [zedrdave/advent_of_code](https://github.com/zedrdave/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--23-brightgreen)
+* [ephemient/aoc2021]
 
 #### R
 
@@ -756,6 +759,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [fpalmier/rust-aoc-2021](https://github.com/fpalmier/rust-aoc-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--20-brightgreen)
 * [voidash/AOC2021](https://github.com/voidash/AOC2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
 * [jkaczmarkiewicz/advent-of-code-answers](https://github.com/JanKaczmarkiewicz/advent-of-code-answers) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
+* [ephemient/aoc2021]
 
 #### Smalltalk
 
