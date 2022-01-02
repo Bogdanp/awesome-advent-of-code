@@ -304,6 +304,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [dangerground/adventofcode-2021](https://github.com/dangerground/adventofcode-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--25-brightgreen)
 * [julemand101/AdventOfCode2021](https://github.com/julemand101/AdventOfCode2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--01--01-brightgreen)
 * [letsar/adventofcode_2021](https://github.com/letsar/adventofcode_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--20-brightgreen)
+* [timsneath/advent-of-code-2021](https://github.com/timsneath/advent-of-code-2021)
 
 #### Elixir
 
