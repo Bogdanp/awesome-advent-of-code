@@ -151,6 +151,7 @@ in your favourite language.*
 * [advent-readme-stars](https://github.com/k2bd/advent-readme-stars) -- A GitHub action that adds and maintains a table of your AoC progress to your README *(GitHub Action, Python)*
 * [aoctimer](https://github.com/caderek/aoctimer) -- A language-agnostic, multiplatform tool to measure your solution time in relative units, so you can share and compare your results with others.
 * [aocrunner](https://github.com/caderek/aocrunner) -- A fast solutions runner and template generator, with simple CLI, customizable template, simple testing utility, live reload, and adventofcode.com integration. *(JavaScript, TypeScript)*
+* [advent-of-code-client](https://github.com/toblu/advent-of-code-client) -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
 
 ## Other Advent Calendars
 
