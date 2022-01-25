@@ -780,6 +780,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [voidash/AOC2021](https://github.com/voidash/AOC2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--01--09-brightgreen)
 * [jkaczmarkiewicz/advent-of-code-answers](https://github.com/JanKaczmarkiewicz/advent-of-code-answers) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
 * [ephemient/aoc2021](https://github.com/ephemient/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--01--02-brightgreen)
+* [d-bucur/aoc21-rust](https://github.com/d-bucur/aoc21-rust)
 
 #### Smalltalk
 
