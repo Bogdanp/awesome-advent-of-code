@@ -554,6 +554,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in MATLAB (Octave).*
 * [j-a-martins/Advent-of-Code-2021](https://github.com/j-a-martins/Advent-of-Code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--01--03-brightgreen)
+* [ptoshkov/aoc-2021-octave]
 
 #### Nim
 
