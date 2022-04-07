@@ -24,4 +24,6 @@ Repositories not hosted on GitHub are fine, but they won't have a
 The last commit times are automatically updated every hour.  You don't
 need to make new PRs to update your entry.
 
-Note: if you're adding a repository to previous years, such as 2019 or 2020, you'll need to provide the full link format, as in the non-GH example above. This applies to both GitHub and non-GH repositories.
+When adding a repository to previous years, you need to provide the
+full link format, as in the non-GH example above.  This applies to
+both GitHub and non-GH repositories.
