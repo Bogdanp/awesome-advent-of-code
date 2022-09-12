@@ -121,6 +121,7 @@ in your favourite language.*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
+* [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) *(Clojure)*
 
 ## Tools and Utilities
 
