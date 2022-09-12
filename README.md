@@ -323,7 +323,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [edwardzhou/advent_code_2021](https://github.com/edwardzhou/advent_code_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--06-brightgreen)
 * [maco/advent_of_code](https://github.com/maco/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--18-brightgreen)
 * [memoriesadrift/AoC2021-Elixir](https://github.com/memoriesadrift/AoC2021-Elixir) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--17-brightgreen)
-* [sevenseacat/advent_of_code](https://github.com/sevenseacat/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--09--08-brightgreen)
+* [sevenseacat/advent_of_code](https://github.com/sevenseacat/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2018--12--24-brightgreen)
 * [wasi0013/advent_of_code](https://github.com/wasi0013/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--26-brightgreen)
 
 #### Elm
@@ -486,7 +486,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [carpusherw/advent-of-code-2021](https://gist.github.com/carpusherw/96e394180194a17d57a47562ca90251b)
 * [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--17-brightgreen)
 * [eli6/advent-of-code](https://github.com/eli6/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--20-brightgreen)
-* [janfabian/adventofcode](https://github.com/janfabian/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--09--03-brightgreen)
+* [janfabian/adventofcode](https://github.com/janfabian/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--09--10-brightgreen)
 * [joaomlneto/advent-of-code](https://github.com/joaomlneto/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--26-brightgreen)
 * [rkeytacked/adventofcode-2021](https://github.com/rkeytacked/adventofcode-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--01--04-brightgreen)
 * [sebastian-raubach/advent-of-code](https://github.com/sebastian-raubach/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--06--08-brightgreen)
