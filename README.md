@@ -324,7 +324,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [edwardzhou/advent_code_2021](https://github.com/edwardzhou/advent_code_2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--06-brightgreen)
 * [maco/advent_of_code](https://github.com/maco/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--18-brightgreen)
 * [memoriesadrift/AoC2021-Elixir](https://github.com/memoriesadrift/AoC2021-Elixir) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--17-brightgreen)
-* [sevenseacat/advent_of_code](https://github.com/sevenseacat/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2018--12--24-brightgreen)
+* [sevenseacat/advent_of_code](https://github.com/sevenseacat/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--09--12-brightgreen)
 * [wasi0013/advent_of_code](https://github.com/wasi0013/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--26-brightgreen)
 
 #### Elm
@@ -380,7 +380,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [jvgrootveld/advent-of-code](https://github.com/jvgrootveld/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--17-brightgreen)
 * [mbalc/advent-of-code-2021-golang](https://github.com/mbalc/advent-of-code-2021-golang) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--09-brightgreen)
 * [nobbs/advent-of-code-in-go](https://github.com/nobbs/advent-of-code-in-go) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--25-brightgreen)
-* [obalunenko/advent-of-code](https://github.com/obalunenko/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--09--05-brightgreen)
+* [obalunenko/advent-of-code](https://github.com/obalunenko/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--09--12-brightgreen)
 * [ostcar/aoc2021](https://github.com/ostcar/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--23-brightgreen)
 * [pemoreau/advent-of-code-2021](https://github.com/pemoreau/advent-of-code-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--05--18-brightgreen)
 * [pin2t/aoc2021](https://github.com/pin2t/aoc2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--08--06-brightgreen)
