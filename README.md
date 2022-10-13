@@ -122,6 +122,7 @@ in your favourite language.*
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
 * [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) *(Clojure)*
+* [mMosiur/AdventOfCodeDayTemplate](https://github.com/mMosiur/AdventOfCodeDayTemplate) *(C#)*
 
 ## Tools and Utilities
 
@@ -156,6 +157,7 @@ in your favourite language.*
 * [advent-of-code-client](https://github.com/toblu/advent-of-code-client) -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
 * [AoC-execution-time-table-generator](https://github.com/coralkashri/AoC-execution_time_table_generator) -- A C++20 tool to generate an execution time table for both parts of each AoC day, based on input file with time details.
 * [aocf](https://github.com/nuxeh/aocf) -- A CLI tool (and also, optionally, crate) written in Rust, with a CLI inspired by git. Problem briefs may be displayed in a scrollable ANSI terminal (mostly) faithful to the AoC website.
+* [AdventOfCodeAbstractions](https://github.com/mMosiur/AdventOfCodeAbstractions) -- A NuGet package that contains extendable abstractions and generalized helpers to simplify and streamline .NET AoC puzzle solving. *(C#)*
 
 ## Other Advent Calendars
 
@@ -250,6 +252,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [vladsm/adventofcode-2021-dotnet](https://github.com/vladsm/adventofcode-2021-dotnet) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
 * [tpetrina/adventofcode](https://github.com/tpetrina/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--27-brightgreen)
 * [flerka/adventofcode-2021](https://github.com/flerka/adventofcode-2021) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--06--15-brightgreen)
+* [mMosiur/AdventOfCode2021]
 
 #### C++
 
