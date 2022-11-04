@@ -167,7 +167,7 @@ in your favourite language.*
 * [Raku Advent Calendar](https://raku-advent.blog/)
 * [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
 
-## 2021
+## 2022
 
 **WARNING:** All of these likely contain spoilers.
 
