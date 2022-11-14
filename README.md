@@ -127,7 +127,6 @@ in your favourite language.*
 
 ## Tools and Utilities
 
-* [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
 * Browser extension for private leaderboard visualization
   * [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-ranking/jbnlafikncgjjhdkmfhokcplgahebmjl)
   * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aoc-ranking/)
