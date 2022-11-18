@@ -298,6 +298,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in JavaScript.*
 
+* [thejan14/adventofcode2022](https://github.com/thejan14/adventofcode2022)
+
 #### jq
 
 *Solutions to AoC in jq.*
