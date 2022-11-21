@@ -158,6 +158,7 @@ in your favourite language.*
 * [AoC-execution-time-table-generator](https://github.com/coralkashri/AoC-execution_time_table_generator) -- A C++20 tool to generate an execution time table for both parts of each AoC day, based on input file with time details.
 * [aocf](https://github.com/nuxeh/aocf) -- A CLI tool (and also, optionally, crate) written in Rust, with a CLI inspired by git. Problem briefs may be displayed in a scrollable ANSI terminal (mostly) faithful to the AoC website.
 * [AdventOfCodeAbstractions](https://github.com/mMosiur/AdventOfCodeAbstractions) -- A NuGet package that contains extendable abstractions and generalized helpers to simplify and streamline .NET AoC puzzle solving. *(C#)*
+* [aocd](https://github.com/Macil/aocd) -- A template generator and library for solving AoC with Deno that handles input fetching and solution submitting. *(TypeScript / Deno)*
 
 ## Other Advent Calendars
 
