@@ -400,6 +400,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Rust.*
 
 * [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--11--23-brightgreen)
+* [dellink/advent-of-code](https://github.com/dellink/advent-of-code/tree/main/2022)
 
 #### Smalltalk
 
