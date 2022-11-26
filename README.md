@@ -312,6 +312,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Kotlin
 
 *Solutions to AoC in Kotlin.*
+ 
+ * [edgars-supe/advent-of-code]
 
 #### LDPL
 
