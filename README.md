@@ -259,6 +259,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Go.*
 
+* [pemoreau/advent-of-code](https://github.com/pemoreau/advent-of-code)
+
 #### Groovy
 
 *Solutions to AoC in Groovy.*
