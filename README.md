@@ -227,6 +227,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
+* [verdammelt/advent-of-code](https://github.com/verdammelt/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/verdammelt/advent-of-code)
+
 #### Crystal
 
 *Solutions to AoC in Crystal.*
