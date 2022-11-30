@@ -410,6 +410,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Racket
 
 *Solutions to AoC in Racket.*
+ 
+[scorphus/advent-of-code-2022](https://github.com/scorphus/advent-of-code-2022)
 
 #### Raku
 
