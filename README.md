@@ -482,6 +482,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in TypeScript.*
 
+* [Totto16/AOC-2022]
+
 #### Deno
 
 *Solutions to AoC in Deno (TypeScript).*
