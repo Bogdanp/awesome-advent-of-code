@@ -80,6 +80,10 @@ function colorScale(steps, colors, reversed) {
 }
 
 function age(date) {
+  if (!date.add) {
+    return "red"
+  }
+
   const now = moment()
   const then = moment(date)
   if (now.diff(date) < 0) date.add(-1, 'y')
