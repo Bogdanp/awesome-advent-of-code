@@ -481,12 +481,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
+ 
+* [MartinSeeler/advent-of-code-next](https://github.com/MartinSeeler/advent-of-code-next)
 
 #### Deno
 
 *Solutions to AoC in Deno (TypeScript).*
- 
-* [MartinSeeler/advent-of-code-next](https://github.com/MartinSeeler/advent-of-code-next)
 
 #### Unison
 
