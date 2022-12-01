@@ -125,6 +125,7 @@ in your favourite language.*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
 * [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) *(Clojure)*
 * [mMosiur/AdventOfCodeDayTemplate](https://github.com/mMosiur/AdventOfCodeDayTemplate) *(C#)*
+* [Kaitachi/ChallengeStarter](https://github.com/Kaitachi/ChallengeStarter) *(Swift)*
 
 ## Tools and Utilities
 
@@ -477,6 +478,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [bence-t0th/Advent-of-Code-2022](https://github.com/bence-t0th/Advent-of-Code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--11--30-brightgreen)
 * [gereons/AoC2022](https://github.com/gereons/AoC2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--11--28-brightgreen)
+* [Kaitachi/CodeChallenges](https://github.com/Kaitachi/CodeChallenges) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--11--30-brightgreen)
 
 #### TypeScript
 
