@@ -126,6 +126,7 @@ in your favourite language.*
 * [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) *(Clojure)*
 * [mMosiur/AdventOfCodeDayTemplate](https://github.com/mMosiur/AdventOfCodeDayTemplate) *(C#)*
 * [Kaitachi/ChallengeStarter](https://github.com/Kaitachi/ChallengeStarter) *(Swift)*
+* [gahjelle/template-aoc-python](https://github.com/gahjelle/template-aoc-python) *(Python)*
 
 ## Tools and Utilities
 
