@@ -481,6 +481,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
+ 
+* [bonnici/advent-of-code-ts]
 
 #### Deno
 
