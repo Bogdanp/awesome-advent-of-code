@@ -126,6 +126,7 @@ in your favourite language.*
 * [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) *(Clojure)*
 * [mMosiur/AdventOfCodeDayTemplate](https://github.com/mMosiur/AdventOfCodeDayTemplate) *(C#)*
 * [Kaitachi/ChallengeStarter](https://github.com/Kaitachi/ChallengeStarter) *(Swift)*
+* [tomfran/advent-of-code-setup](https://github.com/tomfran/advent-of-code-setup) *(Python)*
 
 ## Tools and Utilities
 
@@ -431,6 +432,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [orfeasa/advent-of-code-2022](https://github.com/orfeasa/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
 * [r0f1/adventofcode2022](https://github.com/r0f1/adventofcode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
 * [corbanvilla/adventofcode](https://github.com/corbanvilla/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
+* [tomfran/advent-of-code](https://github.com/tomfran/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
 
 #### R
 
