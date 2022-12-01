@@ -135,6 +135,9 @@ in your favourite language.*
 * Browser extension which enhances your personal stats page with a time from Part 1 to Part 2 column (it also tracks when you've first opened a puzzle and offsets the completion times accordingly)
   * [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-part-2-timer/fhmjpoppaplfhgnknpbaaklgdnnimfbn)
   * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-part-2-timer/)
+* Browser extension ([open source](https://github.com/jeroenheijmans/advent-of-code-charts)) enhancing private leaderboards with a "medals/podium" chart per day, Part 1 to Part 2 overview, and several other charts for your leaderboard
+  * [Chrome extension "Advent of Code Charts"](https://chrome.google.com/webstore/detail/advent-of-code-charts/ipbomkmbokofodhhjpipflmdplipblbe)
+  * [Firefox extension "Advent of Code Charts"](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-charts/)
 * [Globals medals overview](http://www.maurits.vdschee.nl/scatterplot/medals.html) -- Alternative global leaderboard showing first, second and third places as gold, silver and bronze medals.
 * [Scatterplot of first 100](http://www.maurits.vdschee.nl/scatterplot/) -- Scatterplot of the time taken to solve the parts of each puzzle by the first 100 people that solved it.
 * [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
@@ -162,6 +165,7 @@ in your favourite language.*
 * [AdventOfCodeAbstractions](https://github.com/mMosiur/AdventOfCodeAbstractions) -- A NuGet package that contains extendable abstractions and generalized helpers to simplify and streamline .NET AoC puzzle solving. *(C#)*
 * [aocd](https://github.com/Macil/aocd) -- A template generator and library for solving AoC with Deno that handles input fetching and solution submitting. *(TypeScript / Deno)*
 * [advent_of_code_utils](https://github.com/mathsaey/advent_of_code_utils) -- Input fetcher and boilerplate generator for those solving AoC in Elixir. *(Elixir)*
+* [Advent of Code Surveys (Results Dashboard)](https://jeroenheijmans.github.io/advent-of-code-surveys/) -- Dashboard with charts and data tables showing the results of the yearly Advent of Code Survey
 
 ## Other Advent Calendars
 
