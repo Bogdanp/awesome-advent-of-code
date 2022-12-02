@@ -20,7 +20,9 @@ let octokit
     await core.group('Fetching repositories & updating lines...', async () => {
       for (const repo of repos) {
         const line = await generateLine(repo.repoStr)
-        if (shouldUpdate(lines[repo.index], line)) {
+        if (otherDomain(lines[repo.index])) {
+          core.info(`...line refers to non-GH domain: '${lines[repo.index]}'`)
+        } else if (shouldUpdate(lines[repo.index], line)) {
           lines[repo.index] = line
           core.info(`...updated line: '${line}'`)
         } else {
@@ -86,4 +88,9 @@ function shouldUpdate(oldLine, newLine) {
   return !lastReg.test(oldLine) ||
     !badDateReg.test(newLine) ||
     badDateReg.test(oldLine);
+}
+
+function otherDomain(line) {
+  return line.indexOf("gitlab.com") !== -1 ||
+    line.indexOf("gist.github.com") !== -1;
 }
