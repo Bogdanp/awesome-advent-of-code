@@ -81,7 +81,7 @@ function colorScale(steps, colors, reversed) {
 
 function age(date) {
   if (!date.add) {
-    return "red"
+    return "brightgreen"
   }
 
   const now = moment()
