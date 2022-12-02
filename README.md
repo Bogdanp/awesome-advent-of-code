@@ -438,6 +438,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Prolog.*
 
+* [YauHsien/advent-of-code-2022]
+
 #### PowerShell
 
 *Solutions to AoC in PowerShell.*
