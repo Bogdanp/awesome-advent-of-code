@@ -249,6 +249,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Clojure.*
 
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
+* [luissantos/aoc](https://github.com/luissantos/aoc) ![GitHub last commit](https://img.shields.io/github/last-commit/luissantos/aoc)
 
 #### Common Lisp
 
