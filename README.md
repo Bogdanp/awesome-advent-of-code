@@ -336,6 +336,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [clatisus/advent-of-code-y2022](https://github.com/clatisus/advent-of-code-y2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [ephemient/aoc2022](https://github.com/ephemient/aoc2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
+* [prikhi/advent-of-code-2022]
 
 #### Haxe
 
