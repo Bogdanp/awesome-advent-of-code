@@ -512,7 +512,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Ruby
 
 *Solutions to AoC in Ruby.*
-
+* [artyrcheek/advent-of-code]
 * [damyvv/advent-of-code-2022](https://github.com/damyvv/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--01-brightgreen)
 
 #### Rust
