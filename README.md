@@ -430,6 +430,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Perl.*
 
+ * [epsalon/advent_of_code]
+ 
 #### Pony
 
 *Solutions to AoC in Pony.*
