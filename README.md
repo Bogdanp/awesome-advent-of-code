@@ -204,7 +204,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### AWK
 
 *Solutions to AoC in AWK.*
- 
+
  * [dtkerns/aoc2022](https://github.com/dtkerns/aoc2022)
 
 #### Bash
@@ -424,7 +424,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [hughjdavey/aoc-2022](https://github.com/hughjdavey/aoc-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [nsirons/programming-puzzles](https://github.com/nsirons/programming-puzzles) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [James-Ansley/adventofcode]
- 
+
 #### LDPL
 
 *Solutions to AoC in LDPL.*
@@ -502,6 +502,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [rolandcsosz/advent-of-code-22](https://github.com/rolandcsosz/advent-of-code-22) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [tomfran/advent-of-code](https://github.com/tomfran/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [coutego/advent-of-code-2022]
+* [hatimbook/AdventofCode2022]
 
 #### R
 
