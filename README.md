@@ -251,6 +251,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tbeu/AdventOfCode](https://github.com/tbeu/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [vss2sn/advent_of_code](https://github.com/vss2sn/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [Bot-Kerem/advent-of-code](https://github.com/Bot-Kerem/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/Bot-Kerem/advent-of-code)
+* [dfm/adventofcode]
 
 #### Clojure
 
@@ -637,7 +638,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Deno
 
 *Solutions to AoC in Deno (TypeScript).*
- 
+
 * [coretteket/advent-of-code]
 
 #### Unison
