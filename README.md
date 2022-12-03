@@ -206,6 +206,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in AWK.*
 
 * [dtkerns/aoc2022](https://github.com/dtkerns/aoc2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
+* [aivovk/advent_of_code]
 
 #### Bash
 
