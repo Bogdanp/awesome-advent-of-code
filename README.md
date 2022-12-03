@@ -32,6 +32,7 @@ This is a collection of awesome resources related to the yearly
     * [Dart](#dart)
     * [Elixir](#elixir)
     * [Elm](#elm)
+    * [Emacs](#emacs)
     * [Erlang](#erlang)
     * [Excel](#excel)
     * [F#](#f)
@@ -254,6 +255,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [luissantos/aoc](https://github.com/luissantos/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
+* [coutego/advent-of-code-2022]
 
 #### Common Lisp
 
@@ -291,6 +293,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
+
+#### Emacs Lisp
+
+*Solutions to AoC in Emacs Lisp (elisp).*
+
+* [coutego/advent-of-code-2022]
 
 #### Erlang
 
@@ -490,6 +498,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [racinmat/advent_of_code_2022](https://github.com/racinmat/advent_of_code_2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [rolandcsosz/advent-of-code-22](https://github.com/rolandcsosz/advent-of-code-22) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
 * [tomfran/advent-of-code](https://github.com/tomfran/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
+* [coutego/advent-of-code-2022]
 
 #### R
 
