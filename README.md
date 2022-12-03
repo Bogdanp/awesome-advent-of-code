@@ -315,7 +315,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [Texl/advent-of-code](https://github.com/Texl/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
 * [tchojnacki/advent-of-code](https://github.com/tchojnacki/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--02-brightgreen)
-
+* [/lboshuizen/aoc22](https://github.com/lboshuizen/aoc22)
 #### Go
 
 *Solutions to AoC in Go.*
