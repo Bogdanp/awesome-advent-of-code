@@ -308,6 +308,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Excel
 
 *Solutions to AoC in Excel.*
+ 
+* [askholme/advent-of-code](https://github.com/askholme/advent-of-code) ![Last Commit on Github](https://img.shields.io/badge/last%comit-2022--12--03-brightgreen)
 
 #### F#
 
