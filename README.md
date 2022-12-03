@@ -203,6 +203,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### AWK
 
 *Solutions to AoC in AWK.*
+ 
+ * [dtkerns/aoc2022](https://github.com/dtkerns/aoc2022)
 
 #### Bash
 
