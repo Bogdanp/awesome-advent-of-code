@@ -311,7 +311,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Excel
 
 *Solutions to AoC in Excel.*
-
+ 
+* [askholme/advent-of-code]
+ 
 #### F#
 
 *Solutions to AoC in F#.*
