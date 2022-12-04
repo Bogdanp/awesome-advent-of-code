@@ -301,6 +301,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
+ 
+* [ostcar/aoc2022]
+* [normanjaeckel/AdventOfCode]
 
 #### Emacs Lisp
 
