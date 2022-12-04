@@ -611,6 +611,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [zargony/advent-of-code-2022](https://github.com/zargony/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
 * [zsacul/AdventOfCode2022](https://github.com/zsacul/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 * [sinitame/adventofcode-2022](https://github.com/sinitame/adventofcode-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
+* [caillouc/adventofcode_2022]
 
 #### Smalltalk
 
