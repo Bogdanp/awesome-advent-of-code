@@ -674,6 +674,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Deno (TypeScript).*
 
 * [coretteket/advent-of-code](https://github.com/coretteket/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
+* [ismtabo/advent-of-code-2022]
 
 #### Unison
 
