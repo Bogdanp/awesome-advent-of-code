@@ -264,6 +264,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [coutego/advent-of-code-2022](https://github.com/coutego/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 * [luissantos/aoc](https://github.com/luissantos/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
+* [pkaznowski/aoc2022](https://gitlab.com/pkaznowski/aoc2022.git) 
 
 #### Common Lisp
 
