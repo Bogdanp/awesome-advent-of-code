@@ -374,7 +374,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [JakobSachs/AoC22](https://github.com/JakobSachs/AoC22) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 * [clatisus/advent-of-code-y2022](https://github.com/clatisus/advent-of-code-y2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 * [ephemient/aoc2022](https://github.com/ephemient/aoc2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
-* [ivy-bridges/advent-of-code-2022](https://github.com/ivy-bridges/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-resource%20not%20available-red)
+* [ivy-bridges/advent-2022]
 * [prikhi/advent-of-code-2022](https://github.com/prikhi/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 
