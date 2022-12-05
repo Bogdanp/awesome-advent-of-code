@@ -81,6 +81,7 @@ This is a collection of awesome resources related to the yearly
     * [TypeScript](#typescript)
       * [Deno](#deno)
     * [Unison](#unison)
+    * [V](#v)
     * [VB.NET](#vbnet)
     * [Whitespace](#whitespace)
     * [Zig](#zig)
@@ -226,7 +227,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
 * [Jamesbarford/aoc-2022](https://github.com/Jamesbarford/aoc-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 
-#### C#
+#### C #
 
 *Solutions to AoC in C#.*
 
@@ -316,7 +317,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [askholme/advent-of-code](https://github.com/askholme/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
 
-#### F#
+#### F #
 
 *Solutions to AoC in F#.*
 
@@ -679,6 +680,10 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Unison.*
 
+#### V
+
+* [tehSIRius/adventofcode](https://github.com/tehSIRius/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
+
 #### VB.NET
 
 * [mevdschee/AdventOfCode2022](https://github.com/mevdschee/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
@@ -694,7 +699,6 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Zsh
 
 *Solutions to AoC in Zsh.*
-
 
 ### Live Streams
 
