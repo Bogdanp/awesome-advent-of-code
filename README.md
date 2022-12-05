@@ -732,3 +732,5 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 ### Live Streams
 
 *Folks who are live streaming their process.*
+
+* [The diligent developer](https://www.youtube.com/playlist?list=PL4R7dYNzbaX0MI2HyM2IOly83f5i5EZNr)
