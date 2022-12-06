@@ -226,6 +226,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [edogenna/Advent-of-Code](https://github.com/edogenna/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
 * [piscilus/aoc22](https://github.com/piscilus/aoc22) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
+* [berghdavid/Advent-of-code](https://github.com/berghdavid/Advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
 
 #### C#
 
