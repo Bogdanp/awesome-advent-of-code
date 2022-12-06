@@ -53,7 +53,7 @@ This is a collection of awesome resources related to the yearly
     * [LDPL](#ldpl)
     * [Lua](#lua)
     * [MATLAB](#matlab)
-    * [Multiple Languages](#multiple)
+    * [Multiple Languages](#multiple-languages)
     * [Nim](#nim)
     * [Objective-C](#objc)
     * [OCaml](#ocaml)
