@@ -53,6 +53,7 @@ This is a collection of awesome resources related to the yearly
     * [LDPL](#ldpl)
     * [Lua](#lua)
     * [MATLAB](#matlab)
+    * [Multiple Languages](#multiple)
     * [Nim](#nim)
     * [Objective-C](#objc)
     * [OCaml](#ocaml)
@@ -476,6 +477,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in MATLAB (Octave).*
 
+#### Multiple languages
+ 
+ *Solutions to AoC in multiple languages (in the same repo).* 
+ 
+[Starwort/advent-of-golf-2022](https://github.com/Starwort/advent-of-golf-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
+ 
 #### Nim
 
 *Solutions to AoC in Nim.*
