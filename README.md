@@ -632,6 +632,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Rust.*
 
 * [Basicprogrammer10/Advent-Of-Code](https://github.com/Basicprogrammer10/Advent-Of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
+* [CactiChameleon9/AdventOfCode2022](https://github.com/CactiChameleon9/AdventOfCode2022)
 * [Epithumia/aoc2022](https://github.com/Epithumia/aoc2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--04-brightgreen)
 * [SvetlinZarev/advent-of-code](https://github.com/SvetlinZarev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
 * [ZAZPRO/adventofcode-2022](https://github.com/ZAZPRO/adventofcode-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
@@ -658,7 +659,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
 * [webbiscuit/adventofcode_rust](https://github.com/webbiscuit/adventofcode_rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
 * [zargony/advent-of-code-2022](https://github.com/zargony/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
-* [zsacul/AdventOfCode2022](https://github.com/zsacul/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
+* [zsacul/AdventOfCode2022](https://github.com/zsacul/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--05-brightgreen)
 
 #### Smalltalk
 
