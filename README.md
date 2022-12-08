@@ -170,6 +170,7 @@ in your favourite language.*
 * [aocd](https://github.com/Macil/aocd) -- A template generator and library for solving AoC with Deno that handles input fetching and solution submitting. *(TypeScript / Deno)*
 * [advent_of_code_utils](https://github.com/mathsaey/advent_of_code_utils) -- Input fetcher and boilerplate generator for those solving AoC in Elixir. *(Elixir)*
 * [Advent of Code Surveys (Results Dashboard)](https://jeroenheijmans.github.io/advent-of-code-surveys/) -- Dashboard with charts and data tables showing the results of the yearly Advent of Code Survey
+* [AdventOfCode-CLI](https://github.com/NamelessGroup/AdventOfCode-CLI) -- A Commandline interface written in python to quickly generate boilerplates in different languages and fetching your puzzle input. Also includes customizable templates and measures solution times.
 
 ## Other Advent Calendars
 
