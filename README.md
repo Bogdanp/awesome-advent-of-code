@@ -330,6 +330,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Erlang.*
 
+* [hypothermic/advent-of-code]
+
 #### Excel
 
 *Solutions to AoC in Excel.*
