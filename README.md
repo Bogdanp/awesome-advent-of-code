@@ -749,6 +749,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [coretteket/advent-of-code](https://github.com/coretteket/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
 * [ismtabo/advent-of-code-2022](https://github.com/ismtabo/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
 * [memoriesadrift/aoc-2022](https://github.com/memoriesadrift/aoc-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
+* [manV/advent-22](https://github.com/manV/advent-22) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
 
 #### Unison
 
