@@ -448,6 +448,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### jq
 
 *Solutions to AoC in jq.*
+ 
+* [christianberg/advent]
 
 #### Julia
 
