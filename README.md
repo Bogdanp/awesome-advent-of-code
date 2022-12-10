@@ -171,6 +171,7 @@ in your favourite language.*
 * [advent_of_code_utils](https://github.com/mathsaey/advent_of_code_utils) -- Input fetcher and boilerplate generator for those solving AoC in Elixir. *(Elixir)*
 * [Advent of Code Surveys (Results Dashboard)](https://jeroenheijmans.github.io/advent-of-code-surveys/) -- Dashboard with charts and data tables showing the results of the yearly Advent of Code Survey
 * [AdventOfCode-CLI](https://github.com/NamelessGroup/AdventOfCode-CLI) -- A Commandline interface written in python to quickly generate boilerplates in different languages and fetching your puzzle input. Also includes customizable templates and measures solution times.
+* [aoc-cli](https://github.com/yspreen/aoc) -- Command-line utility that helps solve problems in python: it downloads your personal input file, creates the sample source files and makes sure you don't submit answers twice *(Python)*.
 
 ## Other Advent Calendars
 
@@ -602,6 +603,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tomfran/advent-of-code](https://github.com/tomfran/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
 * [viliampucik/adventofcode](https://github.com/viliampucik/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--09-brightgreen)
 * [vlopezferrando/advent-of-code](https://github.com/vlopezferrando/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--09-brightgreen)
+* [yspreen/adventofcode](https://github.com/yspreen/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--09-brightgreen)
 * [zedrdave/advent_of_code](https://github.com/zedrdave/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--09-brightgreen)
 
 #### R
