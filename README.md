@@ -759,6 +759,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [deko95/aoc-2022-ts](https://github.com/deko95/aoc-2022-ts) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--07-brightgreen)
 * [pstachula-dev/advent-of-code](https://github.com/pstachula-dev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
 * [serginator/adventofcode2022](https://github.com/serginator/adventofcode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
+* [Magiczne/AdventOfCode2022](https://github.com/Magiczne/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--11-brightgreen)
 
 #### Deno
 
