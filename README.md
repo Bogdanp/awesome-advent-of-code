@@ -25,6 +25,7 @@ This is a collection of awesome resources related to the yearly
     * [C](#c)
     * [C#](#c-1)
     * [C++](#c-2)
+    * [C3](#c3)
     * [Clojure](#clojure)
     * [Common Lisp](#common-lisp)
     * [Crystal](#crystal)
@@ -268,6 +269,13 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tbeu/AdventOfCode](https://github.com/tbeu/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--12-brightgreen)
 * [vss2sn/advent_of_code](https://github.com/vss2sn/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--12-brightgreen)
 * [benanil/AdventOfCode2022](https://github.com/benanil/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--11-brightgreen)
+
+#### C3
+
+*Solutions to AoC in C3.*
+
+* [lerno/aoc_2022_c3](https://github.com/lerno/aoc_2022_c3) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--12-brightgreen)
+
 #### Clojure
 
 *Solutions to AoC in Clojure.*
@@ -279,6 +287,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [pkaznowski/aoc2022](https://gitlab.com/pkaznowski/aoc2022.git)
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--07-brightgreen)
 * [vollcheck/aoc](https://github.com/vollcheck/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--10-brightgreen)
+
 
 #### Common Lisp
 
