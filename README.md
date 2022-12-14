@@ -449,6 +449,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [25prabhu10/advent-of-code](https://github.com/25prabhu10/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--10-brightgreen)
 * [AdamTuraj/advent-of-code](https://github.com/AdamTuraj/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--06-brightgreen)
 * [adamczarnecki/advent_of_code_2022](https://github.com/adamczarnecki/advent_of_code_2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--13-brightgreen)
+* [chinesedfan/adventofcode](https://github.com/chinesedfan/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--13-brightgreen)
 * [colourgarden/advent-of-code](https://github.com/colourgarden/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
 * [elilambnz/adventofcode](https://github.com/elilambnz/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--03-brightgreen)
 * [erikw/advent-of-code-solutions](https://github.com/erikw/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--14-brightgreen)
