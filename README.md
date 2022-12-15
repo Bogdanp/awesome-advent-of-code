@@ -131,6 +131,7 @@ in your favourite language.*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 * [tomfran/advent-of-code-setup](https://github.com/tomfran/advent-of-code-setup) *(Python)*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
+* [fangyi-zhou/advent-of-code-ocaml-starter](https://github.com/fangyi-zhou/advent-of-code-ocaml-starter) *(OCaml)*
 
 ## Tools and Utilities
 
