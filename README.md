@@ -325,6 +325,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [hieptk/aoc22](https://github.com/hieptk/aoc22) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--18-brightgreen)
 * [julemand101/AdventOfCode2022](https://github.com/julemand101/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--12-brightgreen)
 * [two-six/Dart-AdventOfCode-2022](https://github.com/two-six/Dart-AdventOfCode-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--17-brightgreen)
+* [pin3da/advent-of-code](https://github.com/pin3da/advent-of-code/tree/master/2022)
 
 #### Elixir
 
