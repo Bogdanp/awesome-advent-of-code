@@ -593,6 +593,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [Derailed-Dash/Advent-of-Code](https://github.com/Derailed-Dash/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--27-brightgreen)
 * [Epithumia/aoc2022](https://github.com/Epithumia/aoc2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--25-brightgreen)
 * [FlavioAdamo/Advent-Of-Code](https://github.com/FlavioAdamo/Advent-Of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--08-brightgreen)
+* [gjanee/advent-of-code-2022](https://github.com/gjanee/advent-of-code-2022)
 * [Goldenlion5648/AdventOfCode2022](https://github.com/Goldenlion5648/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--14-brightgreen)
 * [James-Ansley/adventofcode](https://github.com/James-Ansley/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--19-brightgreen)
 * [JasonCannon/advent-of-code-2022](https://github.com/JasonCannon/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--25-brightgreen)
