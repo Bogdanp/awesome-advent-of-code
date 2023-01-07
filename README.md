@@ -240,6 +240,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C#.*
 
+* [abidwaqar/AdventOfCode]
 * [AlphaNecron/AdventOfCode2022](https://github.com/AlphaNecron/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--07-brightgreen)
 * [DjordjeNedovic/Advent-of-Code](https://github.com/DjordjeNedovic/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--25-brightgreen)
 * [Nineluj/aoc-2022-csharp](https://github.com/Nineluj/aoc-2022-csharp) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--21-brightgreen)
