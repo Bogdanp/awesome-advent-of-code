@@ -69,6 +69,7 @@ This is a collection of awesome resources related to the yearly
     * [ReasonML](#reasonml)
     * [Red](#red)
     * [REXX](#rexx)
+    * [ROBO1](#robo1)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Smalltalk](#smalltalk)
@@ -705,6 +706,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### REXX
 
 *Solutions to AoC in REXX.*
+
+#### ROBO1
+
+*Solutions to AoC in ROBO1.*
+
+* [slicklash/aoc](https://github.com/slicklash/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--11--11-brightgreen)
 
 #### Ruby
 
