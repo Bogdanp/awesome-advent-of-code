@@ -134,6 +134,7 @@ in your favourite language.*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
 * [fangyi-zhou/advent-of-code-ocaml-starter](https://github.com/fangyi-zhou/advent-of-code-ocaml-starter) *(OCaml)*
 * [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
+* [rvanasa/aoc-motoko-starter](https://github.com/rvanasa/aoc-motoko-starter) *(Motoko)*
 
 ## Tools and Utilities
 
