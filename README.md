@@ -425,6 +425,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust)
+
 #### Smalltalk
 
 *Solutions to AoC in Smalltalk.*
@@ -432,6 +434,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Scala
 
 *Solutions to AoC in Scala.*
+
+* [maneatingape/advent-of-code-scala](https://github.com/maneatingape/advent-of-code-scala)
 
 #### Scheme
 
