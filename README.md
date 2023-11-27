@@ -385,6 +385,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Python.*
 
+* [hamatti/adventofcode-2023]
+
 #### R
 
 *Solutions to AoC in R.*
