@@ -405,6 +405,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### R
 
 *Solutions to AoC in R.*
+* [KT421/advent-of-code](https://github.com/KT421/advent-of-code)
 
 #### Racket
 
