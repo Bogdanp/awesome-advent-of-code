@@ -342,6 +342,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Julia.*
 
+* [goggle/AdventOfCode2023.jl](https://github.com/goggle/AdventOfCode2023.jl)
+
 #### Kotlin
 
 *Solutions to AoC in Kotlin.*
