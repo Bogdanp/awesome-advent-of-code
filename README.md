@@ -55,6 +55,7 @@ This is a collection of awesome resources related to the yearly
     * [LDPL](#ldpl)
     * [Lua](#lua)
     * [MATLAB](#matlab)
+    * [M4](#m4)
     * [Nim](#nim)
     * [Objective-C](#objc)
     * [OCaml](#ocaml)
@@ -357,6 +358,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### MATLAB
 
 *Solutions to AoC in MATLAB (Octave).*
+
+#### M4
+
+*Solutions to AoC in M4.*
+
+* [aoc_eblake](https://repo.or.cz/aoc_eblake.git)
 
 #### Nim
 
