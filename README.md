@@ -72,6 +72,7 @@ This is a collection of awesome resources related to the yearly
     * [ReasonML](#reasonml)
     * [Red](#red)
     * [REXX](#rexx)
+    * [Rhombus](#rhombus)
     * [ROBO1](#robo1)
     * [Ruby](#ruby)
     * [Rust](#rust)
@@ -463,6 +464,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Racket.*
 
 * [Bogdanp/aoc2023](https://github.com/Bogdanp/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
+* [lojic/LearningRacket]
 
 #### Raku
 
@@ -481,6 +483,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### REXX
 
 *Solutions to AoC in REXX.*
+
+#### Rhombus
+
+*Solutions to AoC in Rhombus.*
+
+* [Gopiandcode/aoc-rhombus]
 
 #### ROBO1
 
