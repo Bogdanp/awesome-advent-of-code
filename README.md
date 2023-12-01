@@ -461,6 +461,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Ruby.*
 
+* [pulgamecanica/AOC2023](https://github.com/pulgamecanica/AOC2023/tree/main) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/pulgamecanica/AOC2023/main)
+
 #### Rust
 
 *Solutions to AoC in Rust.*
