@@ -294,6 +294,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Go.*
 
+* [nlowe/aoc2023]
+
 #### Groovy
 
 *Solutions to AoC in Groovy.*
