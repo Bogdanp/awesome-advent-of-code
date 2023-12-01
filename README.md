@@ -245,6 +245,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tbeu/AdventOfCode](https://github.com/tbeu/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--11--05-brightgreen)
 * [vss2sn/advent_of_code](https://github.com/vss2sn/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
 * [thejan14/adventofcode2023]
+* [bg2b/aoc23]
 
 #### C3
 
