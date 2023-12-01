@@ -136,6 +136,7 @@ in your favourite language.*
 * [fangyi-zhou/advent-of-code-ocaml-starter](https://github.com/fangyi-zhou/advent-of-code-ocaml-starter) *(OCaml)*
 * [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
 * [rvanasa/aoc-motoko-starter](https://github.com/rvanasa/aoc-motoko-starter) *(Motoko)*
+* [matijaoe/advent-of-code](https://github.com/matijaoe/advent-of-code)  *(TypeScript / Bun)*
 
 ## Tools and Utilities
 
