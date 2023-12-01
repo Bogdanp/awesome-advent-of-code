@@ -392,7 +392,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 #### PHP
 
-*Solutions to AoC in PHP.*
+* [anrighi/AdventOfCode2023](https://github.com/anrighi/AdventOfCode2023)
 
 #### Perl
 
