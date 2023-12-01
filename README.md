@@ -535,6 +535,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in TypeScript.*
 
+* https://github.com/epacke/advent-of-code
+
 #### Unison
 
 *Solutions to AoC in Unison.*
