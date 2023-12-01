@@ -335,8 +335,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Haxe.*
 
 #### HolyC
-
 *Solutions to AoC in HolyC (TempleOS).*
+
+* [Jamesbarford/advent-of-code](https://github.com/Jamesbarford/advent-of-code)
 
 #### Hoon
 
