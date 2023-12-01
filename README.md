@@ -499,6 +499,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Deno (TypeScript).*
 
+* [ismtabo/advent-of-code-2023]
+
 #### Unison
 
 *Solutions to AoC in Unison.*
