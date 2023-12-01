@@ -139,6 +139,7 @@ in your favourite language.*
 * [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
 * [rvanasa/aoc-motoko-starter](https://github.com/rvanasa/aoc-motoko-starter) *(Motoko)*
 * [matijaoe/advent-of-code](https://github.com/matijaoe/advent-of-code)  *(TypeScript / Bun)*
+* [wlchs/advent_of_code_go_template](https://github.com/wlchs/advent_of_code_go_template) *(Go)*
 
 ## Tools and Utilities
 
@@ -315,6 +316,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [S-ecki/AdventOfCode_2023](https://github.com/S-ecki/AdventOfCode_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
 * [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
 * [nlowe/aoc2023](https://github.com/nlowe/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
+* [wlchs/aoc23](https://github.com/wlchs/aoc23)
 
 #### Groovy
 
