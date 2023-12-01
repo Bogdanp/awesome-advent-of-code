@@ -423,6 +423,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in R.*
 
 * [KT421/advent-of-code](https://github.com/KT421/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--11--30-brightgreen)
+* [plannapus/Advent_of_Code]
 
 #### Racket
 
