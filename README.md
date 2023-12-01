@@ -99,6 +99,16 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
+* [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart) *(Dart)*
+* [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) *(Reason and OCaml)*
+* [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
+* [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
+* [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template) *(Rust)*
+* [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
+* [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin/tree/clean-template) *(Kotlin)*
+* [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
+* [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+* [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) *(Elixir)*
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 * [Jadarma/advent-of-code-kotlin-template](https://github.com/Jadarma/advent-of-code-kotlin-template) *(Kotlin)*
 * [Kaitachi/ChallengeStarter](https://github.com/Kaitachi/ChallengeStarter) *(Swift)*
