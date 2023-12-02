@@ -59,6 +59,7 @@ This is a collection of awesome resources related to the yearly
     * [M4](#m4)
     * [MATLAB](#matlab)
     * [Nim](#nim)
+    * [Nushell](#nushell)
     * [Objective-C](#objc)
     * [OCaml](#ocaml)
     * [PHP](#php)
