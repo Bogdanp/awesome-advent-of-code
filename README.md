@@ -144,6 +144,7 @@ in your favourite language.*
 * [matijaoe/advent-of-code](https://github.com/matijaoe/advent-of-code)  *(TypeScript / Bun)*
 * [wlchs/advent_of_code_go_template](https://github.com/wlchs/advent_of_code_go_template) *(Go)*
 * [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) *(Ruby)*
+* [KaNaDaAT/AOCSetup](https://github.com/KaNaDaAT/AOCSetup) *(C#)*
 
 ## Tools and Utilities
 
@@ -257,6 +258,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [exVertex/AdventOfCode](https://github.com/exVertex/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
 * [meshcheryakov83/advent-of-code](https://github.com/meshcheryakov83/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
 * [svetstoykov/AdventOfCode2023](https://github.com/svetstoykov/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+* [KaNaDaAT/AOC2023](https://github.com/KaNaDaAT/AOC2023)
 
 #### C++
 
