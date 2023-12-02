@@ -405,6 +405,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Nim.*
 
+#### Nushell
+
+*Solutions to AoC in Nushell.*
+
+* [NonlinearFruit/advent-of-code-2023]
+
 #### Objective-C
 
 *Solutions to AoC in Objective-C.*
