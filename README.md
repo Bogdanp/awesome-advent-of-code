@@ -518,6 +518,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tumdum/aoc2023](https://github.com/tumdum/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
 * [zsacul/AdventOfCode2023](https://github.com/zsacul/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
 * [AndrejOrsula/aoc](https://github.com/AndrejOrsula/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--01-brightgreen)
+* [hakoerber/adventofcode]
 
 #### Smalltalk
 
