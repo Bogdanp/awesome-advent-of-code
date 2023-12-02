@@ -19,6 +19,7 @@ This is a collection of awesome resources related to the yearly
   * [Solutions](#solutions)
     * [Ada](#ada)
     * [APL](#apl)
+    * [Arturo](#arturo)
     * [Assembly](#assembly)
     * [AWK](#awk)
     * [Bash](#bash)
@@ -209,6 +210,14 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### APL
 
 *Solutions to AoC in APL.*
+
+#### Arturo
+
+*Solutions to AoC in Arturo.*
+
+* [drkameleon/arturo-aoc-2023]
+* [Laaen/AOC2023]
+* [RickBarretto/aoc-arturo]
 
 #### Assembly
 
