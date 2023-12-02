@@ -530,6 +530,13 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in ROBO1.*
 
+#### Roc
+
+*Solutions to AoC in Roc.*
+
+* [normanjaeckel/AdventOfCode]
+* [ostcar/aoc2023]
+
 #### Ruby
 
 *Solutions to AoC in Ruby.*
