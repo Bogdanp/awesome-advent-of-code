@@ -415,6 +415,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Lua.*
 
+* [fsdfdfgdfghSD/Advent-of-Code-2023](https://github.com/fsdfdfgdfghSD/Advent-of-Code-2023) ![Last Commit on Github](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+
 #### M4
 
 *Solutions to AoC in M4.*
