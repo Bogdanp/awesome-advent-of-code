@@ -76,6 +76,7 @@ This is a collection of awesome resources related to the yearly
     * [REXX](#rexx)
     * [Rhombus](#rhombus)
     * [ROBO1](#robo1)
+    * [Roc](#roc)
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Smalltalk](#smalltalk)
