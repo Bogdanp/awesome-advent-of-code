@@ -581,6 +581,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Ruby.*
 
+* [dskecse/aoc2023]
 * [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 * [pulgamecanica/AOC2023](https://github.com/pulgamecanica/AOC2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
 
