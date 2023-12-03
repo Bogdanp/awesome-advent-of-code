@@ -145,6 +145,7 @@ in your favourite language.*
 * [wlchs/advent_of_code_go_template](https://github.com/wlchs/advent_of_code_go_template) *(Go)*
 * [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) *(Ruby)*
 * [KaNaDaAT/AOCSetup](https://github.com/KaNaDaAT/AOCSetup) *(C#)*
+* [devries/aoc_template](https://github.com/devries/aoc_template) *(Go)*
 
 ## Tools and Utilities
 
@@ -348,6 +349,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [nlowe/aoc2023](https://github.com/nlowe/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 * [pin2t/aoc2023](https://github.com/pin2t/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 * [wlchs/aoc23](https://github.com/wlchs/aoc23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+* [devries/advent_of_code_2023]
 
 #### Groovy
 
