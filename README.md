@@ -398,6 +398,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [FolMing/aoc-2023](https://github.com/FolMing/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 * [brittleru/advent-of-code](https://github.com/brittleru/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
 * [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
+* [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 
 #### JavaScript
 
