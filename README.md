@@ -560,7 +560,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [KT421/advent-of-code](https://github.com/KT421/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
 * [plannapus/Advent_of_Code](https://github.com/plannapus/Advent_of_Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
-* [kanahia/advent_of_code_2023]
+* [kanahia/advent_of_code_2023](https://github.com/kanahia/advent_of_code_2023)
 #### Racket
 
 *Solutions to AoC in Racket.*
