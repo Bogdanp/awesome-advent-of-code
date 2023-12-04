@@ -426,8 +426,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Julia.*
 
 * [DaniGlez/aoc](https://github.com/DaniGlez/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
-* [Teo-ShaoWei/advent-of-code-julia](https://github.com/Teo-ShaoWei/advent-of-code-julia) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
-* [goggle/AdventOfCode2023.jl](https://github.com/goggle/AdventOfCode2023.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
+* [Teo-ShaoWei/advent-of-code-julia](https://github.com/Teo-ShaoWei/advent-of-code-julia) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
+* [axsk/AOC23.jl]
+* [goggle/AdventOfCode2023.jl](https://github.com/goggle/AdventOfCode2023.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
 
 #### Kotlin
 
