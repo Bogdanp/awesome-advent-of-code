@@ -40,6 +40,7 @@ This is a collection of awesome resources related to the yearly
     * [Erlang](#erlang)
     * [Excel](#excel)
     * [F#](#f)
+    * [Factor](#factor)
     * [Go](#go)
     * [Groovy](#groovy)
     * [Hamler](#hamler)
@@ -346,6 +347,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in F#.*
 
 * [lboshuizen/aoc23](https://github.com/lboshuizen/aoc23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
+
+#### Factor
+
+*Solutions to AoC in Factor.*
+
+* [CharnelMouse/AdventOfCode2023]
 
 #### Go
 
