@@ -412,6 +412,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
 * [brittleru/advent-of-code](https://github.com/brittleru/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
 * [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
+* [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
 
 #### JavaScript
 
