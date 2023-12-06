@@ -4,7 +4,7 @@ on:
   push:
   schedule:
     - cron: '0 0 * 1-11 1'
-    - cron: '0 0 * 12 *'
+    - cron: '0 * * 12 *'
 
 jobs:
   update:
