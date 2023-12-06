@@ -41,6 +41,7 @@ This is a collection of awesome resources related to the yearly
     * [Excel](#excel)
     * [F#](#f)
     * [Factor](#factor)
+    * [Gleam](#gleam)
     * [Go](#go)
     * [Groovy](#groovy)
     * [Hamler](#hamler)
@@ -147,6 +148,8 @@ in your favourite language.*
 * [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) *(Ruby)*
 * [KaNaDaAT/AOCSetup](https://github.com/KaNaDaAT/AOCSetup) *(C#)*
 * [devries/aoc_template](https://github.com/devries/aoc_template) *(Go)*
+* [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) *Gleam*
+* [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
 
 ## Tools and Utilities
 
@@ -354,6 +357,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Factor.*
 
 * [CharnelMouse/AdventOfCode2023](https://github.com/CharnelMouse/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
+
+#### Gleam
+
+*Solutions to AoC in Gleam.*
+
+* [Jimpjorps/AdventOfCode]
 
 #### Go
 
@@ -586,6 +595,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [Bogdanp/aoc2023](https://github.com/Bogdanp/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
 * [lojic/LearningRacket](https://github.com/lojic/LearningRacket) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--05-brightgreen)
 * [rmculpepper/fun](https://github.com/rmculpepper/fun) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
+* [Jimpjorps/AdventOfCode]
 
 #### Raku
 
