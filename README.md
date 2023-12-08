@@ -89,6 +89,7 @@ This is a collection of awesome resources related to the yearly
     * [Standard ML](#standard-ml)
     * [Swift](#swift)
     * [TypeScript](#typescript)
+    * [TypeScript Types](#typescript-types)
     * [Unison](#unison)
     * [V](#v)
     * [VB.NET](#vbnet)
@@ -711,6 +712,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [jeroenheijmans/advent-of-code-2023](https://github.com/jeroenheijmans/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [pnodet/advent-2023](https://github.com/pnodet/advent-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [tomas-padrieza/advent-of-code-2023](https://github.com/tomas-padrieza/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+
+#### TypeScript Types
+
+*Solutions to AoC in the TypeScript type system.*
+
+* [Rugvip/aoc-2023](https://github.com/Rugvip/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 
 #### Unison
 
