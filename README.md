@@ -403,7 +403,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2023](https://github.com/ephemient/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [glguy/advent](https://github.com/glguy/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [slotThe/advent](https://github.com/slotThe/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
-* [sonowz/advent-of-code-haskell](https://github.com/sonowz/advent-of-code-haskell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [sonowz/advent-of-code-haskell](https://github.com/sonowz/advent-of-code-haskell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### Haxe
 
@@ -440,7 +440,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [Viinyard/adventofcode_2023](https://github.com/Viinyard/adventofcode_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
 * [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
-* [brittleru/advent-of-code](https://github.com/brittleru/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
+* [brittleru/advent-of-code](https://github.com/brittleru/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [vuryss/aoc-java](https://github.com/vuryss/aoc-java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### JavaScript
@@ -593,7 +593,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [orfeasa/advent-of-code-2023](https://github.com/orfeasa/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
 * [rubennoriegamier/aoc_2023](https://github.com/rubennoriegamier/aoc_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [sanderploegsma/advent-of-code](https://github.com/sanderploegsma/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
-* [tyronedamasceno/Advent-Of-Code](https://github.com/tyronedamasceno/Advent-Of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [tyronedamasceno/Advent-Of-Code](https://github.com/tyronedamasceno/Advent-Of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [vil02/adv_2023](https://github.com/vil02/adv_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [yspreen/adventofcode](https://github.com/yspreen/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [zivnadel/advent-of-code](https://github.com/zivnadel/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
@@ -620,7 +620,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Raku.*
 
-* [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### ReasonML
 
@@ -671,7 +671,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [MrRobb/advent-of-code-2023](https://github.com/MrRobb/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [akaritakai/AdventOfCode2023](https://github.com/akaritakai/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
-* [chrismandery/advent-of-code-2023](https://github.com/chrismandery/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [chrismandery/advent-of-code-2023](https://github.com/chrismandery/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [debechu/aoc2023](https://github.com/debechu/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
 * [dellink/advent-of-code](https://github.com/dellink/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [drwilco/aoc](https://github.com/drwilco/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
@@ -685,7 +685,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [simonbrauner/aoc_2023](https://github.com/simonbrauner/aoc_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
 * [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [tumdum/aoc2023](https://github.com/tumdum/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
-* [zsacul/AdventOfCode2023](https://github.com/zsacul/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [zsacul/AdventOfCode2023](https://github.com/zsacul/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### Smalltalk
 
@@ -700,7 +700,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [fdlk/advent-2023](https://github.com/fdlk/advent-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [maneatingape/advent-of-code-scala](https://github.com/maneatingape/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--08--26-brightgreen)
 * [mbuzdalov/advent-of-code](https://github.com/mbuzdalov/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
-* [nagybalint/advent-of-code-2023](https://github.com/nagybalint/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [nagybalint/advent-of-code-2023](https://github.com/nagybalint/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### Scheme
 
@@ -729,7 +729,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Swift.*
 
 * [bence-t0th/Advent-of-Code-2023](https://github.com/bence-t0th/Advent-of-Code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--03-brightgreen)
-* [gereons/AoC2023](https://github.com/gereons/AoC2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [gereons/AoC2023](https://github.com/gereons/AoC2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### TypeScript
 
