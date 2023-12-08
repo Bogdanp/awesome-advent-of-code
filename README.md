@@ -281,6 +281,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [jaroslawroszyk/AoC23](https://github.com/jaroslawroszyk/AoC23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [k20shores/aoc2023](https://github.com/k20shores/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [michihupf/AoC2023](https://github.com/michihupf/AoC2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
+* [syncd010/AoC2023](https://github.com/syncd010/AoC2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
 * [tbeu/AdventOfCode](https://github.com/tbeu/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [thejan14/adventofcode2023](https://github.com/thejan14/adventofcode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
 * [totto16/AOC-2023](https://github.com/totto16/AOC-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
