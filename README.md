@@ -708,6 +708,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [maneatingape/advent-of-code-scala](https://github.com/maneatingape/advent-of-code-scala) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--08--26-brightgreen)
 * [mbuzdalov/advent-of-code](https://github.com/mbuzdalov/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [nagybalint/advent-of-code-2023](https://github.com/nagybalint/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
+* [sim642/adventofcode]
 
 #### Scheme
 
