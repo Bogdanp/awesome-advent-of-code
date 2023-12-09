@@ -575,9 +575,11 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [NimVek/advent-of-code](https://github.com/NimVek/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [Ponjinge/Advent-of-Code](https://github.com/Ponjinge/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
+* [Satantago/Advent-of-Code-2023]
 * [StratenyNinja/advent-of-code](https://github.com/StratenyNinja/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [TendTo/advent-of-code](https://github.com/TendTo/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [TurtleSmoke/Advent-of-Code](https://github.com/TurtleSmoke/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
+* [VelitskyLev-Coder/AdventOfCode](https://github.com/VelitskyLev-Coder/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [advent-of-code.xavd.id](https://github.com/advent-of-code.xavd.id) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-resource%20not%20available-red)
 * [alanjaouen/advent-of-code](https://github.com/alanjaouen/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--05-brightgreen)
 * [alptbz/adventofcode2023](https://github.com/alptbz/adventofcode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
@@ -599,7 +601,6 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [vil02/adv_2023](https://github.com/vil02/adv_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [yspreen/adventofcode](https://github.com/yspreen/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [zivnadel/advent-of-code](https://github.com/zivnadel/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
-* [VelitskyLev-Coder/AdventOfCode](https://github.com/VelitskyLev-Coder/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 
 #### R
 
