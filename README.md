@@ -66,6 +66,7 @@ This is a collection of awesome resources related to the yearly
     * [OCaml](#ocaml)
     * [PHP](#php)
     * [Perl](#perl)
+    * [Picat](#picat)
     * [Pony](#pony)
     * [PowerShell](#powershell)
     * [Prolog](#prolog)
