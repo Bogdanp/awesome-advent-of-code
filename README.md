@@ -198,7 +198,7 @@ in your favourite language.*
 * [Advent of Code Surveys (Results Dashboard)](https://jeroenheijmans.github.io/advent-of-code-surveys/) -- Dashboard with charts and data tables showing the results of the yearly Advent of Code Survey
 * [AdventOfCode-CLI](https://github.com/NamelessGroup/AdventOfCode-CLI) -- A Commandline interface written in python to quickly generate boilerplates in different languages and fetching your puzzle input. Also includes customizable templates and measures solution times.
 * [aoc-cli](https://github.com/yspreen/aoc) -- Command-line utility that helps solve problems in python: it downloads your personal input file, creates the sample source files and makes sure you don't submit answers twice *(Python)*.
-* [Golfcoder](https://golfcoder.org) -- A code golf community leaderboard for adventofcode.com, with a focus on code size. Every name, including variables and functions, is considered as a single token, irrespective of its length. *(Python, JavaScript, Kotlin)* 
+* [Golfcoder](https://golfcoder.org) -- A code golf community leaderboard for adventofcode.com, with a focus on code size. Every name, including variables and functions, is considered as a single token, irrespective of its length. *(Python, JavaScript, Kotlin)*
 
 ## Other Advent Calendars
 
@@ -254,6 +254,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in C.*
 
 * [JustMaga/AdventOfCode2023](https://github.com/JustMaga/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
+* [dis-Is-Fine/https://github.com/dis-Is-Fine/advent-of-code]
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [michaeladler/aoc-2023](https://github.com/michaeladler/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [piscilus/aoc23](https://github.com/piscilus/aoc23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-brightgreen)
