@@ -206,6 +206,7 @@ in your favourite language.*
 
 * [Raku Advent Calendar](https://raku-advent.blog/)
 * [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
+* [Java Craft practises Advent Calendar](https://github.com/advent-of-craft/advent-of-craft)
 
 ## 2023
 
