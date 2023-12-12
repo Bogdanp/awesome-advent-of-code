@@ -258,7 +258,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [dis-Is-Fine/advent-of-code](https://github.com/dis-Is-Fine/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
 * [michaeladler/aoc-2023](https://github.com/michaeladler/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
-* [piscilus/aoc23](https://github.com/piscilus/aoc23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-brightgreen)
+* [piscilus/aoc23](https://github.com/piscilus/aoc23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
 
 #### C#
 
@@ -343,7 +343,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Elixir.*
 
 * [gahjelle/advent_of_code](https://github.com/gahjelle/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
-* [mogottsch/adventofcode](https://github.com/mogottsch/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
+* [mogottsch/adventofcode](https://github.com/mogottsch/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
 
 #### Elm
 
@@ -487,7 +487,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
 * [axsk/AOC23.jl](https://github.com/axsk/AOC23.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
 * [goggle/AdventOfCode2023.jl](https://github.com/goggle/AdventOfCode2023.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
-* [simonschnake/adventofcode23](https://github.com/simonschnake/adventofcode23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-brightgreen)
+* [simonschnake/adventofcode23](https://github.com/simonschnake/adventofcode23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
 
 #### Kotlin
 
