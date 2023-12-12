@@ -152,6 +152,7 @@ in your favourite language.*
 * [devries/aoc_template](https://github.com/devries/aoc_template) *(Go)*
 * [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) *Gleam*
 * [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
+* [pgebert/advent-of-code-kotlin-template](https://github.com/pgebert/advent-of-code-kotlin-template) *(Kotlin)*
 
 ## Tools and Utilities
 
