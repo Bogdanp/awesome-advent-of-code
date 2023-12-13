@@ -428,7 +428,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in HolyC (TempleOS).*
 
-* [Jamesbarford/advent-of-code](https://github.com/Jamesbarford/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
+* [Jamesbarford/advent-of-code](https://github.com/Jamesbarford/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 
 #### Hoon
 
@@ -455,7 +455,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [Viinyard/adventofcode_2023](https://github.com/Viinyard/adventofcode_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [brittleru/advent-of-code](https://github.com/brittleru/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
-* [chriswhocodes/aoc2023](https://github.com/chriswhocodes/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
+* [chriswhocodes/aoc2023](https://github.com/chriswhocodes/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [forax/advent-of-code-2023](https://github.com/forax/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [krusnabalar/advent-of-code](https://github.com/krusnabalar/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [nipafx/advent-of-code-2023](https://github.com/nipafx/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--07-brightgreen)
@@ -465,7 +465,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in JavaScript.*
 
-* [Lyqst/aoc2023](https://github.com/Lyqst/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
+* [Lyqst/aoc2023](https://github.com/Lyqst/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [RealStr1ke/AoC](https://github.com/RealStr1ke/AoC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [Topener/adventofcode](https://github.com/Topener/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
 * [fones/advent_of_code_2023](https://github.com/fones/advent_of_code_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
@@ -546,7 +546,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [illbexyz/advent-of-code-2023](https://github.com/illbexyz/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-brightgreen)
 * [slotThe/advent](https://github.com/slotThe/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
-* [vshender/advent-of-code](https://github.com/vshender/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
+* [vshender/advent-of-code](https://github.com/vshender/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 
 #### PHP
 
@@ -566,7 +566,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Picat.*
 
-* [DestyNova/advent_of_code_2023](https://github.com/DestyNova/advent_of_code_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
+* [DestyNova/advent_of_code_2023](https://github.com/DestyNova/advent_of_code_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 
 #### Pony
 
