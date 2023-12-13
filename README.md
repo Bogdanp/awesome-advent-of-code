@@ -278,7 +278,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [rsmith985/AoC_SingleLine_2023](https://github.com/rsmith985/AoC_SingleLine_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
 * [svetstoykov/AdventOfCode2023](https://github.com/svetstoykov/AdventOfCode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--02-brightgreen)
 * [udvlp/Advent-of-Code-2023](https://github.com/udvlp/Advent-of-Code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
-* [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
+* [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 
 #### C++
 
@@ -315,7 +315,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [bo-tato/advent-of-code-2023](https://github.com/bo-tato/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
+* [bo-tato/advent-of-code-2023](https://github.com/bo-tato/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [kisp/aoc2023-cl](https://github.com/kisp/aoc2023-cl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
 
 #### Crystal
@@ -365,7 +365,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in F#.*
 
-* [Texl/advent-of-code](https://github.com/Texl/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
+* [Texl/advent-of-code](https://github.com/Texl/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [lboshuizen/aoc23](https://github.com/lboshuizen/aoc23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
 * [yeung66/advent-of-code-2023](https://github.com/yeung66/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
 
