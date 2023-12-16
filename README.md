@@ -199,7 +199,7 @@ in your favourite language.*
 * [Advent of Code Surveys (Results Dashboard)](https://jeroenheijmans.github.io/advent-of-code-surveys/) -- Dashboard with charts and data tables showing the results of the yearly Advent of Code Survey
 * [AdventOfCode-CLI](https://github.com/NamelessGroup/AdventOfCode-CLI) -- A Commandline interface written in python to quickly generate boilerplates in different languages and fetching your puzzle input. Also includes customizable templates and measures solution times.
 * [aoc-cli](https://github.com/yspreen/aoc) -- Command-line utility that helps solve problems in python: it downloads your personal input file, creates the sample source files and makes sure you don't submit answers twice *(Python)*.
-* [Golfcoder](https://golfcoder.org) -- A code golf community leaderboard for adventofcode.com, with a focus on code size. Every name, including variables and functions, is considered as a single token, irrespective of its length. *(Python, JavaScript, Kotlin)*
+* [Golfcoder](https://golfcoder.org) -- A code golf community leaderboard for adventofcode.com, with a focus on code size. Every name, including variables and functions, is considered as a single token, irrespective of its length. *(Python, Rust, Go, Kotlin, JavaScript, C#, TypeScript, C++, Java, C, Swift, Scala)*
 
 ## Other Advent Calendars
 
