@@ -484,7 +484,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in jq.*
 
 * [christianberg/advent](https://github.com/christianberg/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
-* [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--15-brightgreen)
+* [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--16-brightgreen)
 
 #### Julia
 
@@ -704,7 +704,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2023](https://github.com/ephemient/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--16-brightgreen)
 * [hakoerber/adventofcode](https://github.com/hakoerber/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [jianyuan/advent-of-code](https://github.com/jianyuan/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--12-brightgreen)
-* [lostlont/aoc-2023](https://github.com/lostlont/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--15-brightgreen)
+* [lostlont/aoc-2023](https://github.com/lostlont/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--16-brightgreen)
 * [lpotthast/advent-of-code-2023](https://github.com/lpotthast/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
 * [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--16-brightgreen)
 * [rdfriese/Lamellar-Advent-of-code](https://github.com/rdfriese/Lamellar-Advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--16-brightgreen)
