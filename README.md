@@ -420,6 +420,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [glguy/advent](https://github.com/glguy/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--17-brightgreen)
 * [slotThe/advent](https://github.com/slotThe/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--17-brightgreen)
 * [sonowz/advent-of-code-haskell](https://github.com/sonowz/advent-of-code-haskell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--16-brightgreen)
+* [proskur1n/aoc2023](https://github.com/proskur1n/aoc2023)
 
 #### Haxe
 
