@@ -642,7 +642,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [6cdh/aoc](https://github.com/6cdh/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--20-brightgreen)
 * [Bogdanp/aoc2023](https://github.com/Bogdanp/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
-* [lojic/LearningRacket](https://github.com/lojic/LearningRacket) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--19-brightgreen)
+* [lojic/LearningRacket](https://github.com/lojic/LearningRacket) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--21-brightgreen)
 * [rmculpepper/fun](https://github.com/rmculpepper/fun) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--18-brightgreen)
 
 #### Raku
