@@ -350,7 +350,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Elixir.*
 
 * [gahjelle/advent_of_code](https://github.com/gahjelle/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--23-brightgreen)
-* [mogottsch/adventofcode](https://github.com/mogottsch/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--21-brightgreen)
+* [mogottsch/adventofcode](https://github.com/mogottsch/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--23-brightgreen)
 
 #### Elm
 
