@@ -201,6 +201,7 @@ in your favourite language.*
 * [aoc-cli](https://github.com/yspreen/aoc) -- Command-line utility that helps solve problems in python: it downloads your personal input file, creates the sample source files and makes sure you don't submit answers twice *(Python)*.
 * [Golfcoder](https://golfcoder.org) -- A code golf community leaderboard for adventofcode.com, with a focus on code size. Every name, including variables and functions, is considered as a single token, irrespective of its length. *(Python, Rust, Go, Kotlin, JavaScript, C#, TypeScript, C++, Java, C, Swift, Scala)*
 * [aoc-tiles](https://github.com/LiquidFun/aoc_tiles) -- A tool which automatically creates a fancy image with solve times for each solved day in your readme as a 5x5 grid. Works as a pre-commit hook or as a CLI *(Python)*.
+* [wang-aoc-cli](https://github.com/VitamintK/wang-aoc-cli) -- A CLI tool for automatically copying boilerplate code, downloading problem statements and inputs, parsing example inputs and solutions from problem statements, testing against example inputs, and submitting. Expects programs to use stdin and stdout to read inputs and write answers. *(Python)*
 
 ## Other Advent Calendars
 
