@@ -16,8 +16,9 @@ const updateRepos = require('./updateRepos')
 
 async function processFile (fileName, octokit) {
   try {
-    const lines = await core.group(`Reading from '${fileName}'...`, () =>
-      fs.readFileSync(fileName, 'utf8').split('\n')
+    const { pre, lines, post } = await core.group(
+      `Reading from '${fileName}'...`,
+      () => parseFile(fileName)
     )
 
     let repos = await core.group('Parsing repositories...', () =>
@@ -29,22 +30,24 @@ async function processFile (fileName, octokit) {
     })
 
     core.info(`count=${repos.length}`)
+    const preLines = pre.split('\n').length
 
     await core.group('Updating badges...', async () => {
       for (const repo of repos) {
         const line = generateLine(repo)
 
         if (line === lines[repo.index]) {
-          core.info(`...skipped line ${repo.index + 1}: '${line}'`)
+          core.info(`...skipped line ${repo.index + preLines}: '${line}'`)
         } else {
           lines[repo.index] = line
-          core.info(`...updated line ${repo.index + 1}: '${line}'`)
+          core.info(`...updated line ${repo.index + preLines}: '${line}'`)
         }
       }
     })
 
     await core.group('Writing file...', () => {
-      fs.writeFileSync(fileName, lines.join('\n'))
+      const contents = pre + lines.join('\n') + post
+      fs.writeFileSync(fileName, contents)
       core.info(`Finished writing to '${fileName}'`)
     })
   } catch (error) {
@@ -52,16 +55,21 @@ async function processFile (fileName, octokit) {
   }
 }
 
+function parseFile (fileName) {
+  const file = fs.readFileSync(fileName, 'utf8')
+  const [preSection, bottomSection] = file.split('### Solutions')
+  const [repoSection, postSection] = bottomSection.split('### Live Streams')
+  const pre = preSection + '### Solutions'
+  const lines = repoSection.split('\n')
+  const post = '### Live Streams' + postSection
+  return { pre, lines, post }
+}
+
 function parseGithubRepos (lines) {
   const repos = []
-  let collect = false
 
   lines.some((line, index) => {
-    if (line === '### Solutions') {
-      collect = true
-    } else if (line === '### Live Streams') {
-      collect = false
-    } else if (collect) {
+    if (line.indexOf('[') !== -1 && line.indexOf(']') !== -1) {
       if (otherDomain(line)) {
         core.info(`...line refers to non-GH domain: '${line}'`)
       } else {
@@ -85,7 +93,12 @@ function parseGithubRepos (lines) {
 
 function otherDomain (line) {
   return (
-    line.indexOf('gitlab.com') !== -1 || line.indexOf('gist.github.com') !== -1
+    !(
+      line.indexOf('[') < line.indexOf('/') &&
+      line.indexOf(']') > line.indexOf('/')
+    ) ||
+    line.indexOf('gitlab.com') !== -1 ||
+    line.indexOf('gist.github.com') !== -1
   )
 }
 
