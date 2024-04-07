@@ -1,62 +1,87 @@
 const fs = require('fs')
 const core = require('@actions/core')
 const github = require('@actions/github')
-const endpoint = require('./endpoint')
+const generateBadge = require('./generateBadge')
+const updateRepos = require('./updateRepos')
 
-let octokit
+;(async () => {
+  const ghToken = core.getInput('ghToken')
+  const fileNames = core.getInput('fileNames').split(' ')
+  let octokit = github.getOctokit(ghToken)
 
-(async function() {
+  for (const fileName of fileNames) {
+    await processFile(fileName, octokit)
+  }
+})()
+
+async function processFile (fileName, octokit) {
   try {
-    const ghToken = core.getInput('ghToken')
-    const inputFile = core.getInput('inputFile')
-    const outputFile = core.getInput('outputFile')
+    const { pre, lines, post } = await core.group(
+      `Reading from '${fileName}'...`,
+      () => parseFile(fileName)
+    )
 
-    const content = fs.readFileSync(inputFile, 'utf8')
-    const lines = content.split('\n')
-    const repos = await core.group('Extracting repos...', () => extractRepositories(lines))
+    let repos = await core.group('Parsing repositories...', () =>
+      parseGithubRepos(lines)
+    )
+
+    repos = await core.group('Querying repositories...', async () => {
+      return await updateRepos(octokit, repos)
+    })
+
     core.info(`count=${repos.length}`)
+    const preLines = pre.split('\n').length
 
-    octokit = github.getOctokit(ghToken)
-    await core.group('Fetching repositories & updating lines...', async () => {
+    await core.group('Updating badges...', async () => {
       for (const repo of repos) {
-        const line = await generateLine(repo.repoStr)
-        if (otherDomain(lines[repo.index])) {
-          core.info(`...line refers to non-GH domain: '${lines[repo.index]}'`)
-        } else if (shouldUpdate(lines[repo.index], line)) {
-          lines[repo.index] = line
-          core.info(`...updated line: '${line}'`)
+        const line = generateLine(repo)
+
+        if (line === lines[repo.index]) {
+          core.info(`...skipped line ${repo.index + preLines}: '${line}'`)
         } else {
-          core.info(`...skipped line: '${line}'`)
+          lines[repo.index] = line
+          core.info(`...updated line ${repo.index + preLines}: '${line}'`)
         }
       }
     })
 
-    await core.group('Writing README...', () => {
-      fs.writeFileSync(outputFile, lines.join('\n'))
-      core.info(`Finished writing to ${outputFile}`)
+    await core.group('Writing file...', () => {
+      const contents = pre + lines.join('\n') + post
+      fs.writeFileSync(fileName, contents)
+      core.info(`Finished writing to '${fileName}'`)
     })
   } catch (error) {
     core.setFailed(error.message)
   }
-})()
+}
 
-function extractRepositories(lines) {
+function parseFile (fileName) {
+  const file = fs.readFileSync(fileName, 'utf8')
+  const [preSection, bottomSection] = file.split('### Solutions')
+  const [repoSection, postSection] = bottomSection.split('### Live Streams')
+  const pre = preSection + '### Solutions'
+  const lines = repoSection.split('\n')
+  const post = '### Live Streams' + postSection
+  return { pre, lines, post }
+}
+
+function parseGithubRepos (lines) {
   const repos = []
 
-  let collect = false
   lines.some((line, index) => {
-    if (line === '### Solutions') {
-      collect = true
-    } else if (line === '### Live Streams') {
-      collect = false
-    } else if (collect) {
-      const idx1 = line.indexOf('[')
-      const idx2 = line.indexOf(']')
-      if (idx1 >= 0 && idx2 >= 0) {
-        repos.push({
-          index,
-          repoStr: line.slice(idx1 + 1, idx2)
-        })
+    if (line.indexOf('[') !== -1 && line.indexOf(']') !== -1) {
+      if (otherDomain(line)) {
+        core.info(`...line refers to non-GH domain: '${line}'`)
+      } else {
+        const idx1 = line.indexOf('[')
+        const idx2 = line.indexOf(']')
+
+        if (idx1 >= 0 && idx2 >= 0) {
+          const repoStr = line.slice(idx1 + 1, idx2)
+          const [owner, name] = repoStr.split('/')
+          repos.push({ index, owner, name })
+          core.info(`...parsed repo: '${owner}/${name}'`)
+        }
       }
     }
 
@@ -66,31 +91,19 @@ function extractRepositories(lines) {
   return repos
 }
 
-async function generateLine(repoStr) {
-  const badge = await generateBadge(repoStr)
+function otherDomain (line) {
+  return (
+    !(
+      line.indexOf('[') < line.indexOf('/') &&
+      line.indexOf(']') > line.indexOf('/')
+    ) ||
+    line.indexOf('gitlab.com') !== -1 ||
+    line.indexOf('gist.github.com') !== -1
+  )
+}
+
+function generateLine (repo) {
+  const badge = generateBadge(repo)
+  const repoStr = `${repo.owner}/${repo.name}`
   return `* [${repoStr}](https://github.com/${repoStr}) ![Last Commit on GitHub](${badge})`
-}
-
-async function generateBadge(repoStr) {
-  const [owner, repo] = repoStr.split('/')
-  const { label, message, color } = await endpoint(octokit, { owner, repo })
-
-  core.info(`...fetched repo ${repoStr}`)
-
-  return 'https://img.shields.io/badge/' + [label, message, color]
-    .map(s => encodeURIComponent(s.replace(/\-/g, '--')))
-    .join('-')
-}
-
-function shouldUpdate(oldLine, newLine) {
-  const lastReg = /Last Commit on GitHub/;
-  const badDateReg = /red\)$/;
-  return !lastReg.test(oldLine) ||
-    !badDateReg.test(newLine) ||
-    badDateReg.test(oldLine);
-}
-
-function otherDomain(line) {
-  return line.indexOf("gitlab.com") !== -1 ||
-    line.indexOf("gist.github.com") !== -1;
 }

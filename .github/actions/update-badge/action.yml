@@ -4,14 +4,10 @@ inputs:
   ghToken:
     description: 'GitHub token'
     required: true
-  inputFile:
-    description: 'File path of README.md'
+  fileNames:
+    description: 'Names of files to process (space delimited list)'
     required: true
     default: 'README.md'
-  outputFile:
-    description: 'File path of output'
-    required: true
-    default: 'README-badge.md'
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'index.js'

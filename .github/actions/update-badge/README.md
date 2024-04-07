@@ -8,13 +8,9 @@ This action fetches last commit time of repositories and generates the badge for
 
 **Required** GitHub token
 
-### `inputFile`
+### `fileNames`
 
-**Required** File path of README.md
-
-### `outputFile`
-
-**Required** File path of updated README.md
+**Required** Names of files to process (space delimited list)
 
 ## Outputs
 

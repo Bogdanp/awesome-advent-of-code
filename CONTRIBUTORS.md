@@ -10,3 +10,4 @@ repo, not if you've added yourself to the list.
 | [@dkvasnicka](https://github.com/dkvasnicka)   | Daniel Kvasnička |
 | [@AlexAegis](https://github.com/AlexAegis)     | Sándor Győri     |
 | [@Kazhuu](https://github.com/Kazhuu)           | Mauri Mustonen   |
+| [@ndunnett](https://github.com/ndunnett)       | Nathan Dunnett   |
