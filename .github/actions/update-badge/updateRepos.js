@@ -1,7 +1,13 @@
 const core = require('@actions/core')
+const { setTimeout: sleep } = require('timers/promises')
 
 // limit size of each request to avoid getting timed out
-const chunkSize = 200
+const chunkSize = 250
+
+// limit request rate to one chunk per requestWaitTime (seconds) to avoid exceeding secondary rate limits
+// https://docs.github.com/en/graphql/overview/rate-limits-and-node-limits-for-the-graphql-api#secondary-rate-limits
+const requestWaitTime = 20
+let lastRequestTime = 0
 
 module.exports = async function updateRepos (octokit, repos) {
   let responses = []
@@ -31,6 +37,14 @@ module.exports = async function updateRepos (octokit, repos) {
 
 async function queryRepos (octokit, repos) {
   const query = buildQuery(repos)
+  const waitTime = lastRequestTime + requestWaitTime * 1000 - Date.now()
+
+  if (waitTime > 0) {
+    core.info(`waiting ${Math.round(waitTime / 1000)} seconds...`)
+    await sleep(waitTime)
+  }
+
+  lastRequestTime = Date.now()
 
   try {
     return await octokit.graphql(query)
