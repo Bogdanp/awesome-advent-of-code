@@ -92,14 +92,8 @@ function parseGithubRepos (lines) {
 }
 
 function otherDomain (line) {
-  return (
-    !(
-      line.indexOf('[') < line.indexOf('/') &&
-      line.indexOf(']') > line.indexOf('/')
-    ) ||
-    line.indexOf('gitlab.com') !== -1 ||
-    line.indexOf('gist.github.com') !== -1
-  )
+  const match = line.match(/\[[^\[\]\s]+\]\((?<link>[^\(\)\s]+)\)/)
+  return match !== null && !match.groups.link.startsWith('https://github.com/')
 }
 
 function generateLine (repo) {
