@@ -2,12 +2,17 @@ const core = require('@actions/core')
 const { setTimeout: sleep } = require('timers/promises')
 
 // limit size of each request to avoid getting timed out
-const chunkSize = 250
+const chunkSize = 200
 
 // limit request rate to one chunk per requestWaitTime (seconds) to avoid exceeding secondary rate limits
 // https://docs.github.com/en/graphql/overview/rate-limits-and-node-limits-for-the-graphql-api#secondary-rate-limits
 const requestWaitTime = 20
 let lastRequestTime = 0
+
+// retry the request if it fails, throw if request fails requestRetries times
+// wait requestRetryTime (seconds) before retrying the first time, doubling time with each retry
+const requestRetries = 5
+const requestRetryTime = 30
 
 module.exports = async function updateRepos (octokit, repos) {
   let responses = []
@@ -45,22 +50,32 @@ async function queryRepos (octokit, repos) {
   }
 
   lastRequestTime = Date.now()
+  let nextRetryTime = requestRetryTime
 
-  try {
-    return await octokit.graphql(query)
-  } catch (error) {
-    if (error.errors !== undefined) {
-      const softFail = error.errors.every(
-        e => e.message.indexOf('Could not resolve to a Repository') !== -1
-      )
+  for (let i = 1; ; i++) {
+    try {
+      return await octokit.graphql(query)
+    } catch (error) {
+      if (error.errors !== undefined) {
+        const softFail = error.errors.every(
+          e => e.message.indexOf('Could not resolve to a Repository') !== -1
+        )
 
-      if (softFail) {
+        if (softFail) {
+          core.info(error)
+          return error.data
+        }
+      }
+
+      if (i < requestRetries) {
         core.info(error)
-        return error.data
+        core.info(`retrying in ${nextRetryTime} seconds...`)
+        await sleep(nextRetryTime * 1000)
+        nextRetryTime *= 2
+      } else {
+        throw error
       }
     }
-
-    throw error
   }
 }
 
