@@ -153,6 +153,7 @@ in your favourite language.*
 * [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) *Gleam*
 * [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
 * [pgebert/advent-of-code-kotlin-template](https://github.com/pgebert/advent-of-code-kotlin-template) *(Kotlin)*
+* [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) *(Python)*
 
 ## Tools and Utilities
 
@@ -168,6 +169,7 @@ in your favourite language.*
 * [Globals medals overview](http://www.maurits.vdschee.nl/scatterplot/medals.html) -- Alternative global leaderboard showing first, second and third places as gold, silver and bronze medals.
 * [Scatterplot of first 100](http://www.maurits.vdschee.nl/scatterplot/) -- Scatterplot of the time taken to solve the parts of each puzzle by the first 100 people that solved it.
 * [Private Leaderboard Visualiser](https://aoc.kolman.si/vis/) -- Given a JSON of your private leaderboard data this website will show you graphs of how long each member took to solve parts 1 and 2 of each day.
+* [advent-of-code](https://github.com/jromero132/advent-of-code) -- Command-line interface to download challenge descriptions and inputs, manage, test and automatically submit solutions. *(Python)*
 * [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
 * [aocinput](https://github.com/dds/aoc2020/blob/main/cmd/aocinput/aocinput.go) -- CLI for getting inputs. Clipboard support. Polite to AoC. Nice help and options. *(Go)*
 * [aoc_rb](https://github.com/pacso/aoc_rb) -- A Ruby gem that generates an empty AoC project, and provides command-line tools for fetching input and submitting solutions  *(Ruby)*
@@ -214,8 +216,6 @@ in your favourite language.*
 ## 2023
 
 **WARNING:** All of these likely contain spoilers.
-
-Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own repos.
 
 ### Solutions
 
