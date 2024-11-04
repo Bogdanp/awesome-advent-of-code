@@ -204,6 +204,7 @@ in your favourite language.*
 * [Golfcoder](https://golfcoder.org) -- A code golf community leaderboard for adventofcode.com, with a focus on code size. Every name, including variables and functions, is considered as a single token, irrespective of its length. *(Python, Rust, Go, Kotlin, JavaScript, C#, TypeScript, C++, Java, C, Swift, Scala)*
 * [aoc-tiles](https://github.com/LiquidFun/aoc_tiles) -- A tool which automatically creates a fancy image with solve times for each solved day in your readme as a 5x5 grid. Works as a pre-commit hook or as a CLI *(Python)*.
 * [wang-aoc-cli](https://github.com/VitamintK/wang-aoc-cli) -- A CLI tool for automatically copying boilerplate code, downloading problem statements and inputs, parsing example inputs and solutions from problem statements, testing against example inputs, and submitting. Expects programs to use stdin and stdout to read inputs and write answers. *(Python)*
+* [esb](https://github.com/luxedo/esb) -- `esb` is a CLI tool to help us elves save Christmas for the yearly [Advent of Code](https://adventofcode.com/) events. (Thank you, [Eric! 😉](https://twitter.com/ericwastl)). This tool fetches puzzle statements and puzzle data, creates language agnostic boilerplate code, test run and submit solutions and builds dashboards. Check out an [example repo](https://github.com/luxedo/advent-of-code) created using `esb`! *(Python, Rust, Elixir, Go)*
 
 ## Other Advent Calendars
 
@@ -357,6 +358,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [gahjelle/advent_of_code](https://github.com/gahjelle/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--10--27-brightgreen)
 * [mogottsch/adventofcode](https://github.com/mogottsch/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--24-brightgreen)
+* [luxedo/advent-of-code](https://github.com/luxedo/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--03-brightgreen)
 
 #### Elm
 
