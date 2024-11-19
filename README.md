@@ -565,7 +565,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [illbexyz/advent-of-code-2023](https://github.com/illbexyz/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-brightgreen)
 * [slotThe/advent](https://github.com/slotThe/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--09-brightgreen)
 * [vshender/advent-of-code](https://github.com/vshender/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--03--25-brightgreen)
-* [MeanderingProgrammer/advent-of-code](https://github.com/MeanderingProgrammer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--15-brightgreen)
+* [MeanderingProgrammer/advent-of-code](https://github.com/MeanderingProgrammer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--18-brightgreen)
 
 #### PHP
 
