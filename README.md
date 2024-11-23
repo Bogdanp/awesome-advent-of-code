@@ -446,6 +446,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Python.*
 
+* [NimVek/advent-of-code]
+
 #### R
 
 *Solutions to AoC in R.*
