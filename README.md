@@ -518,6 +518,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Swift.*
 
+[gereons/AoC2024](https://github.com/gereons/AoC2024)
+
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
