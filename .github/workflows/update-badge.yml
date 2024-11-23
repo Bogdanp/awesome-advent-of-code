@@ -24,7 +24,7 @@ jobs:
         uses: ./.github/actions/update-badge
         with:
           ghToken: ${{ secrets.GITHUB_TOKEN }}
-          fileNames: README.md 2022.md 2021.md 2020.md 2019.md 2018.md
+          fileNames: README.md 2023.md 2022.md 2021.md 2020.md 2019.md 2018.md
 
       - name: Git commit and push
         run: |
