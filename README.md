@@ -123,6 +123,7 @@ in your favourite language.*
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
 * [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
+* [eduherminio/AdventOfCode.MultiYearTemplate](https://github.com/eduherminio/AdventOfCode.MultiYearTemplate) *(C#)*
 * [encse/adventofcode-template](https://github.com/encse/adventofcode-template) *(C#)*
 * [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) *(Rust)*
 * [gahjelle/template-aoc-python](https://github.com/gahjelle/template-aoc-python) *(Python)*
@@ -261,6 +262,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C#.*
 
+* [eduherminio/AoC2024]
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--23-brightgreen)
 
 
