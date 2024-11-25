@@ -348,6 +348,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Haskell.*
 
+* [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code)
+
 #### Haxe
 
 *Solutions to AoC in Haxe.*
