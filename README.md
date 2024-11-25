@@ -498,6 +498,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
+* [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code)
+
 #### Smalltalk
 
 *Solutions to AoC in Smalltalk.*
