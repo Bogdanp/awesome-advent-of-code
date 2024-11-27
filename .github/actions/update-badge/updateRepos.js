@@ -2,11 +2,11 @@ const core = require('@actions/core')
 const { setTimeout: sleep } = require('timers/promises')
 
 // limit size of each request to avoid getting timed out
-const chunkSize = 200
+const chunkSize = 100
 
 // limit request rate to one chunk per requestWaitTime (seconds) to avoid exceeding secondary rate limits
 // https://docs.github.com/en/graphql/overview/rate-limits-and-node-limits-for-the-graphql-api#secondary-rate-limits
-const requestWaitTime = 20
+const requestWaitTime = 5
 let lastRequestTime = 0
 
 // retry the request if it fails, throw if request fails requestRetries times
