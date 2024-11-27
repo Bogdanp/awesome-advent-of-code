@@ -459,6 +459,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Python.*
 
 * [NimVek/advent-of-code](https://github.com/NimVek/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--10--13-brightgreen)
+* [ndunnett/aoc]
 
 #### R
 
@@ -506,6 +507,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--25-brightgreen)
 * [connorslade/advent-of-code]
+* [ndunnett/aoc]
 
 #### Smalltalk
 
