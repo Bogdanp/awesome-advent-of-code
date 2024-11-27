@@ -272,6 +272,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C++.*
 
+* [bg2b/aoc24]
+
 #### C3
 
 *Solutions to AoC in C3.*
