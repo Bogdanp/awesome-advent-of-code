@@ -302,6 +302,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Dart.*
 
+* [julemand101/AdventOfCode2024]
+
 #### Deno
 
 *Solutions to AoC in Deno.*
