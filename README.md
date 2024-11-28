@@ -274,7 +274,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in C++.*
 
 * [bg2b/aoc24](https://github.com/bg2b/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--27-brightgreen)
-* [Sycix-HK/Advent-of-Code-2024-RPG](https://github.com/Sycix-HK/Advent-of-Code-2024-RPG)
+* [Sycix-HK/Advent-of-Code-2024-RPG]
 
 #### C3
 
