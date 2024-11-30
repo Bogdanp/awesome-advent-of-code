@@ -581,6 +581,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Zig.*
 
+* [p88h/aoc2024](https://github.com/p88h/aoc2024)
+
+
 #### Zsh
 
 *Solutions to AoC in Zsh.*
