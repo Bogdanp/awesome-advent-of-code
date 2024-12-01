@@ -441,11 +441,11 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in PHP.*
 
+* [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions)
+
 #### Perl
 
 *Solutions to AoC in Perl.*
-
-* [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions)
 
 #### Picat
 
