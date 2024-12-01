@@ -391,6 +391,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in JavaScript.*
 
+* [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code)
+
 #### jq
 
 *Solutions to AoC in jq.*
