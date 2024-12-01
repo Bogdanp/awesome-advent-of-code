@@ -335,6 +335,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in F#.*
 
+* [JannikNickel/AdventOfCode]
+
 #### Factor
 
 *Solutions to AoC in Factor.*
