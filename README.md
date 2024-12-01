@@ -157,7 +157,7 @@ in your favourite language.*
 * [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
 * [pgebert/advent-of-code-kotlin-template](https://github.com/pgebert/advent-of-code-kotlin-template) *(Kotlin)*
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) *(Python)*
-* [lcpichette/aoc-lua-template](https://github.com/lcpichette/aoc-lua-template)
+* [lcpichette/aoc-lua-template](https://github.com/lcpichette/aoc-lua-template) *(Lua)*
 
 ## Tools and Utilities
 
