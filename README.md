@@ -411,7 +411,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 #### Lua
 
-* [lcpichette/aoc-2024-lua-template](https://github.com/lcpichette/aoc-2024-lua-template/tree/main) 
+* [lcpichette/aoc-lua-template](https://github.com/lcpichette/aoc-lua-template/tree/main) 
 
 #### M4
 
