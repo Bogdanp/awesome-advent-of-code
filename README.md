@@ -485,6 +485,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in R.*
 
+* [plannapus/Advent_of_Code]
+
 #### Racket
 
 *Solutions to AoC in Racket.*
