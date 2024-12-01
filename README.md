@@ -468,6 +468,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [maread99/aoc](https://github.com/maread99/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--28-brightgreen)
 * [r0f1/adventofcode2024](https://github.com/r0f1/adventofcode2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--11--29-brightgreen)
 * [itsvncl/Advent-of-code](https://github.com/itsvncl/Advent-of-code)
+* [nitekat1124/advent-of-code-2024](https://github.com/nitekat1124/advent-of-code-2024)
 
 #### R
 
