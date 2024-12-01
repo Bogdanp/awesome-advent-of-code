@@ -414,6 +414,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Lua.*
 
+* [lcpichette/aoc-lua-template](https://github.com/lcpichette/aoc-lua-template/tree/main)
+
 #### M4
 
 *Solutions to AoC in M4.*
