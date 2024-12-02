@@ -96,6 +96,7 @@ This is a collection of awesome resources related to the yearly
     * [Unison](#unison)
     * [V](#v)
     * [VB.NET](#vbnet)
+    * [Vyxal](#vyxal)
     * [Whitespace](#whitespace)
     * [Zig](#zig)
     * [Zsh](#zsh)
@@ -629,6 +630,11 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### VB.NET
 
 *Solutions to AoC in VB.NET.*
+
+#### Vyxal
+
+*Solutions to AoC in Vyxal.*
+* [taylors-version/advent-of-code-2024-vyxal]
 
 #### Whitespace
 
