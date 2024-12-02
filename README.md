@@ -110,10 +110,13 @@ in your favourite language.*
 
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 * [Jadarma/advent-of-code-kotlin-template](https://github.com/Jadarma/advent-of-code-kotlin-template) *(Kotlin)*
+* [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
+* [KaNaDaAT/AOCSetup](https://github.com/KaNaDaAT/AOCSetup) *(C#)*
 * [Kaitachi/ChallengeStarter](https://github.com/Kaitachi/ChallengeStarter) *(Swift)*
 * [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) *(Reason and OCaml)*
 * [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart) *(Dart)*
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) *(Zig)*
+* [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) *Gleam*
 * [UncleCJ/advent-of-code](https://github.com/UncleCJ/advent-of-code) *(Jupyter Python Notebooks)*
 * [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
@@ -122,42 +125,40 @@ in your favourite language.*
 * [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js) *(JavaScript)*
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
 * [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
-* [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
+* [devries/aoc_template](https://github.com/devries/aoc_template) *(Go)*
+* [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) *(Ruby)*
 * [eduherminio/AdventOfCode.MultiYearTemplate](https://github.com/eduherminio/AdventOfCode.MultiYearTemplate) *(C#)*
+* [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
 * [encse/adventofcode-template](https://github.com/encse/adventofcode-template) *(C#)*
+* [fangyi-zhou/advent-of-code-ocaml-starter](https://github.com/fangyi-zhou/advent-of-code-ocaml-starter) *(OCaml)*
 * [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) *(Rust)*
 * [gahjelle/template-aoc-python](https://github.com/gahjelle/template-aoc-python) *(Python)*
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
+* [goosewin/aoc2024](https://github.com/goosewin/aoc2024) *(TypeScript)*
 * [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
 * [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template) *(TypeScript)*
 * [jjcomer/aoc-helper](https://github.com/jjcomer/aoc-helper) *(Clojure)*
+* [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) *(Python)*
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
 * [kotlin-hands-on/advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) *(Kotlin)*
+* [lcpichette/aoc-lua-template](https://github.com/lcpichette/aoc-lua-template) *(Lua)*
 * [mMosiur/AdventOfCodeDayTemplate](https://github.com/mMosiur/AdventOfCodeDayTemplate) *(C#)*
 * [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) *(JavaScript)*
+* [matijaoe/advent-of-code](https://github.com/matijaoe/advent-of-code)  *(TypeScript / Bun)*
 * [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter) *(Clojure)*
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) *(Elixir)*
 * [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template) *(Rust)*
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *(TypeScript)*
 * [pacso/aoc_rb](https://github.com/pacso/aoc_rb) *(Ruby)*
+* [pgebert/advent-of-code-kotlin-template](https://github.com/pgebert/advent-of-code-kotlin-template) *(Kotlin)*
+* [rvanasa/aoc-motoko-starter](https://github.com/rvanasa/aoc-motoko-starter) *(Motoko)*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) *(C#)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 * [tomfran/advent-of-code-setup](https://github.com/tomfran/advent-of-code-setup) *(Python)*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
-* [fangyi-zhou/advent-of-code-ocaml-starter](https://github.com/fangyi-zhou/advent-of-code-ocaml-starter) *(OCaml)*
-* [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
-* [rvanasa/aoc-motoko-starter](https://github.com/rvanasa/aoc-motoko-starter) *(Motoko)*
-* [matijaoe/advent-of-code](https://github.com/matijaoe/advent-of-code)  *(TypeScript / Bun)*
 * [wlchs/advent_of_code_go_template](https://github.com/wlchs/advent_of_code_go_template) *(Go)*
-* [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) *(Ruby)*
-* [KaNaDaAT/AOCSetup](https://github.com/KaNaDaAT/AOCSetup) *(C#)*
-* [devries/aoc_template](https://github.com/devries/aoc_template) *(Go)*
-* [TanklesXL/gladvent](https://github.com/TanklesXL/gladvent) *Gleam*
-* [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
-* [pgebert/advent-of-code-kotlin-template](https://github.com/pgebert/advent-of-code-kotlin-template) *(Kotlin)*
-* [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) *(Python)*
-* [goosewin/aoc2024](https://github.com/goosewin/aoc2024) *(TypeScript)*
+* [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
 
 ## Tools and Utilities
 
@@ -433,8 +434,6 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Lua
 
 *Solutions to AoC in Lua.*
-
-* [lcpichette/aoc-lua-template](https://github.com/lcpichette/aoc-lua-template) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 
 #### M4
 
