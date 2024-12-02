@@ -261,6 +261,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C.*
 
+* [piscilus/aoc24]
+
 #### C#
 
 *Solutions to AoC in C#.*
