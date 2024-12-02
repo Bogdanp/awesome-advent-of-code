@@ -157,6 +157,7 @@ in your favourite language.*
 * [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
 * [pgebert/advent-of-code-kotlin-template](https://github.com/pgebert/advent-of-code-kotlin-template) *(Kotlin)*
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) *(Python)*
+* [goosewin/aoc2024](https://github.com/goosewin/aoc2024) *(TypeScript)*
 
 ## Tools and Utilities
 
@@ -591,6 +592,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
+
+* [goosewin/aoc2024]
 
 #### TypeScript Types
 
