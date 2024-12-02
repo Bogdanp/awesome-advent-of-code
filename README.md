@@ -634,7 +634,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Vyxal
 
 *Solutions to AoC in Vyxal.*
-* [taylors-version/advent-of-code-2024-vyxal]
+* [taylors-version/advent-of-code-2024-vyxal](https://github.com/taylors-version/advent-of-code-2024-vyxal)
 
 #### Whitespace
 
