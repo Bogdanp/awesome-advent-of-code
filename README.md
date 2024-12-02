@@ -396,6 +396,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in J.*
 
+* [jitwit/aoc](https://github.com/jitwit/aoc)
+
 #### Java
 
 *Solutions to AoC in Java.*
