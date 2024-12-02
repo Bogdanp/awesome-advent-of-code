@@ -597,6 +597,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 #### TypeScript
 
+* [pstachula-dev/advent-of-code](https://github.com/pstachula-dev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/pstachula-dev/advent-of-code/main)
+
 *Solutions to AoC in TypeScript.*
 
 #### TypeScript Types
