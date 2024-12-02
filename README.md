@@ -295,6 +295,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
+* [bo-tato/advent-of-code-2024]
+
 
 #### Crystal
 
@@ -515,6 +517,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Raku
 
 *Solutions to AoC in Raku.*
+
+* [bo-tato/advent-of-code-2024]
 
 #### ReasonML
 
