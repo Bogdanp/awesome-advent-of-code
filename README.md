@@ -538,6 +538,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Racket.*
 
+* [Bogdanp/aoc2024]
+
 #### Raku
 
 *Solutions to AoC in Raku.*
@@ -559,6 +561,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Rhombus
 
 *Solutions to AoC in Rhombus.*
+
+* [samdphillips/aoc-2024]
 
 #### ROBO1
 
