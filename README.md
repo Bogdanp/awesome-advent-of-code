@@ -242,6 +242,10 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Arturo.*
 
+* [chunes3/aoc-arturo](https://github.com/chunes3/aoc-arturo)
+* [drkameleon/arturo-aoc-2024](https://github.com/drkameleon/arturo-aoc-2024)
+* [mbekkomo/aoc-2024](https://github.com/mbekkomo/aoc-2024)
+
 #### Assembly
 
 *Solutions to AoC in Assembly.*
