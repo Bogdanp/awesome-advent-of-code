@@ -360,6 +360,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Gleam.*
 
+* [scorphus/advent-of-code-2024]
+
 #### Go
 
 *Solutions to AoC in Go.*
