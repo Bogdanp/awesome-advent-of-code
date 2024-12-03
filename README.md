@@ -360,6 +360,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Gleam.*
 
+* [devries/advent_of_code_2024]
+
 #### Go
 
 *Solutions to AoC in Go.*
