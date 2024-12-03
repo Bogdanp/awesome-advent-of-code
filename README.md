@@ -612,6 +612,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Scheme.*
 
+* [filiplajszczak/advent-of-code-2024](https://github.com/filiplajszczak/advent-of-code-2024)
+
 #### Solidity
 
 *Solutions to AoC in Solidity.*
