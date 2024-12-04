@@ -157,6 +157,7 @@ in your favourite language.*
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) *(C#)*
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
 * [tomfran/advent-of-code-setup](https://github.com/tomfran/advent-of-code-setup) *(Python)*
+* [viceroypenguin/adventofcode.template](https://github.com/viceroypenguin/adventofcode.template) *(C#)*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
 * [wlchs/advent_of_code_go_template](https://github.com/wlchs/advent_of_code_go_template) *(Go)*
 * [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
