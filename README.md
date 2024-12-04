@@ -329,6 +329,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Deno.*
 
 * [mabenj/aoc-deno-ts]
+* [omnitrogen/advent-of-code-2024]
 
 #### Elixir
 
@@ -652,6 +653,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [goosewin/aoc2024](https://github.com/goosewin/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
 * [pstachula-dev/advent-of-code](https://github.com/pstachula-dev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
 * [mabenj/aoc-deno-ts]
+* [omnitrogen/advent-of-code-2024]
 
 #### TypeScript Types
 
