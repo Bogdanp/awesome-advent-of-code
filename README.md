@@ -334,6 +334,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Elixir.*
 
+* [Eoic/AdventOfCode2024](https://github.com/Eoic/AdventOfCode2024) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Eoic/AdventOfCode2024/master)
+
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
