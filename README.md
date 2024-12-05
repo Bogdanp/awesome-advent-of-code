@@ -276,6 +276,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [StynH/Advent-Of-Code2024-in-C-23](https://github.com/StynH/Advent-Of-Code2024-in-C-23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
 * [alexlnkp/aoc](https://github.com/alexlnkp/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
 * [piscilus/aoc24](https://github.com/piscilus/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
+* [happycoder74/adventofcode]
 
 #### C#
 
@@ -567,6 +568,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tomfran/aoc-24](https://github.com/tomfran/aoc-24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [vil02/adv_2024](https://github.com/vil02/adv_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
+* [happycoder74/adventofcode]
 
 #### R
 
