@@ -306,6 +306,25 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Clojure.*
 
+* [abyala/advent-2024-clojure]
+* [CarnunMP/Advent-of-Code]
+* [coyotesqrl/advent-of-code]
+* [dazld/aoc2024]
+* [erdos/advent-of-code]
+* [FelipeCortez/advent-of-code]
+* [genmeblog/advent-of-code]
+* [ghaskins/adventofcode]
+* [Maravedis/advent_code]
+* [narimiran/aoc2024]
+* [rileythomp/adventofcode]
+* [rjray/advent-2024-clojure]
+* [RyanFleck/aoc24]
+* [samcf/advent-of-code]
+* [tildedave/advent-of-code]
+* [tschady/advent-of-code]
+* [vollcheck/aoc]
+
+
 #### Common Lisp
 
 *Solutions to AoC in Common Lisp.*
