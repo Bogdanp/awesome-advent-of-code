@@ -521,6 +521,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in PHP.*
 
 * [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
+* [dannyvankooten/advent-of-code](https://github.com/dannyvankooten/advent-of-code/tree/main/2024-php)
 
 #### Perl
 
