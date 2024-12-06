@@ -748,3 +748,6 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 ### Live Streams
 
 *Folks who are live streaming their process.*
+
+* [EllieKrowzy](https://youtube.com/@elliekrowzy?si=aCqFmDbtrG0MJHj3) -- streaming AoC (C++) on youtube.
+
