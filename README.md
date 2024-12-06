@@ -289,6 +289,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [kavun/advent-of-code-2024](https://github.com/kavun/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [qazer2687/aoc24](https://github.com/qazer2687/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
+* [Tholdrim/Competitions]
 
 #### C++
 
