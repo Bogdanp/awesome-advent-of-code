@@ -127,6 +127,7 @@ in your favourite language.*
 * [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js) *(JavaScript)*
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
 * [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
+* [Viinyard/adventofcode-template](https://github.com/Viinyard/adventofcode-template) *(Java)*
 * [devries/aoc_template](https://github.com/devries/aoc_template) *(Go)*
 * [dvoiejanovic/advent-of-ruby](https://github.com/dvoiejanovic/advent-of-ruby) *(Ruby)*
 * [eduherminio/AdventOfCode.MultiYearTemplate](https://github.com/eduherminio/AdventOfCode.MultiYearTemplate) *(C#)*
