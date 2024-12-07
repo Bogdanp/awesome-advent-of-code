@@ -5,6 +5,21 @@ This is a collection of awesome resources related to the yearly
 
 [Advent of Code]: https://adventofcode.com/
 
+<hr/>
+
+<h3 align="center">Sponsors</h3>
+
+<p align="center" dir="auto">
+  <a href="https://franz.defn.io" target="_blank">
+    <img width="64px" src="media/franz-logo.png" />
+  </a>
+  <a href="https://podcatcher.defn.io" target="_blank">
+    <img width="64px" src="media/podcatcher-logo.png" />
+  </a>
+</p>
+
+<hr/>
+
 * [The Official AoC Website](https://adventofcode.com/)
 * [The AoC Subreddit](https://www.reddit.com/r/adventofcode/)
 * [Project Templates](#project-templates)
