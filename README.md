@@ -258,7 +258,6 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in AWK.*
 
 * [HansPuter/AdventOfCode](https://github.com/HansPuter/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
-
 * [oquijano/aoc_2024](https://codeberg.org/oquijano/aoc_2024) ![Last Commit on Codeberg](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 
 #### Bash
@@ -266,8 +265,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Bash.*
 
 * [aivovk/advent_of_code](https://github.com/aivovk/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
-* [tkr-sh/aoc-2024](https://github.com/tkr-sh/aoc-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [oquijano/aoc_2024](https://codeberg.org/oquijano/aoc_2024)  ![Last Commit on Codeberg](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
+* [tkr-sh/aoc-2024](https://github.com/tkr-sh/aoc-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 
 #### BQN
 
@@ -300,11 +299,11 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in C++.*
 
 * [Sycix-HK/Advent-of-Code-2024-RPG](https://github.com/Sycix-HK/Advent-of-Code-2024-RPG) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
+* [WolodiaM/aoc2024](https://gitlab.com/adventofcode6290848/aoc2024)
 * [admo/AoC](https://github.com/admo/AoC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [arcogelderblom/AdventOfCode](https://github.com/arcogelderblom/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [bg2b/aoc24](https://github.com/bg2b/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [coralkashri/AOC](https://github.com/coralkashri/AOC)
-* [WolodiaM/aoc2024](https://gitlab.com/adventofcode6290848/aoc2024)
 
 #### C3
 
@@ -466,10 +465,10 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [BobbyMcBobFace/AOC2024](https://github.com/BobbyMcBobFace/AOC2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--07-brightgreen)
 * [Topener/adventofcode](https://github.com/Topener/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
+* [chdominguez/aoc_2024](https://github.com/chdominguez/aoc_2024)
 * [derfritz/AoC24](https://github.com/derfritz/AoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [kaelri/advent-of-code](https://github.com/kaelri/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
-* [chdominguez/aoc_2024](https://github.com/chdominguez/aoc_2024)
 
 #### jq
 
@@ -527,9 +526,9 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in PHP.*
 
-* [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
-* [jvwag/jvwag/advent-of-code]
 * [dannyvankooten/advent-of-code](https://github.com/dannyvankooten/advent-of-code/tree/main/2024-php)
+* [jvwag/jvwag/advent-of-code]
+* [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
 
 #### Perl
 
@@ -562,6 +561,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [DownDev/advent-of-code](https://github.com/DownDev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [GNUSheep/AdventOfCode](https://github.com/GNUSheep/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [Grecil/ElegantAoC24](https://github.com/Grecil/ElegantAoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
+* [Kyrylo-Ktl/advent-of-code](https://github.com/Kyrylo-Ktl/advent-of-code)
 * [Lkeurentjes/Advent_of_code](https://github.com/Lkeurentjes/Advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [NimVek/advent-of-code](https://github.com/NimVek/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [Samarth-Pai/advent-of-code-2024](https://github.com/Samarth-Pai/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
@@ -586,15 +586,14 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tomfran/aoc-24](https://github.com/tomfran/aoc-24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [vil02/adv_2024](https://github.com/vil02/adv_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
-* [Kyrylo-Ktl/advent-of-code](https://github.com/Kyrylo-Ktl/advent-of-code)
 
 #### R
 
 *Solutions to AoC in R.*
 
+* [andreabarghetti/adventofcode]
 * [jrh-dev/AdventOfCode2024](https://github.com/jrh-dev/AdventOfCode2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
 * [plannapus/Advent_of_Code](https://github.com/plannapus/Advent_of_Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
-* [andreabarghetti/adventofcode]
 
 #### Racket
 
@@ -634,8 +633,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Roc.*
 
-* [ostcar/aoc2024]
 * [normanjaeckel/AdventOfCode]
+* [ostcar/aoc2024]
 
 #### Ruby
 
