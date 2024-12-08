@@ -259,7 +259,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [HansPuter/AdventOfCode](https://github.com/HansPuter/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 
-* [oquijano/aoc_2024](https://codeberg.org/oquijano/aoc_2024) ![Last Commit on Codeberg](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
+* [oquijano/aoc_2024](https://codeberg.org/oquijano/aoc_2024)
 
 #### Bash
 
@@ -267,7 +267,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [aivovk/advent_of_code](https://github.com/aivovk/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--03-brightgreen)
 * [tkr-sh/aoc-2024](https://github.com/tkr-sh/aoc-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
-* [oquijano/aoc_2024](https://codeberg.org/oquijano/aoc_2024)  ![Last Commit on Codeberg](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
+* [oquijano/aoc_2024](https://codeberg.org/oquijano/aoc_2024)
 
 #### BQN
 
