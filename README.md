@@ -125,6 +125,7 @@ This is a collection of awesome resources related to the yearly
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
 
+* [2wndrhs/aoc-2024-typescript-template](https://github.com/2wndrhs/aoc-2024-typescript-template) *(TypeScript)*
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
 * [Jadarma/advent-of-code-kotlin-template](https://github.com/Jadarma/advent-of-code-kotlin-template) *(Kotlin)*
 * [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
