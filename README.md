@@ -533,6 +533,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Nim.*
 
+* [multiplex55/AdventOfCodeNim](https://github.com/multiplex55/AdventOfCodeNim)![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
+
 #### Nushell
 
 *Solutions to AoC in Nushell.*
