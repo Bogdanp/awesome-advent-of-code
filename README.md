@@ -297,7 +297,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [StynH/Advent-Of-Code2024-in-C-23](https://github.com/StynH/Advent-Of-Code2024-in-C-23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [alexlnkp/aoc](https://github.com/alexlnkp/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
-* [piscilus/aoc24](https://github.com/piscilus/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--10-brightgreen)
+* [piscilus/aoc24](https://github.com/piscilus/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 
 #### C#
 
@@ -310,7 +310,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [grigoresc/adventofcode.2024](https://github.com/grigoresc/adventofcode.2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [kavun/advent-of-code-2024](https://github.com/kavun/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [qazer2687/aoc24](https://github.com/qazer2687/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
-* [udvlp/Advent-of-Code-2024](https://github.com/udvlp/Advent-of-Code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--08-brightgreen)
+* [udvlp/Advent-of-Code-2024](https://github.com/udvlp/Advent-of-Code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [viceroypenguin/adventofcode](https://github.com/viceroypenguin/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 
 #### C++
@@ -408,7 +408,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in F#.*
 
 * [Exaltead/AdventOfCode](https://github.com/Exaltead/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
-* [JannikNickel/AdventOfCode](https://github.com/JannikNickel/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--10-brightgreen)
+* [JannikNickel/AdventOfCode](https://github.com/JannikNickel/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [YogurtTheHorse/AdventOfCode](https://github.com/YogurtTheHorse/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 
 #### Factor
