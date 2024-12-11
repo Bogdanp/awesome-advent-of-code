@@ -179,6 +179,7 @@ in your favourite language.*
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
 * [wlchs/advent_of_code_go_template](https://github.com/wlchs/advent_of_code_go_template) *(Go)*
 * [xavdid/advent-of-code-python-template](https://github.com/xavdid/advent-of-code-python-template) *(Python)*
+* [stfufane/aoc-cpp-template](https://github.com/stfufane/aoc-cpp-template) *(C++)*
 
 ## Tools and Utilities
 
