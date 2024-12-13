@@ -357,7 +357,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
+* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 
 #### Crystal
 
@@ -609,7 +609,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 * [itsvncl/Advent-of-code](https://github.com/itsvncl/Advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
-* [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
+* [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 * [m3mory/advent-of-code](https://github.com/m3mory/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-not%20available-red)
 * [maread99/aoc](https://github.com/maread99/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 * [mebeim/aoc](https://github.com/mebeim/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
@@ -620,7 +620,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [taflaj/AdventOfCode](https://github.com/taflaj/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [tomfran/aoc-24](https://github.com/tomfran/aoc-24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
 * [vil02/adv_2024](https://github.com/vil02/adv_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
-* [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
+* [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 
 #### R
 
@@ -640,7 +640,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Raku.*
 
-* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
+* [bo-tato/advent-of-code-2024](https://github.com/bo-tato/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 
 #### ReasonML
 
@@ -711,7 +711,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 * [nikiforo/aoc24](https://github.com/nikiforo/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
 * [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
-* [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--11-brightgreen)
+* [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 
 #### Scheme
 
