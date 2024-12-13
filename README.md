@@ -113,6 +113,7 @@ This is a collection of awesome resources related to the yearly
     * [V](#v)
     * [VB.NET](#vbnet)
     * [Vyxal](#vyxal)
+    * [WebAssembly](#webassembly)
     * [Whitespace](#whitespace)
     * [Zig](#zig)
     * [Zsh](#zsh)
@@ -782,6 +783,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Vyxal.*
 
 * [taylors-version/advent-of-code-2024-vyxal](https://github.com/taylors-version/advent-of-code-2024-vyxal) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
+
+#### WebAssembly
+
+*Solutions to AoC in WebAssembly.*
+
+* [cszach/advent-of-wasm-2024]
 
 #### Whitespace
 
