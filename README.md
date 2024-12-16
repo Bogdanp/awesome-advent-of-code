@@ -239,6 +239,7 @@ in your favourite language.*
 
 *24 days of cool stuff regarding <insert-technology-here>.*
 
+* [Racket Advent Calendar 2024](https://racket.discourse.group/t/racket-advent-calendar-2024/2623#p-12128-racket-advent-calendar-2024-1)
 * [Advent of CodSpeed](https://codspeed.io/advent)
 * [Raku Advent Calendar](https://raku-advent.blog/)
 * [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
