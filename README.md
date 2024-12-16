@@ -434,11 +434,11 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [jjj120/AdventOfCode](https://github.com/jjj120/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [jmontroy90/aoc-2024-golang](https://github.com/jmontroy90/aoc-2024-golang) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
-* [metalim/adventofcode.2024.go](https://github.com/metalim/adventofcode.2024.go) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [metalim/adventofcode.2024.go](https://github.com/metalim/adventofcode.2024.go) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [pin2t/aoc2024](https://github.com/pin2t/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [rwxsb/advent-of-code-2024](https://github.com/rwxsb/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [unnerving-sprinkler/AOC24](https://github.com/unnerving-sprinkler/AOC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--06-brightgreen)
-* [wlachs/aoc24](https://github.com/wlachs/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [wlachs/aoc24](https://github.com/wlachs/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 
 #### Groovy
 
@@ -512,8 +512,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Julia.*
 
 * [DaniGlez/aoc](https://github.com/DaniGlez/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
-* [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--12-brightgreen)
-* [goggle/AdventOfCode2024.jl](https://github.com/goggle/AdventOfCode2024.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
+* [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
+* [goggle/AdventOfCode2024.jl](https://github.com/goggle/AdventOfCode2024.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 
 #### Kotlin
 
