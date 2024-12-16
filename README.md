@@ -455,7 +455,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [Ma-Fi-94/advent-of-haskell-24](https://github.com/Ma-Fi-94/advent-of-haskell-24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
-* [glguy/advent](https://github.com/glguy/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [glguy/advent](https://github.com/glguy/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 
 #### Haxe
 
@@ -483,7 +483,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Java.*
 
-* [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [Viinyard/adventofcode](https://github.com/Viinyard/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [dapitch666/AdventOfCode](https://github.com/dapitch666/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--14-brightgreen)
@@ -692,10 +692,10 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ephemient/aoc2024](https://github.com/ephemient/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [jthomaschewski/advent-of-code](https://github.com/jthomaschewski/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
 * [keelus/advent-of-code](https://github.com/keelus/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
-* [m4tx/advent-of-code](https://github.com/m4tx/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [m4tx/advent-of-code](https://github.com/m4tx/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
-* [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [syncd010/AoC2024](https://github.com/syncd010/AoC2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [tbali0524/advent-of-code-rust](https://github.com/tbali0524/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [tyomka896/advent-of-code-2024-rust](https://gitlab.com/tyomka896/advent-of-code-2024-rust) ![Last Commit on GitLab](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
@@ -713,7 +713,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [FlorianCassayre/AdventOfCode-2024](https://github.com/FlorianCassayre/AdventOfCode-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [fdlk/advent-2024](https://github.com/fdlk/advent-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [nikiforo/aoc24](https://github.com/nikiforo/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
-* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
+* [sim642/adventofcode](https://github.com/sim642/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--16-brightgreen)
 * [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 
 #### Scheme
