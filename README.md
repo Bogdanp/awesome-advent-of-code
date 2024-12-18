@@ -234,6 +234,7 @@ in your favourite language.*
 * [wang-aoc-cli](https://github.com/VitamintK/wang-aoc-cli) -- A CLI tool for automatically copying boilerplate code, downloading problem statements and inputs, parsing example inputs and solutions from problem statements, testing against example inputs, and submitting. Expects programs to use stdin and stdout to read inputs and write answers. *(Python)*
 * [esb](https://github.com/luxedo/esb) -- `esb` is a CLI tool to help us elves save Christmas for the yearly [Advent of Code](https://adventofcode.com/) events. (Thank you, [Eric! 😉](https://twitter.com/ericwastl)). This tool fetches puzzle statements and puzzle data, creates language agnostic boilerplate code, test run and submit solutions and builds dashboards. Check out an [example repo](https://github.com/luxedo/advent-of-code) created using `esb`! *(Python, Rust, Elixir, Go)*
 * [aoc_helper](https://github.com/Starwort/aoc_helper) -- `aoc_helper` is a library and command line tool which can generate templates, fetch puzzle inputs, submit solutions, and even automatically detect the tests! It also comes with a huge library of utility classes, such as fluent interfaces to iterators and lists, grids which can automatically read text, and more. *(Python)*
+* [Star Track](https://star-track.vercel.app/) -- Web-based visualization tool that generates progress tracking charts and comparisons from your private leaderboard JSON data.
 
 ## Other Advent Calendars
 
