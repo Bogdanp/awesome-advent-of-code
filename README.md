@@ -342,7 +342,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [CarnunMP/Advent-of-Code](https://github.com/CarnunMP/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--08-brightgreen)
 * [FelipeCortez/advent-of-code](https://github.com/FelipeCortez/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--21-brightgreen)
-* [Maravedis/advent_code](https://github.com/Maravedis/advent_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--21-brightgreen)
+* [Maravedis/advent_code](https://github.com/Maravedis/advent_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--22-brightgreen)
 * [RyanFleck/aoc24](https://github.com/RyanFleck/aoc24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [abyala/advent-2024-clojure](https://github.com/abyala/advent-2024-clojure) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--20-brightgreen)
 * [caseneuve/aoc2024](https://github.com/caseneuve/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
