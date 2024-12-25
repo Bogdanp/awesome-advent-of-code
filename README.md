@@ -427,7 +427,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Gleam.*
 
-* [devries/advent_of_code_2024](https://github.com/devries/advent_of_code_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--24-brightgreen)
+* [devries/advent_of_code_2024](https://github.com/devries/advent_of_code_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
 * [mgkoning/advent-of-code-2024](https://github.com/mgkoning/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
 * [scorphus/advent-of-code-2024](https://github.com/scorphus/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--15-brightgreen)
 * [zbyju/advent-of-code](https://github.com/zbyju/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--20-brightgreen)
@@ -505,7 +505,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [chdominguez/aoc_2024](https://github.com/chdominguez/aoc_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
 * [derfritz/AoC24](https://github.com/derfritz/AoC24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--14-brightgreen)
 * [kaelri/advent-of-code](https://github.com/kaelri/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--07-brightgreen)
-* [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--24-brightgreen)
+* [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
 * [rkeytacked/adventofcode-2024](https://github.com/rkeytacked/adventofcode-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
 
 #### jq
