@@ -744,6 +744,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in SQL.*
 
+* [LennartH/advent-of-code](https://github.com/LennartH/advent-of-code)
+
 #### Standard ML
 
 *Solutions to AoC in Standard ML.*
