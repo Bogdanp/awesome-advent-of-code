@@ -310,7 +310,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in C#.*
 
 * [AbundantSalmon/advent-of-code-2024](https://github.com/AbundantSalmon/advent-of-code-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--07-brightgreen)
-* [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
+* [Tholdrim/Competitions](https://github.com/Tholdrim/Competitions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--26-brightgreen)
 * [eduherminio/AoC2024](https://github.com/eduherminio/AoC2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--02-brightgreen)
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--26-brightgreen)
 * [grigoresc/adventofcode.2024](https://github.com/grigoresc/adventofcode.2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--23-brightgreen)
@@ -744,7 +744,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in SQL.*
 
-* [LennartH/advent-of-code](https://github.com/LennartH/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
+* [LennartH/advent-of-code](https://github.com/LennartH/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--26-brightgreen)
 
 #### Standard ML
 
