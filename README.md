@@ -680,7 +680,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Roc.*
 
 * [lukewilliamboswell/aoc](https://github.com/lukewilliamboswell/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--10-brightgreen)
-* [normanjaeckel/AdventOfCode](https://github.com/normanjaeckel/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--27-brightgreen)
+* [normanjaeckel/AdventOfCode](https://github.com/normanjaeckel/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--28-brightgreen)
 * [ostcar/aoc2024](https://github.com/ostcar/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--26-brightgreen)
 
 #### Ruby
@@ -762,7 +762,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Tcl/Tk*
 
-* [harkaitz/advent-of-code-2024-tcl](https://github.com/harkaitz/advent-of-code-2024-tcl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--27-brightgreen)
+* [harkaitz/advent-of-code-2024-tcl](https://github.com/harkaitz/advent-of-code-2024-tcl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--28-brightgreen)
 
 #### TypeScript
 
