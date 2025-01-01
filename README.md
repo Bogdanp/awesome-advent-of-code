@@ -635,6 +635,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tomfran/aoc-24](https://github.com/tomfran/aoc-24) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--13-brightgreen)
 * [vil02/adv_2024](https://github.com/vil02/adv_2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--30-brightgreen)
 * [vshargin/advent-of-code](https://github.com/vshargin/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--18-brightgreen)
+* [Fadi88/AoC](https://github.com/Fadi88/AoC)
 
 #### R
 
@@ -714,6 +715,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [tyomka896/advent-of-code-2024-rust](https://gitlab.com/tyomka896/advent-of-code-2024-rust) ![Last Commit on GitLab](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [yoyoyonono/aoc2024](https://github.com/yoyoyonono/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
 * [zsacul/AdventOfCode2024](https://github.com/zsacul/AdventOfCode2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
+* [Fadi88/AoC](https://github.com/Fadi88/AoC)
 
 #### Smalltalk
 
