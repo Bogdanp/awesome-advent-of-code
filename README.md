@@ -128,6 +128,7 @@ in your favourite language.*
 
 * [2wndrhs/aoc-2024-typescript-template](https://github.com/2wndrhs/aoc-2024-typescript-template) *(TypeScript)*
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
+* [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) *(Python Jupyter Notebook)*
 * [Jadarma/advent-of-code-kotlin-template](https://github.com/Jadarma/advent-of-code-kotlin-template) *(Kotlin)*
 * [JohnBjrk/adglent](https://github.com/JohnBjrk/adglent) *Gleam*
 * [KaNaDaAT/AOCSetup](https://github.com/KaNaDaAT/AOCSetup) *(C#)*
