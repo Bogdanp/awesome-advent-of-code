@@ -49,6 +49,7 @@ This is a collection of awesome resources related to the yearly
     * [Crystal](#crystal)
     * [D](#d)
     * [Dart](#dart)
+    * [Delphi](#delphi)
     * [Deno](#deno)
     * [Elixir](#elixir)
     * [Elm](#elm)
@@ -81,6 +82,7 @@ This is a collection of awesome resources related to the yearly
     * [Objective-C](#objc)
     * [OCaml](#ocaml)
     * [PHP](#php)
+    * [Pascal](#pascal)
     * [Perl](#perl)
     * [Picat](#picat)
     * [Pony](#pony)
@@ -381,6 +383,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [julemand101/AdventOfCode2024](https://github.com/julemand101/AdventOfCode2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--30-brightgreen)
 
+#### Delphi
+
+*Solutions to AoC in Delphi.*
+
+* [marvin-schultz/AoC-2024-Delphi](https://github.com/marvin-schultz/AoC-2024-Delphi) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--01--08-brightgreen)
+
 #### Deno
 
 *Solutions to AoC in Deno.*
@@ -574,6 +582,12 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [dannyvankooten/advent-of-code](https://github.com/dannyvankooten/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
 * [jvwag/advent-of-code](https://github.com/jvwag/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--10-brightgreen)
 * [tbali0524/advent-of-code-solutions](https://github.com/tbali0524/advent-of-code-solutions) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--01--01-brightgreen)
+
+#### Pascal
+
+*Solutions to AoC in Pascal.*
+
+* [marvin-schultz/AoC-2024-Delphi](https://github.com/marvin-schultz/AoC-2024-Delphi) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--01--08-brightgreen)
 
 #### Perl
 
