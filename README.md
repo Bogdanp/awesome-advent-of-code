@@ -238,6 +238,9 @@ in your favourite language.*
 * [esb](https://github.com/luxedo/esb) -- `esb` is a CLI tool to help us elves save Christmas for the yearly [Advent of Code](https://adventofcode.com/) events. (Thank you, [Eric! 😉](https://twitter.com/ericwastl)). This tool fetches puzzle statements and puzzle data, creates language agnostic boilerplate code, test run and submit solutions and builds dashboards. Check out an [example repo](https://github.com/luxedo/advent-of-code) created using `esb`! *(Python, Rust, Elixir, Go)*
 * [aoc_helper](https://github.com/Starwort/aoc_helper) -- `aoc_helper` is a library and command line tool which can generate templates, fetch puzzle inputs, submit solutions, and even automatically detect the tests! It also comes with a huge library of utility classes, such as fluent interfaces to iterators and lists, grids which can automatically read text, and more. *(Python)*
 * [Star Track](https://star-track.vercel.app/) -- Web-based visualization tool that generates progress tracking charts and comparisons from your private leaderboard JSON data.
+* [pysleigh](https://github.com/Dheebz/pysleigh) -- `pysleigh` is a lightweight python runner , collector, templater, submitter and benchmarker for the advent of code. *(Python)*
+* [rusty-sleigh](https://github.com/Dheebz/rusty-sleigh) -- `rusty-sleigh` is a lightweight rust runner , collector , template, submitter and benchmarker for the advent of code. It is a rust port for `pysleigh` *(Rust)*
+
 
 ## Other Advent Calendars
 
