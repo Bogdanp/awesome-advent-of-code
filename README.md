@@ -519,6 +519,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [kaelri/advent-of-code](https://github.com/kaelri/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--31-brightgreen)
 * [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--01--30-brightgreen)
 * [rkeytacked/adventofcode-2024](https://github.com/rkeytacked/adventofcode-2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--25-brightgreen)
+* [jorgenlt/advent-of-code](https://github.com/jorgenlt/advent-of-code)
 
 #### jq
 
