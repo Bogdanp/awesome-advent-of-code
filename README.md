@@ -558,6 +558,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in MATLAB (Octave).*
 
+* [ptoshkov/aoc-2024-octave](https://github.com/ptoshkov/aoc-2024-octave)
+
 #### Nim
 
 *Solutions to AoC in Nim.*
