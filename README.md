@@ -241,6 +241,7 @@ in your favourite language.*
 * [Star Track](https://star-track.vercel.app/) -- Web-based visualization tool that generates progress tracking charts and comparisons from your private leaderboard JSON data.
 * [pysleigh](https://github.com/Dheebz/pysleigh) -- `pysleigh` is a lightweight python runner , collector, templater, submitter and benchmarker for the advent of code. *(Python)*
 * [rusty-sleigh](https://github.com/Dheebz/rusty-sleigh) -- `rusty-sleigh` is a lightweight rust runner , collector , template, submitter and benchmarker for the advent of code. It is a rust port for `pysleigh` *(Rust)*
+* [erikw/advent-of-code-solutions](https://github.com/erikw/advent-of-code-solutions) Util scripts for creating year/day folder/files from language templates, input fetching, boiler plate file generation. See `bin/solve_day.sh` and `bin/stats.sh`.
 
 
 ## Other Advent Calendars
