@@ -420,7 +420,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Kotlin
 
 *Solutions to AoC in Kotlin.*
-* [AbundantSalmon/advent-of-code-2025]
+* [AbundantSalmon/advent-of-code-2025](https://github.com/AbundantSalmon/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--11--14-brightgreen)
 
 #### LDPL
 
