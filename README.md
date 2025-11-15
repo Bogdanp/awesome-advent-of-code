@@ -416,6 +416,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Julia
 
 *Solutions to AoC in Julia.*
+* [Titas22/AdventOfCode.jl]
 
 #### Kotlin
 
