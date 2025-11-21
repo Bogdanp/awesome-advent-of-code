@@ -530,6 +530,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Rust
 
 *Solutions to AoC in Rust.*
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust)
 
 #### Smalltalk
 
