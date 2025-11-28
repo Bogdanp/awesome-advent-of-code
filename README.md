@@ -566,6 +566,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Swift.*
 
+* [Abizern/aoc-swift-2025](https://github.com/Abizern/aoc-swift-2025)
+
 #### Tcl/Tk
 
 *Solutions to AoC in Tcl/Tk*
