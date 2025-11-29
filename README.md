@@ -421,7 +421,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Kotlin
 
 *Solutions to AoC in Kotlin.*
-* [AbundantSalmon/advent-of-code-2025](https://github.com/AbundantSalmon/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--11--14-brightgreen)
+* [AbundantSalmon/advent-of-code-2025](https://github.com/AbundantSalmon/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--11--29-brightgreen)
 
 #### LDPL
 
@@ -488,7 +488,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Python.*
 
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--11--25-brightgreen)
-* [Grecil/ElegantAoC]
+* [Grecil/ElegantAoC](https://github.com/Grecil/ElegantAoC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--11--28-brightgreen)
 
 #### R
 
