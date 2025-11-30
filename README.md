@@ -292,6 +292,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### C
 
 *Solutions to AoC in C.*
+* [piscilus/aoc25](https://codeberg.org/piscilus/aoc25)
 
 #### C#
 
