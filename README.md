@@ -448,6 +448,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Nim.*
 
+* [janakali/aoc25-nim](https://codeberg.org/janakali/aoc25-nim)
+
 #### Nushell
 
 *Solutions to AoC in Nushell.*
