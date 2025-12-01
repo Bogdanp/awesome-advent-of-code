@@ -302,7 +302,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### C++
 
 *Solutions to AoC in C++.*
-* [bg2b/aoc25](https://github.com/bg2b/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--11--30-brightgreen)
+* [bg2b/aoc25](https://github.com/bg2b/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 
 #### C3
 
