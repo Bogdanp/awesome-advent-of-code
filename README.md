@@ -498,6 +498,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [nitekat1124/advent-of-code-2025](https://github.com/nitekat1124/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 * [Samarth-Pai/advent-of-code-2025](https://github.com/Samarth-Pai/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 * [vil02/adv_2025](https://github.com/vil02/adv_2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
+* [AmericanSpirit38/Advent_of_code_2025] ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 
 #### R
 
