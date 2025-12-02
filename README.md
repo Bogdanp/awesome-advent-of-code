@@ -460,6 +460,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Nushell
 
 *Solutions to AoC in Nushell.*
+* [tkr-sh/advent-of-code-2025-nushell]
 
 #### Objective-C
 
