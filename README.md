@@ -368,6 +368,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Gleam.*
 
+* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/lboshuizen/aoc25)
+
 #### Go
 
 *Solutions to AoC in Go.*
