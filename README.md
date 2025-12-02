@@ -292,11 +292,13 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### C
 
 *Solutions to AoC in C.*
+
 * [piscilus/aoc25](https://codeberg.org/piscilus/aoc25)
 
 #### C#
 
 *Solutions to AoC in C#.*
+
 * [CameronAavik/adventofcode](https://github.com/CameronAavik/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 * [ClxS/Advent-of-Code-2025](https://github.com/ClxS/Advent-of-Code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
@@ -307,6 +309,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### C++
 
 *Solutions to AoC in C++.*
+
 * [bg2b/aoc25](https://github.com/bg2b/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 
 #### C3
@@ -378,6 +381,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Go
 
 *Solutions to AoC in Go.*
+
 * [pin2t/aoc2025](https://github.com/pin2t/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 
 #### Groovy
@@ -391,6 +395,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Haskell
 
 *Solutions to AoC in Haskell.*
+
 * [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 
 #### Haxe
@@ -416,6 +421,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Java
 
 *Solutions to AoC in Java.*
+
 * [nicomyerr/advent-of-code]
 
 #### JavaScript
@@ -431,11 +437,13 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Julia
 
 *Solutions to AoC in Julia.*
+
 * [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
 
 #### Kotlin
 
 *Solutions to AoC in Kotlin.*
+
 * [AbundantSalmon/advent-of-code-2025](https://github.com/AbundantSalmon/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
 
 #### LDPL
@@ -463,6 +471,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Nushell
 
 *Solutions to AoC in Nushell.*
+
 * [tkr-sh/advent-of-code-2025-nushell]
 
 #### Objective-C
