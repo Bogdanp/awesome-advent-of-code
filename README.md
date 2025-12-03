@@ -377,6 +377,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Gleam.*
 
 * [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
+* [hunkyjimpjorps/AdventOfCode]
 
 #### Go
 
@@ -535,7 +536,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 #### Racket
 
-*Solutions to AoC in Racket.*
+* [hunkyjimpjorps/AdventOfCode]
 
 #### Raku
 
