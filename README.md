@@ -265,6 +265,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Ada.*
 
+* [calebstein1/Advent-of-Code-2025]
+
 #### APL
 
 *Solutions to AoC in APL.*
