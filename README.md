@@ -265,7 +265,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Ada.*
 
-* [calebstein1/Advent-of-Code-2025]
+* [calebstein1/Advent-of-Code-2025](https://github.com/calebstein1/Advent-of-Code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
 #### APL
 
@@ -295,7 +295,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C.*
 
-* [ArjArav98/AdventOfCode](https://github.com/ArjArav98/AdventOfCode)
+* [ArjArav98/AdventOfCode](https://github.com/ArjArav98/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [piscilus/aoc25](https://codeberg.org/piscilus/aoc25)
 
 #### C#
@@ -328,7 +328,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [deril/advent-of-code]
+* [deril/advent-of-code](https://github.com/deril/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
 
 #### Crystal
 
@@ -374,7 +374,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in F#.*
 
-* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
+* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
 #### Factor
 
@@ -406,7 +406,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Haskell.*
 
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
-* [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
+* [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
 #### Haxe
 
@@ -539,7 +539,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [nitekat1124/advent-of-code-2025](https://github.com/nitekat1124/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [Prabhuomkar9/adventofcode](https://github.com/Prabhuomkar9/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [Samarth-Pai/advent-of-code-2025](https://github.com/Samarth-Pai/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
-* [TurtleSmoke/Advent-of-Code]
+* [TurtleSmoke/Advent-of-Code](https://github.com/TurtleSmoke/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [vil02/adv_2025](https://github.com/vil02/adv_2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
 #### R
@@ -586,14 +586,14 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [akaritakai/AdventOfCode2025](https://github.com/akaritakai/AdventOfCode2025)
+* [akaritakai/AdventOfCode2025](https://github.com/akaritakai/AdventOfCode2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
-* [happycoder74/adventofcode]
+* [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
 * [Lorin-Lange/advent-of-code](https://github.com/Lorin-Lange/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
-* [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--01-brightgreen)
-* [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
+* [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
+* [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [tbali0524/advent-of-code-rust](https://github.com/tbali0524/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
 * [zsacul/AdventOfCode2025](https://github.com/zsacul/AdventOfCode2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
@@ -636,13 +636,13 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Tcl/Tk*
 
-* [harkaitz/advent-of-code-2025-tcl](https://github.com/harkaitz/advent-of-code-2025-tcl)
+* [harkaitz/advent-of-code-2025-tcl](https://github.com/harkaitz/advent-of-code-2025-tcl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
 #### TypeScript
 
 *Solutions to AoC in TypeScript.*
 
-* [Jiralysm/advent-of-code-25](https://github.com/Jiralysm/advent-of-code-25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--02-brightgreen)
+* [Jiralysm/advent-of-code-25](https://github.com/Jiralysm/advent-of-code-25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 * [smichniak/adventOfCode](https://github.com/smichniak/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
 
 #### TypeScript Types
