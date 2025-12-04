@@ -480,6 +480,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Nim.*
 
 * [janakali/aoc25-nim](https://codeberg.org/janakali/aoc25-nim)
+* [DestyNova/advent_of_code_2025](https://codeberg.org/DestyNova/advent_of_code_2025)
 
 #### Nushell
 
@@ -512,6 +513,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Picat
 
 *Solutions to AoC in Picat.*
+
+* [DestyNova/advent_of_code_2025](https://codeberg.org/DestyNova/advent_of_code_2025)
 
 #### Pony
 
