@@ -445,7 +445,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in JavaScript.*
 
-* [EduardaSRBastos/advent-of-code-2025](https://github.com/EduardaSRBastos/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
+* [EduardaSRBastos/advent-of-code-2025](https://github.com/EduardaSRBastos/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
 
 #### jq
 
@@ -642,7 +642,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Swift.*
 
-* [Abizern/aoc-swift-2025](https://github.com/Abizern/aoc-swift-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
+* [Abizern/aoc-swift-2025](https://github.com/Abizern/aoc-swift-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
 * [gereon/AoC2025](https://codeberg.org/gereon/AoC2025)
 
 #### Tcl/Tk
