@@ -295,7 +295,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in C.*
 
-* [ArjArav98/AdventOfCode](https://github.com/ArjArav98/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--03-brightgreen)
+* [ArjArav98/AdventOfCode](https://github.com/ArjArav98/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
 * [piscilus/aoc25](https://codeberg.org/piscilus/aoc25)
 
 #### C#
