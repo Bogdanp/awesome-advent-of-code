@@ -491,7 +491,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Nushell.*
 
-* [tkr-sh/advent-of-code-2025-nushell](https://github.com/tkr-sh/advent-of-code-2025-nushell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--04-brightgreen)
+* [tkr-sh/advent-of-code-2025-nushell](https://github.com/tkr-sh/advent-of-code-2025-nushell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--05-brightgreen)
 
 #### Objective-C
 
