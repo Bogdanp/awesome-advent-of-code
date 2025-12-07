@@ -333,7 +333,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Common Lisp.*
 
-* [deril/advent-of-code](https://github.com/deril/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--06-brightgreen)
+* [deril/advent-of-code](https://github.com/deril/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
 
 #### Crystal
 
@@ -400,7 +400,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [believer/advent-of-code](https://github.com/believer/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
 * [pin2t/aoc2025](https://github.com/pin2t/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
-* [tiennm99/adventofcode](https://github.com/tiennm99/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--06-brightgreen)
+* [tiennm99/adventofcode](https://github.com/tiennm99/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
 
 #### Groovy
 
