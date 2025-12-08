@@ -381,7 +381,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in F#.*
 
-* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
+* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
 
 #### Factor
 
@@ -392,7 +392,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Gleam.*
 
 * [hunkyjimpjorps/AdventOfCode](https://github.com/hunkyjimpjorps/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
-* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
+* [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
 
 #### Go
 
