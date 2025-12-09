@@ -347,7 +347,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Dart.*
 
-* [julemand101/AdventOfCode2025](https://github.com/julemand101/AdventOfCode2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
+* [julemand101/AdventOfCode2025](https://github.com/julemand101/AdventOfCode2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--09-brightgreen)
 
 #### Delphi
 
