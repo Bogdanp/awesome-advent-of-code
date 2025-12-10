@@ -647,7 +647,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Swift.*
 
-* [Abizern/aoc-swift-2025](https://github.com/Abizern/aoc-swift-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--09-brightgreen)
+* [Abizern/aoc-swift-2025](https://github.com/Abizern/aoc-swift-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--10-brightgreen)
 * [gereon/AoC2025](https://codeberg.org/gereon/AoC2025)
 
 #### Tcl/Tk
@@ -661,7 +661,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in TypeScript.*
 
 * [Jiralysm/advent-of-code-25](https://github.com/Jiralysm/advent-of-code-25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--10-brightgreen)
-* [smichniak/adventOfCode](https://github.com/smichniak/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
+* [smichniak/adventOfCode](https://github.com/smichniak/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--10-brightgreen)
 
 #### TypeScript Types
 
