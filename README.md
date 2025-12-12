@@ -505,6 +505,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### OCaml
 
 *Solutions to AoC in OCaml.*
+* [Amr-Shams/advent-of-code-solutions-2025] (https://github.com/Amr-Shams/aoc2025.git) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--06-brightgreen)
 
 #### PHP
 
