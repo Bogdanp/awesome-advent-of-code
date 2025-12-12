@@ -551,7 +551,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--09-brightgreen)
 * [maread99/aoc](https://github.com/maread99/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
-* [nitekat1124/advent-of-code-2025](https://github.com/nitekat1124/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
+* [nitekat1124/advent-of-code-2025](https://github.com/nitekat1124/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [Prabhuomkar9/adventofcode](https://github.com/Prabhuomkar9/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [Samarth-Pai/advent-of-code-2025](https://github.com/Samarth-Pai/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [TurtleSmoke/Advent-of-Code](https://github.com/TurtleSmoke/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
