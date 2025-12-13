@@ -660,7 +660,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in TypeScript.*
 
-* [uhkey/advent-of-code-25](https://github.com/uhkey/advent-of-code-25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
+* [uhKieran/advent-of-code-25](https://github.com/uhKieran/advent-of-code-25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [smichniak/adventOfCode](https://github.com/smichniak/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 
 #### TypeScript Types
