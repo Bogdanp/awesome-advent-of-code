@@ -365,6 +365,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Elixir.*
 
+* [pivoshenko/adventofcode](https://github.com/pivoshenko/adventofcode)
+
 #### Elm
 
 *Solutions to AoC in Elm and Literate Elm.*
