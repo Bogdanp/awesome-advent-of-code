@@ -282,6 +282,8 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### AWK
 
 *Solutions to AoC in AWK.*
+* [oquijano/aoc_2025](https://codeberg.org/oquijano/aoc_2025)
+          
 
 #### Bash
 
