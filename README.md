@@ -338,7 +338,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Common Lisp.*
 
 * [deril/advent-of-code](https://github.com/deril/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
-* [ynadji/advent]
+* [ynadji/advent](https://github.com/ynadji/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 
 #### Crystal
 
@@ -517,7 +517,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in OCaml.*
 
-* [Amr-Shams/advent-of-code-solutions-2025](https://github.com/Amr-Shams/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-not%20available-red)
+* [Amr-Shams/advent-of-code-solutions-2025](https://github.com/Amr-Shams/advent-of-code-solutions-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-not%20available-red)
 
 #### PHP
 
@@ -579,7 +579,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [JeanDupin/AOC](https://github.com/JeanDupin/AOC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [plannapus/Advent_of_Code](https://github.com/plannapus/Advent_of_Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--05-brightgreen)
-* [TractorTom/Advent-of-Code](https://github.com/TractorTom/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--05-brightgreen)
+* [TractorTom/Advent-of-Code](https://github.com/TractorTom/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--16-brightgreen)
 
 #### Racket
 
