@@ -459,7 +459,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in JavaScript.*
 
 * [EduardaSRBastos/advent-of-code-2025](https://github.com/EduardaSRBastos/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--08-brightgreen)
-* [rkeytacked/adventofcode-2025](https://github.com/rkeytacked/adventofcode-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--09-brightgreen)
+* [rkeytacked/adventofcode-2025](https://github.com/rkeytacked/adventofcode-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--20-brightgreen)
 
 #### jq
 
