@@ -715,7 +715,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Zig.*
 
 * [JacobBanta/advent-of-code-2025](https://github.com/JacobBanta/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--07-brightgreen)
-* [Totto16/AOC-2025](https://github.com/Totto16/AOC-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--22-brightgreen)
+* [Totto16/AOC-2025](https://github.com/Totto16/AOC-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--24-brightgreen)
 
 #### Zsh
 
