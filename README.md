@@ -579,7 +579,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [JeanDupin/AOC](https://github.com/JeanDupin/AOC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [plannapus/Advent_of_Code](https://github.com/plannapus/Advent_of_Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--05-brightgreen)
-* [TractorTom/Advent-of-Code](https://github.com/TractorTom/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--20-brightgreen)
+* [TractorTom/Advent-of-Code](https://github.com/TractorTom/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--27-brightgreen)
 
 #### Racket
 
