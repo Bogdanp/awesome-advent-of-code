@@ -627,7 +627,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [happycoder74/adventofcode](https://github.com/happycoder74/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
-* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--26-brightgreen)
+* [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--28-brightgreen)
 * [MrRobb/advent-of-code-2025](https://github.com/MrRobb/advent-of-code-2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--14-brightgreen)
 * [rene-d/advent-of-rust](https://github.com/rene-d/advent-of-rust) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--28-brightgreen)
