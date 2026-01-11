@@ -561,6 +561,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [AbdeI1/AdventOfCode](https://github.com/AbdeI1/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [AmericanSpirit38/Advent_of_code_2025](https://github.com/AmericanSpirit38/Advent_of_code_2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--15-brightgreen)
+* [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code)
 * [ephemient/aoc2025](https://github.com/ephemient/aoc2025) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--11-brightgreen)
 * [Grecil/ElegantAoC](https://github.com/Grecil/ElegantAoC) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
 * [jromero132/advent-of-code](https://github.com/jromero132/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--17-brightgreen)
