@@ -401,6 +401,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [hunkyjimpjorps/AdventOfCode](https://github.com/hunkyjimpjorps/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--18-brightgreen)
 * [lboshuizen/aoc25](https://github.com/lboshuizen/aoc25) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2025--12--12-brightgreen)
+* [kriogenia/advent_of_code](https://github.com/kriogenia/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%commit-2026--02--01-brightgreen)
 
 #### Go
 
