@@ -278,6 +278,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 #### Assembly
 
 *Solutions to AoC in Assembly.*
+* [hachem/aoc](https://git.hachem.wtf/aoc.git)
 
 #### AWK
 
