@@ -252,6 +252,11 @@ in your favourite language.*
 * [Advent of CodSpeed](https://codspeed.io/advent)
 * [Raku Advent Calendar](https://raku-advent.blog/)
 * [QEMU Advent Calendar](https://www.qemu-advent-calendar.org/)
+* [AdventJS](https://adventjs.dev/)
+* [Advent of Sysadmin](https://sadservers.com/advent)
+* [Tiny Code Christmas](https://tcc.lovebyte.party/)
+* [Hanukkah of Data](https://hanukkah.bluebird.sh/)
+* [Breakpoint: coding advent calendars and yearly events](https://breakpoint.games/seasonal)
 
 ## 2025
 
